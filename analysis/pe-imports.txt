@@ -1,0 +1,27 @@
+Machine: 0x8664 Subsystem: 2
+Sections: ['.text', '.rdata', '.data', '.pdata', '.rsrc', '.reloc']
+Timestamp: 1750396018
+
+=== IMPORTS ===
+COMCTL32.dll
+   ImageList_GetIconSize, ImageList_DrawEx, _TrackMouseEvent, InitCommonControlsEx
+WS2_32.dll
+   WSAGetLastError, WSACleanup, closesocket, send, recv, connect, WSAAsyncSelect, setsockopt, socket, WSAStartup, shutdown, listen, bind, getpeername, ntohs, getsockname, accept, inet_addr, htons, gethostbyname
+SHLWAPI.dll
+   SHRegGetUSValueW, PathIsRootW, PathCombineW, PathRemoveFileSpecW
+KERNEL32.dll
+   GetSystemTime, FreeResource, LockResource, LoadResource, SizeofResource, FindResourceW, GetSystemDefaultLangID, LoadLibraryA, CopyFileW, TerminateProcess, OpenProcess, CreateMutexW, SetLastError, GetStartupInfoW, HeapAlloc, GetProcessHeap, HeapFree, VirtualAlloc, VirtualFree, QueryDosDeviceW, SetErrorMode, DeleteFileW, RemoveDirectoryW, MoveFileW, MoveFileExW, CreateDirectoryW, GetFileAttributesW, GlobalFree, GlobalUnlock, GlobalLock, GlobalAlloc, GetComputerNameW, GetVolumeInformationW, GetDiskFreeSpaceW, GetFullPathNameW, GetFileSize, FindFirstFileW, FindNextFileW, GetDriveTypeW, GetThreadPriority, CreateEventW, GetProcAddress, FreeLibrary, GetModuleFileNameW, FileTimeToSystemTime, GetCurrentDirectoryW, GetFileAttributesExW, LocalFileTimeToFileTime, SystemTimeToFileTime, FileTimeToLocalFileTime, SystemTimeToTzSpecificLocalTime, __C_specific_handler, WaitForMultipleObjects, GetSystemDirectoryW, LoadLibraryW, ExpandEnvironmentStringsW, GetSystemInfo, GetVersionExA, LocalFree, LocalAlloc
+   ... +93 more
+USER32.dll
+   IsWindowVisible, SetCursor, SetCapture, ChangeClipboardChain, DrawEdge, DrawFrameControl, EqualRect, GetSubMenu, GetMenu, SetClipboardViewer, EnumWindows, ActivateKeyboardLayout, LoadIconW, IsDlgButtonChecked, SetScrollInfo, UpdateWindow, ScrollWindowEx, SetDlgItemInt, GetMenuState, RemoveMenu, GetMenuItemID, GetMenuDefaultItem, EnableMenuItem, AdjustWindowRect, GetSysColorBrush, OffsetRect, InvalidateRgn, MessageBeep, SetCursorPos, GetDlgItemInt, GetDlgCtrlID, SendDlgItemMessageW, GetDesktopWindow, ValidateRect, CharLowerW, CharUpperW, CreateIconIndirect, UnregisterHotKey, PostQuitMessage, IsClipboardFormatAvailable, OpenIcon, GetForegroundWindow, AttachThreadInput, SetActiveWindow, BringWindowToTop, EnumChildWindows, CheckDlgButton, GetMenuItemInfoW, GetKeyboardLayoutList, LoadCursorW, GetScrollInfo, InvalidateRect, ClientToScreen, ScreenToClient, ShowWindow, IsIconic, GetWindowPlacement, IsZoomed, GetWindowTextLengthW, GetWindowTextW
+   ... +94 more
+GDI32.dll
+   GetDeviceCaps, GetDIBits, SelectClipRgn, TextOutW, SetStretchBltMode, SetTextAlign, CreateCompatibleBitmap, OffsetClipRgn, OffsetRgn, CombineRgn, GetDCOrgEx, GetRandomRgn, EnumFontFamiliesExW, GetTextAlign, CreateCompatibleDC, BitBlt, StretchDIBits, GetRegionData, ExtCreateRegion, GetObjectW, CreateFontIndirectW, GetStockObject, GetNearestColor, CreateSolidBrush, CreateRectRgn, CreateDIBSection, GetCurrentObject, ExcludeClipRect, RectVisible, GetTextExtentExPointW, GetTextExtentPoint32W, DeleteDC, SetBkMode, CreateBitmapIndirect, CreatePatternBrush, SetBrushOrgEx, SetBkColor, SetTextColor, PatBlt, SelectObject, GetTextMetricsW, StretchBlt, DeleteObject
+comdlg32.dll
+   GetOpenFileNameW, GetSaveFileNameW, ChooseColorW, CommDlgExtendedError
+ADVAPI32.dll
+   RegisterServiceCtrlHandlerW, StartServiceCtrlDispatcherW, DeleteService, CloseServiceHandle, RegOpenKeyA, RegQueryValueW, InitializeSecurityDescriptor, SetSecurityDescriptorDacl, QueryServiceConfigW, RegDeleteValueW, RegSetValueExW, RegQueryValueExW, RegCreateKeyExW, RegOpenKeyExW, RegEnumKeyW, RegCloseKey, RegDeleteKeyW, GetUserNameW, QueryServiceStatusEx, RegisterEventSourceW, ReportEventW, DeregisterEventSource, CreateServiceW, StartServiceW, OpenSCManagerW, OpenServiceW, ControlService, SetServiceStatus
+SHELL32.dll
+   DragFinish, DragAcceptFiles, Shell_NotifyIconW, SHBrowseForFolderW, SHGetFileInfoW, DragQueryFileW, SHGetSpecialFolderLocation, ord16, SHFileOperationW, ShellExecuteExW, SHGetDesktopFolder, SHGetPathFromIDListW, SHChangeNotify, DragQueryPoint
+ole32.dll
+   CoTaskMemFree, OleUninitialize, OleInitialize, CoCreateInstance, CoInitializeEx, CoUninitialize, CLSIDFromString, CreateStreamOnHGlobal, CoTaskMemAlloc, RevokeDragDrop, DoDragDrop, RegisterDragDrop, ReleaseStgMedium

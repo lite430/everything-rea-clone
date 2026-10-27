@@ -1,0 +1,30 @@
+# --- REA analysis engines (Ghidra 12.1.4 + JDK 21, ~2 GB) ---
+# re-download per README "需要重新运行 REA 分析时" section
+tools/*.zip
+tools/jdk21/
+tools/ghidra_12.1.4_PUBLIC/
+
+# --- Electron / node ---
+client/node_modules/
+client/preview.png
+client/window-state.json
+client/electron.log
+
+# --- voidtools sample binaries ---
+# Everything is freeware from voidtools.com; binaries are not redistributed
+# here. Get the exact analyzed build per samples/README.md
+samples/*.zip
+samples/everything-x64/
+
+# --- runtime junk ---
+__pycache__/
+*.pyc
+server.log
+server.pid
+analysis/*.err
+
+# --- Ghidra decompilation dumps of everything.exe ---
+# regenerable with the documented `rea decompile` commands; raw bulk
+# decompilation of the proprietary binary is not redistributed
+analysis/rea-decompile-*.md
+analysis/lng_strings.txt

@@ -1,0 +1,6 @@
+C:\workspace\zcode-workspace\everything-rea-clone\README.md
+C:\workspace\zcode-workspace\everything-rea-clone\analysis\FEATURES.md
+C:\workspace\zcode-workspace\everything-rea-clone\everything.py
+C:\workspace\zcode-workspace\everything-rea-clone\engine\ntfs.py
+C:\workspace\zcode-workspace\everything-rea-clone\engine\query.py
+C:\workspace\zcode-workspace\everything-rea-clone\app\index.html

@@ -1,0 +1,8008 @@
+     
+      
+        
+            
+              
+                
+                          
+  !!""##$$%%&&''(())))********++,,,,,,,,--........//00000000112222222233445566777777778899999999::;;;;;;;;<<========>>??@@AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQRR
+  contributors may be used to endorse or promote products derived from
+  documentation and/or other materials provided with the distribution.
+  notice, this list of conditions and the following disclaimer in the
+  this list of conditions and the following disclaimer.
+  this software without specific prior written permission.
+ !"#$
+ !"#$%%%%%%&&'()*+%%%%%%&&'()*+,,,,,,--./012RRRRRRRRRRRR3345566789::::;<=<=>?>@ABC>@ABCRRRRRDEFGHIJKLMNO
+ !"#$%&'()))*+,-./0123456789:;<=>?@ABBCDEFGHIGJKLLBMBBNOPQRSTUVWXYZ[\]^G___________________________________________________`___________________________________________________________________________________________________________________________________________________________________abccccccccdeefghijklmnopqrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstyzzzzzzzzzzzzzzzz{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{__|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ " $ / 2 5 9 : > _ p q t u v w x y z { | } ~ 
+ %s %s
+ (%s)
+ (Bird)
+ + + . . 
+ -app-data
+ -config "%s"
+ -create-usn-journal "%s" %d %d
+ -delete-usn-journal "%s"
+ -disable-run-as-admin
+ -enable-run-as-admin
+ -install-desktop-shortcut
+ -install-efu-association
+ -install-folder-context-menu
+ -install-run-on-system-startup
+ -install-service
+ -install-start-menu-shortcuts
+ -install-url-protocol
+ -instance "%s"
+ -no-app-data
+ -svc-pipe-name "%s"
+ -svc-security-descriptor "%s"
+ -uninstall-desktop-shortcut
+ -uninstall-efu-association
+ -uninstall-folder-context-menu
+ -uninstall-run-on-system-startup
+ -uninstall-service
+ -uninstall-start-menu-shortcuts
+ -uninstall-url-protocol
+ 2025 voidtools
+ ;\$8u
+ ;} r
+ ATTRIBUTES %u
+ A\^]
+ A\_]
+ A\_^
+ A]A\_
+ A]A\_H
+ A]^[
+ A^A\^
+ A^A\_
+ A^A]A\
+ A^A]A\_^
+ A^A]A\_^][
+ A^_^][
+ A_A^A\_]
+ A_A^A]
+ A_A^A]A\_
+ A_A^A]A\_^]
+ D8+H
+ D;g0
+ DATE_CREATED %I64u
+ DATE_MODIFIED %I64u
+ DATE_RECENTLY_CHANGED %I64u
+ EVERYTHING
+ FILE_LIST_FILENAME %s
+ Hc\$`
+ LcY$I
+ Lct$`Lcd$hHc\$p3
+ MDTM
+ MLSD
+ MLST type*;size*;modify*;
+ PATH %s
+ REST STREAM
+ RESULT_COUNT %u
+ SIZE
+ SIZE %I64u
+ Space
+ UTF8
+ type=%s;
+ uFA+
+ w qh
+ z{FH
+!! !!!
+!!! !
+!!! !!!
+!$!&!(!*!+!,!-!/!0!1!2!3!4!5!6!7!8!9!<!=!>!?!@!E!F!G!H!I!`!a!b!c!d!e!f!g!h!i!j!k!l!m!n!o!p!t!y!|!}!~!
+!$!&!(!*!+!,!-!/!0!1!3!4!5!6!7!8!9!<!=!>!?!@!E!F!G!H!I!`!d!i!l!m!n!o!p!t!y!|!}!~!
+!9y0t
+!Contributors
+!Created by
+!This program cannot be run in DOS mode.
+" /><input type="hidden" name="ascending" value="
+" alt="">
+" autofocus>
+" class="lineshadow" height="1"></td></tr>
+" value="
+"#"%"<"C"E"H"=
+"#124:"
+"#34:"
+"$"&"A"D"G"I"`"b"m"n"o"p"q"t"u"x"y"
+"%s" "%%1"
+"%s" -client-svc
+"%s" -edit "%%1"
+"%s" -path "%%1"
+"%s" -path "%%V"
+"%s" -startup
+"%s" -svc
+"%s" -url "%%1"
+")#*#`$a$b$c$d$e$f$g$h$
+"9<x:
+"></a>
+"><img class="icon" src="/updir.gif" alt="">
+"Everything" requires administrative privileges to index NTFS volumes. Run as administrator or install the Everything service to index NTFS volumes.
+"date_modified":"
+"got preview handler from sfa
+"name":"
+"path":"
+"results":[
+"size":"
+"totalResults":%u,
+"type":"%s",
+"uiL;C
+"upL;C
+"|"}"
+#########
+######### !"
+############
+#<n>:
+#x<n>:
+$    End of filename
+$$   A single literal $
+$$ = $
+$(   A single literal (
+$( = (
+$)   A single literal )
+$) = )
+$0,1,2,3,4,5,6,7,8,9,:,;,<,=,>,?,@,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,[,\,],^,a,k
+$L92u
+$exec("%1")
+$exec("%SystemRoot%\explorer.exe" /n,/e,"%1")
+$exec("%SystemRoot%\explorer.exe" /n,/e,/select,"%1")
+$exec(application parameters) execute application with parameters.
+$lowercase(
+$lowercase(x)   Convert x to lowercase
+$namepart(filename) returns the name part of the specified file or folder.
+$openpath("%1")
+$openpath(filename) open the folder containing filename and select filename.
+$parent(filename) returns the parent folder of the specified file or folder.
+$pathpart(
+$pathpart(filename) returns the parent folder of the specified file or folder.
+$pathpart(x)   Path part of x
+$s?{$s - }$t
+$s?{$s - }$t$i?{ ($i)}
+$strippath(
+$strippath(x)   Remove the path part of x
+$striproot(
+$striproot(x)   Remove the root of x
+$t$i?{ ($i)}
+$titlecase(
+$titlecase(x)   Convert x to titlecase
+$uppercase(
+$uppercase(x)   Convert x to uppercase
+%%   A single literal %
+%%   Match a single literal %
+%%%d   Match any number of characters and save the match in variable %d
+%%%d   replace with saved match in variable %d
+%02d/%d/%d
+%02d:%02d
+%04d-%02d-%02d %02d:%02d:%02d
+%04d-%02d-%02d %02d:%02d:%02d.%03d: 
+%08x %t
+%1 = selected filename.
+%I64d
+%I64u
+%I64u %I64u
+%I64u %s
+%I64u%S%02I64u %s
+%I64u%S%I64u %s
+%I64u: BAD record length %d < %d
+%Q[Ab[
+%S %S
+%S GetVolumeNameForVolumeMountPoint %S
+%S GetVolumeNameForVolumeMountPoint %S %d
+%S GetVolumeNameForVolumeMountPoint FAILED %d
+%S is ntfs
+%S is refs
+%cr--r--r-- 1 ftp ftp %13I64u %s %02d %s %s
+%d %d
+%d %p %p
+%d %s
+%d ntfs monitors started
+%d refs monitors started
+%d unprocessed MFT data runs
+%d.%d.%d.%d
+%d.%d.%d.%d%s (%s)%s
+%d.html
+%d/%02d/%d
+%d: add ntfs monitor %s
+%d: add refs monitor %s
+%d: disconnected.
+%d: got command %d
+%d: invalid state for ntfs enum mft
+%d: invalid state for refs enum mft
+%f seconds
+%s %d.%d: flags %02x
+%s %d.%d: frame flags %04x
+%s %s
+%s (%s)
+%s (*.*)%c*.*%c%c
+%s (*.csv)%c*.csv%c%s (*.*)%c*.*%c%c
+%s (*.csv)%c*.csv%c%s (*.efu)%c*.efu%c%s (*.txt)%c*.txt%c%s (*.*)%c*.*%c%c
+%s (*.efu)%c*.efu%c%s (*.*)%c*.*%c%c
+%s (*.txt)%c*.txt%c%s (*.*)%c*.*%c%c
+%s (Ascending)
+%s (Descending)
+%s - %s
+%s [Rescanning]
+%s is not a valid file list.
+%s is readonly, abort config save
+%s not found.
+%s objects
+%s objects selected
+%s of %s objects selected
+%s result
+%s results
+%s to %s of %s results
+%s | %s
+%s | %s | %s
+%s%T%s
+%s(%d): %s(): Fatal error: %s
+%s, %02d %s %d %02d:%02d:%02d GMT
+%s, 1
+%s.lnk
+%s.tmp
+%s: got thumbnail %d x %d, Bits: %d
+%s=#%06x
+%s=%d
+%s=%s
+%s=0x%08x
+%s\%s\AppData\Local\Everything
+%s\%s\Local Settings\Application Data\Everything
+%s\ShellEx\{8895b1c6-b41f-4c1c-a562-0d564250836f}
+%s_%s
+%s_%s=
+%s_%s=%s
+%s_%s_%s_keys
+%s_%s_keys
+%systemroot%
+&!*!+!2!`!a!b!c!d!e!f!g!h!i!j!k!l!m!n!o!
+&About Everything File List Editor
+&About Everything...
+&Add to Bookmarks...
+&Add to Filters...
+&Add...
+&Advanced Search...
+&Allow file download
+&Alternate row color
+&Always
+&Always show search suggestions
+&Ascending
+&Auto Fit
+&Back
+&Background color:
+&Bookmarks
+&Browse...
+&Clear Now
+&Close
+&Close window on execute
+&Command Line Options
+&Command:
+&Compress database
+&Connect to ETP Server...
+&Copy
+&Credits
+&Date modified:
+&Default page:
+&Delete
+&Descending
+&Details
+&Disconnect from ETP Server
+&Do not index NTFS volumes
+&Donate
+&Double buffer
+&Download...
+&ETP server:
+&Edit
+&Edit...
+&Enable ETP/FTP server
+&Enable HTTP server
+&Enable exclude list
+&Enable search history
+&Expand environment variables
+&Export...
+&File
+&File lists:
+&Filter:
+&Filters
+&Folders:
+&Font:
+&Force Rebuild
+&Forward
+&Full row select
+&Go To
+&Help
+&Help Topics
+&Hide results when the search is empty
+&Home
+&Host:
+&Import...
+&Include in database
+&Include only files:
+&Index:
+&Invert Selection
+&Item states:
+&Keep search history for
+&Keyboard shortcut:
+&Language:
+&Large
+&Large Thumbnails
+&License
+&Link type:
+&Local NTFS volumes:
+&Local ReFS volumes:
+&Local database
+&Located in:
+&Macro:
+&Medium
+&Medium Thumbnails
+&Monitor changes
+&Move Down
+&Multi-user database filename
+&Name:
+&Never
+&New Filenames:
+&New Search Window
+&New full paths and filenames:
+&New window Hotkey:
+&New...
+&Old Filenames:
+&Old full paths and filenames:
+&Open
+&Open File List...
+&Open...
+&Operator precedence:
+&Options...
+&Organize Bookmarks...
+&Organize Filters...
+&Paste
+&Port:
+&Preview
+&Quick Launch shortcut
+&Refresh
+&Regex
+&Regex Syntax
+&Remove
+&Replace...
+&Reset
+&Restore Defaults
+&Rich
+&Save
+&Search
+&Search Syntax
+&Search as you type
+&Search:
+&Selection rectangle:
+&Serve pages from:
+&Show Search Window
+&Show this item
+&Show window Hotkey:
+&Size Column to Fit
+&Size:
+&Small
+&Sort all search history results by:
+&Toggle window Hotkey:
+&Tools
+&Type:
+&Underline icon titles:
+&Update display immediately after scrolling
+&Use shortcut in:
+&Username:
+&View
+&View:
+&Window Size
+&Zoom
+&Zoom &In
+&Zoom &Out
+&all these words:
+&amp;case=1
+&amp;count=%u
+&amp;diacritics=1
+&amp;offset=%u
+&amp;path=1
+&amp;regex=1
+&amp;sort=%s&amp;ascending=%d
+&amp;wholeword=1
+&none of these words:
+( !("#$%&((('f
+( )  Save the subexpression match
+(*MARK) must have an argument
+(*VERB) not recognized or malformed
+(.*)  Match and save any number of characters (greedy)
+(.*?)
+(.*?) Match and save any number of characters (lazy)
+(?=.*
+(?R or (?[+-]digits must be followed by )
+(A8(t>I
+(A_A\^]
+(A_A^A]A\_^][
+(A_A^A]_
+(All Files and Folders)
+(D;g4|
+(D;o4H
+(D;w4
+(Default)
+(_^][
+)) )) 
+)))#$$
+)D+\$`
+)t$HH
+*    Zero or more times
+* = match zero or more characters
+* Neither the name of the University of Cambridge nor the names of its
+* Redistributions in binary form must reproduce the above copyright
+* Redistributions of source code must retain the above copyright notice,
+*0,1,2,3,4,5,6,7,8,9,:,;,<,=,>,?,@,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,[,\,],^,a,k
+*D+\$ 
+*D+\$(
+*L;D$Xu
+*XCVQ>w
+*uCD8S
+*|,},o-
++    One or more times
++;\$@u
++B8,!u
++B8,1
++B8,1u
++C(tOH
++D$ E
++D$$;
++D$(E
++D$0D
++D$0E
++D$8H
++D$@A
++D$@D
++D$DE3
++D$L3
++D$hD
++D$lH
++D$pD
++D$tM
++Ed;E`s
++F\;FXsK+^`y
++L$`M
++McD$@I+
++T$`D+D$dE
++\$D@85
++\$xH
++l$8+
++l$pD+
++t$4L
++t$XD
++t9ff
++|$$+\$ A
++|$(D
++|$tH
+, ,!,",#,$,%,&,',(,),*,+,,,-,.,`,b,c,d,g,i,k,m,n,o,p,r,u,|,},~,
+, ,!,",#,$,%,&,',(,),*,+,,,-,.,`,b,c,d,g,i,k,m,n,o,p,r,u,~,
+,%u,%I64u
+,(Ic]
+,(Mce
+,0|/I
+- -!-"-#-$-%-'---
+- Attempt to initialize the CRT more than once.
+- Attempt to use MSIL code from this assembly during native code initialization
+- CRT not initialized
+- floating point support not loaded
+- not enough space for _onexit/atexit table
+- not enough space for arguments
+- not enough space for environment
+- not enough space for locale information
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- not enough space for thread data
+- pure virtual function call
+- unable to initialize heap
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+-----------
+-E*lh
+-admin
+-admin-server-share-links
+-app-data
+-ascending
+-bookmark <name>
+-case
+-choose-language
+-choose-volumes
+-close
+-config <filename>
+-connect <user:pass@host:port>
+-console
+-copyto <filename1> <...>
+-create-file-list <filename> <path>
+-create-file-list-exclude-files <list>
+-create-file-list-exclude-folders <list>
+-create-file-list-include-only-files <list>
+-create-usn-journal "%s" %u %u
+-create-usn-journal <volume> <max-size-bytes> <allocation-delta-bytes>
+-db <filename>
+-debug
+-debug-log
+-delete-usn-journal "%s"
+-delete-usn-journal <volume>
+-descending
+-details
+-diacritics
+-disable-run-as-admin
+-disable-update-notification
+-drive-links
+-edit <filename>
+-enable-run-as-admin
+-enable-update-notification
+-exit
+-filelist <filename>
+-filename <filename>
+-filter <name>
+-first-instance
+-focus-bottom-result
+-focus-last-run-result
+-focus-most-run-result
+-focus-results
+-focus-top-result
+-ftp-links
+-fullscreen
+-help
+-home
+-install "%s"
+-install <location>
+-install-client-service
+-install-config <filename>
+-install-desktop-shortcut
+-install-efu-association
+-install-folder-context-menu
+-install-language %d
+-install-options "%s"
+-install-quick-launch-shortcut
+-install-run-on-system-startup
+-install-service
+-install-service-pipe-name "%s"
+-install-service-pipe-name <name>
+-install-service-security-descriptor
+-install-service-security-descriptor "%s"
+-install-start-menu-shortcuts
+-install-url-protocol
+-instance "%s"
+-instance <name>
+-isrunas %s
+-language <langID>
+-load-delay <milliseconds>
+-local
+-matchpath
+-maximized
+-minimized
+-moveto <filename1> <...>
+-name-part <filename>
+-newwindow
+-no-app-data
+-noapp-data
+-nocase
+-nodb
+-nodiacritics
+-nofullscreen
+-nomatchpath
+-nomaximized
+-nominimized
+-nonewwindow
+-noontop
+-noregex
+-noverbose
+-nowholeword
+-noww
+-ontop
+-p <path>
+-parent <path>
+-parentpath <path>
+-path <path>
+-quit
+-read-only
+-regex
+-reindex
+-rename <filename1> <...>
+-rescan-all
+-s <text>
+-save-install-options %u
+-search <text>
+-search-file-list <filename>
+-select <filename>
+-server-share-links
+-service-pipe-name <name>
+-sort <name>
+-sort-ascending
+-sort-descending
+-start-client-service
+-start-service
+-startup
+-stop-client-service
+-stop-service
+-svc-pipe-name <name>
+-svc-security-descriptor <sd>
+-thumbnail-size <size>
+-thumbnails
+-toggle-window
+-uninstall "%s"
+-uninstall [path]
+-uninstall-client-service
+-uninstall-desktop-shortcut
+-uninstall-efu-association
+-uninstall-folder-context-menu
+-uninstall-quick-launch-shortcut
+-uninstall-run-on-system-startup
+-uninstall-service
+-uninstall-start-menu-shortcuts
+-uninstall-url-protocol
+-uninstall-user
+-update
+-url <[es:]search>
+-verbose
+-wholeword
+.    Any single character
+.(Anish Prabu T.), Ashwin and Aarthi
+.B8,1u
+.HcF$L
+.NV1O
+.\src\db.c
+.\src\db_create.c
+.\src\db_query.c
+.\src\main.c
+.\src\mem.c
+.\src\ntfs.c
+.\src\os.c
+.\src\search_history.c
+.csv.tmp
+.db.tmp
+.icon {
+.indexof {
+.ini.tmp
+.lineshadow {
+.logo {
+.mixcrt
+.modifiedheader, .modifieddata {
+.nameheader, .folder, .file {
+.nav {
+.nobr {
+.numresults {
+.pathheader, .pathdata {
+.pdata
+.prevnext {
+.searchbox {
+.sizeheader a, .modifiedheader a, .nameheader a , .pathheader a {
+.sizeheader, .modifiedheader, .nameheader, .pathheader {
+.sizeheader, .sizedata {
+.text
+.updir {
+.updown {
+/ /!/"/#/$/%/&/'/(/)/*/+/,/-/.///0/1/2/3/4/5/6/7/8/9/:/;/</=/>/?/@/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z/[/\/]/^/_/`/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/{/|/}/~/
+/1(0&0$0"
+0 KB < size <= 10 KB
+0%S%I64u %s
+0%S0%I64u %s
+0& % -
+01 Vlatce
+0112131415161718191:1;1<1=1>1?1@1A1B1C1D1E1F1G1H1I1J1K1L1M1N1O1P1Q1R1S1T1U1V1W1X1Y1Z1[1\1]1^1_1`1a1b1c1d1e1f1g1h1i1j1k1l1m1n1o1p1q1r1s1t1u1v1w1x1y1z1{1|1}1~1
+0608090:0L0N0P0R0T0V0X0Z0\0^0`0b0e0g0i0p0q0s0t0v0w0y0z0|0}0
+07?QB}
+0ASDSESK0M0O0Q0S0U0W0Y0[0]0_0a0d0f0h0o0o0r0r0u0u0x0x0{0{0F0 
+0A\][
+0A\^]
+0A\_^
+0A]A\]
+0A]A\^
+0A]A\_
+0A]A\_H
+0A]_[
+0A]_^
+0A^A]A\
+0A^A]A\][H
+0A^A]A\_^
+0A_A^A]A\^
+0A_A^A]A\_
+0A_A^A]A\_H
+0A_A^_
+0A__^][
+0tDD+
+0x%02X
+0x%08x
+0}0i1
+1 MB < size <= 16 MB
+1 object
+1 object selected
+1 of 1 objects selected
+10 KB < size <= 100 KB
+100 KB < size <= 1 MB
+150 Data connection accepted; transfer starting.
+16 MB < size <= 128 MB
+1D8b0H
+1L9t$8u
+1`2a2b2c2d2e2f2g2h2i2j2k2l2m2
+200 %I64u
+200 Attributes column set to (%u).
+200 Case set to (%d).
+200 Count set to (%u).
+200 Date created column set to (%u).
+200 Date modified column set to (%u).
+200 Date recently changed column set to (%u).
+200 Diacritics set to (%d).
+200 End.
+200 File list filename column set to (%u).
+200 Filter case set to (%d).
+200 Filter diactritics set to (%d).
+200 Filter path set to (%d).
+200 Filter regex set to (%d).
+200 Filter search set to (%s).
+200 Filter whole word set to (%d).
+200 Hide empty search results set to (%d).
+200 OK
+200 OK.
+200 Offset set to (%u).
+200 Path column set to (%u).
+200 Path set to (%d).
+200 Port command successful.
+200 Regex set to (%d).
+200 Search set to (%s).
+200 Size column set to (%u).
+200 Sort set to (%s).
+200 Type set to ASCII (A).
+200 Type set to Image (I).
+200 UTF8 mode disabled.
+200 UTF8 mode enabled.
+200 Whole word set to (%d).
+200-Query results
+20250620051719Z
+206 OK
+210429000000Z
+211 End
+211-Features:
+213 %04d%02d%02d%02d%02d%02d.%03d
+215 UNIX emulated by Everything
+220801000000Z
+221 Goodbye.
+226 Transfer complete.
+227 Entering Passive Mode. (%d,%d,%d,%d,%d,%d)
+229 Entering Extended Passive Mode (|||%d|)
+230 Logged on.
+250 CDUP successful. "%s" is current directory.
+250 CWD successful. "%s" is current directory.
+250 End.
+250-Listing %s
+250507000000Z
+250521000000Z
+250604000000Z
+250620051719Z0+
+257 "%s" is current directory.
+260520235959Z0
+2DigiCert SHA256 RSA4096 Timestamp Responder 2025 10
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+311109235959Z0b1
+331 Password required for %s
+350 Restarting at %I64u.
+360428235959Z0i1
+360903235959Z0c1
+380114235959Z0i1
+3HcC$M
+4$t]H
+4$tfH
+4(Mcf
+426 Connection closed; transfer aborted.
+426 Query aborted.
+426 Unable to connect to port %d
+426 query aborted.
+426 send failed %d
+451 Transfer aborted: read error.
+451 Transfer aborted: rest error.
+4PN6_
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+500 Failed to connect to IP.
+500 Failed to connect to port %d.
+500 Failed to create port socket %d.
+500 Failed to enter passive mode, bind error %d
+500 Failed to enter passive mode, bind failed %d
+500 Failed to enter passive mode, control getsockname error %d
+500 Failed to enter passive mode, getsockname failed %d
+500 Failed to enter passive mode, invalid control family %d
+500 Failed to enter passive mode, invalid family %d
+500 Failed to enter passive mode, invalid pasv family %d
+500 Failed to enter passive mode, listen error %d
+500 Failed to enter passive mode, pasv getsockname error %d
+500 Failed to enter passive mode, socket error %d.
+500 Failed to enter passive mode, socket failed %d
+500 Failed to enter passive mode, socket listen %d
+500 Failed to get port address.
+500 PASV is not available when using IPv6, please use IPv4 or EPSV.
+500 Syntax error, command unrecognized.
+500 Type %s not supported.
+500 Unknown Everything command.
+500 Unknown sort type.
+500 send failed %d.
+501 Invalid file structure %s.
+501 Invalid mode %s.
+501 Invalid option.
+503 Invalid sequence of commands.
+504 File structure %s not implemented.
+504 Mode %s not implemented.
+504 Type E not implemented.
+522 Extended Port Failure - unknown network protocol. Supported protocols: (1,2)
+530 Login or password incorrect!
+530 Not logged on.
+550 Directory not found.
+550 File not found.
+550 File or Directory not found.
+5FjiT
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+6*f(_
+60402
+624 373 3971
+6HcD$\
+6IcS$I
+7HcP$H
+7IcS$I
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+8(t4H
+8.uPH
+89:;<=>?@ABCDEFGH
+8:u&H
+8:uAH
+8A\_^]
+8A_A\
+8A_A^_^][
+8D$4uP
+8D$5uF
+8D$6u<
+8D$7u2
+8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
+8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8L9GxtKA
+8\usH
+8^!un
+8{uWH
+9.t,H;
+99~*H
+9A(~/
+9D$Dt
+9D$PuBH
+9D$Xt
+9D$pD
+9D$xA
+9D$xu
+9L$@u
+9L$dD
+9Q`~;E
+9X4~EL
+9Y4~NI
+9\$0u
+9\$`H
+9\$xt+
+9\$x~P
+9],~fI
+9]T~MI
+9]|~HI
+9_ ~`H
+9h tOHcCx;Ct}FH
+9k<tL
+9l$XH
+9n0t*H
+9n\tF
+9n\tG
+9ql~3D
+9s ~WH
+9s<tL
+9shtlH
+9sxtz
+9t$ u&
+9t$,~lH
+9t$HA
+9t$HD
+9t$Hu
+9t$PD
+9t$PLc
+9t$Pt
+9t$XtSH
+9t$XuWA
+9{xt{H
+9|$$}nH
+9|$@t
+9|$Dt
+9|$Tt_
+9|$`t
+:"uSD
+::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+:D9=$
+:U|r*C
+:ue8^
+:w1Ic
+:wu#ff
+:wu6D
+:wu=H
+:}t7A
+; Please make sure Everything is not running before modifying this file.
+; settings stored in %APPDATA%\Everything\Everything.ini
+;"t'H
+;(ufH
+;:u>H
+;D$$~
+;D$|tB
+;D$|tD
+;GIF89a
+;L$$~_
+;L$H}
+;L$|tD
+;PADGIF89a
+;PAGIF89a
+;PGIF89a
+;PeI%
+;T$$~
+;T$4u!
+;T$4~
+;T$Dt
+;T$D~
+;T$t~
+;[u`A
+;\$0u
+;\$4H
+;\$Xv
+;\$t~
+;\u;@8.H
+;t$0|n;t$8}hH
+;t$8u
+;t$@|
+;t$PH
+;t$Xv
+;t$h|
+;t$p|
+;wuxfff
+;{(}%
+;{(}P
+;|$ |
+;|$$~
+;|$(|
+;|$H}
+;|$`}
+;|$h|
+;|tJH
+;}u@A
+< Previous
+< t$<
+< t-<
+< t9<
+< t:<
+< tH<
+< tM<
+< tN<
+< tV<
+< t[<
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<%u#D
+<*tS<?tO
+<*tZ<+tV<?tR<{u
+<,uJH
+</a></span>
+</a></td></tr>
+</asmv3:application></assembly>PPADDINGXXPADDINGPADDINGXXPAD
+</asmv3:windowsSettings>
+</b></span>
+</body>
+</body></html>
+</center>
+</form>
+</head>
+</nobr></span>
+</p></td></tr>
+</requestedPrivileges></security></trustInfo><asmv3:application>
+</table>
+</td>
+</title>
+</title></head><body>
+</tr>
+<0:08
+<0r <9w
+<0r%<9w!A
+<0r&ff
+<0r'<9w#
+<0r(<9w$
+<0r)<9w%
+<0r+<9w'
+<0r0<9w,
+<0rH<9wD
+<0rK<9wG
+<0rL<9wHH
+<0rW<9wK
+<0rc<9w_
+<0rc<9w_A
+<0rd<9w`
+<0rk<9wY
+<0rk<9wg
+<0rr<9wn
+<6uLA
+<6uZA
+<7w)I
+<:t.<\t
+<<uDH
+<<}"H
+<=uSE
+<Uu'A
+<Zv <0
+<\t;</t7H;
+<\teA
+<\tvH
+<\u(8C
+<\u9D
+<a href="
+<a href="/
+<a href="/"><img class="logo" src="/Everything.gif" alt="
+<arc<fw_
+<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3"><assemblyIdentity version="1.0.0.0" processorArchitecture="*" name="Everything" type="win32"></assemblyIdentity><description>Everything Search Engine</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v2"><security><requestedPrivileges>
+<body>
+<center>
+<center><br><br>
+<dpiAware>true</dpiAware>
+<form id="searchform" action="/" method="get"><input class="searchbox" style="width:480px" id="search" name="search" type="text" onfocus="this.select()" title="
+<gvK<i
+<head>
+<html><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=512"><head><title>
+<img class="icon" src="/
+<img class="updown" src="/
+<input type="hidden" name="sort" value="
+<last|past|prev|coming|next><x><years|months|weeks|days|hours|minutes|mins|seconds|secs>
+<last|past|prev|current|this|coming|next><year|month|week>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="/main.css" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=512"><meta name="robots" content="noindex, nofollow"><title>
+<nt!H
+<program name unknown>
+<requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+<span class="nav">...</span>
+<span class="nav"><a class=num href="/
+<span class="nav"><b>
+<span class="nobr"><nobr>
+<span class="prevnext"><a href="/
+<table cellspacing="0" width="480px">
+<td class="
+<tr class="
+<tr><td class="updir" colspan="3"><a href="/
+<tr><td colspan="
+<tr><td colspan="3"><p class="indexof">
+<tr><td colspan="4"><p class="numresults">
+<vu7H
+<xt/<Xt+3
+<zv$<A
+<zv,<A
+<|t,<\A
+<|t-<\
+=COMM
+=ESDbt
+=TCONt9=TYER
+=TPE1tm=TIT2t9=TALB
+=TRCK
+=fLaC
+=gdyd
+>0<0:
+>Mp$d
+>\u@8
+>\uC8
+>w#Hc
+? = match one character
+?search=
+?sort=%s&amp;ascending=%d
+@*}(H
+@.data
+@.reloc
+@.rsrc
+@0A;C4
+@8)u^H
+@8*tC
+@8+t/f
+@8-.N
+@8-@a
+@8-Em
+@8-J"
+@8-qK
+@81t,
+@85#R
+@85&=
+@85<M
+@85Co
+@85SM
+@85TC
+@85Vr
+@85\_
+@85j.
+@85k7
+@85s.
+@85zr
+@85{`
+@87tJ3
+@88u:H
+@89twD
+@8:tHH
+@8:tSH
+@8=c3
+@8=f(
+@8l$&H
+@8s@t
+@8t$Ht
+@@8-s
+@@u"IcH
+@A\_^
+@A]A\_
+@A]A\_^]
+@A^A]A\
+@A^_^
+@A_A^A]A\]
+@A_A^A]A\_
+@A_A^A]_^
+@Qm6t
+@SATAUAVAWH
+@SATAUMc
+@SATAVH
+@SATAWH
+@SATLc
+@SAUH
+@SAVH
+@SUATAUAVH
+@SUATAVH
+@SUATH
+@SUVATAUH
+@SUVAUAVAWH
+@SUVAUAVH
+@SUVWATAUAVAW
+@SUVWATAUAVAWH
+@SUVWATAUAVH
+@SUVWATAUAWH
+@SUVWATAUH
+@SUVWATAVAWH
+@SUVWATAWH
+@SUVWATH
+@SUVWAUAVAWH
+@SUVWAUH
+@SUVWH
+@SUWATH
+@SUWAUH
+@SUWAWH
+@SUWH
+@SVATAVH
+@SVATH
+@SVAUH
+@SVAVH
+@SVWATAUAVAWH
+@SVWATAUH
+@SVWATH
+@SVWAUAVH
+@SVWAUH
+@SVWAVAWH
+@SVWAWH
+@SVWH
+@SWATAUH
+@SWATAVH
+@SWATH
+@SWAUH
+@UATAUAVAWH
+@UATAUAWH
+@UATH
+@UAUH
+@UAVAWH
+@UAVH
+@USVWATAUAVAWH
+@UVATAWH
+@UVATH
+@UVAUH
+@UVAVH
+@UVWATAUH
+@UVWATAVAWH
+@UVWAUAVAWH
+@UVWH
+@UWATAUH
+@UWATAVAWH
+@UWATH
+@UWAVH
+@VATAUAVH
+@VATH
+@VWATAUAVAWH
+@VWATAUAVH
+@VWATH
+@VWAUH
+@VWAWH
+@WATH
+@WAUAVAWH
+@WAVH
+@WAWH
+@w$Hc
+A L9d$0t
+A capella
+A connection could not be established.
+A list of all previous searches.
+A list of commands already assigned to the shortcut key.
+A list of file names.
+A word or phrase &in the file:
+A(@8(u
+A*C0A
+A+C0L
+A1@@A
+A1I;D$
+A9,$L
+A9?Hc
+A9@(~.
+A9@(~/
+A9@,~(
+A9@,~/
+A9@,~0
+A9@Hu
+A9D$X
+A9H }!A9
+A9H }"A9X
+A9H$}
+A9H$}"A9X
+A9H$}#A9X
+A9M`M
+A9[pw
+A9hL~|H
+A9r(u
+A9xLL
+A9z,u
+A9{xu
+A;,$|
+A;4$|
+A;C$}"H
+A;Cd~
+A;D$ 
+A;D$ D
+A;D$$
+A;L$$
+A;P`|
+A;S|~
+A;T$8u
+A;_$|
+A;hL|
+A;o$|
+A;pL|
+A;s|~
+A;t$$
+A;t$$|
+A;v$|
+A@H;=
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ACCEPT
+ADDED 
+ADVAPI32.dll
+ALBUM
+AND > OR
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ANYCRLF)
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+ARTIST
+ATAUAVH
+ATAUH
+ATAVAWH
+ATAWH
+ATTRIBUTES_ASCENDING
+ATTRIBUTES_DESCENDING
+AUAVH
+AUDIO
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+A\_^[
+A\_^][
+A]A\[
+A]A\^
+A]A\^][
+A]A\_
+A]A\_[
+A]A\_]
+A]A\_^[
+A]A\_^]
+A]A\_^][
+A]_][
+A]_^[
+A]_^][
+A^A\[
+A^A\][
+A^A\^[
+A^A\^]
+A^A\^][
+A^A\_
+A^A\_[
+A^A]A\
+A^A]A\^
+A^A]A\_[
+A^A]A\_]
+A^A]A\_^
+A^A]A\_^][
+A^A]_
+A^A]_[
+A^A]_]
+A^A]_][
+A^A]_^[
+A^^][
+A^_^][
+A_A\[
+A_A\^
+A_A\_^][
+A_A]A\[
+A_A]A\]
+A_A]A\_^
+A_A]A\_^][
+A_A]_
+A_A^A\
+A_A^A\_]
+A_A^A\_^]
+A_A^A\_^][
+A_A^A]
+A_A^A]A\[
+A_A^A]A\]
+A_A^A]A\_
+A_A^A]A\_^
+A_A^A]A\_^[
+A_A^A]A\_^]
+A_A^A]A\_^]H
+A_A^A]A\_^][
+A_A^A]^][
+A_A^A]_^][
+A_A^]
+A_A^][
+A_A^_^[
+A_A^_^][
+A__][
+A__^[
+A__^][
+AaBbCcXxYyZz
+About %s
+About Everything File List Editor.
+Above normal
+Accept-Ranges: bytes
+Access denied: Install the Everything service or run as administrator to index this volume.
+Acid Jazz
+Acid Punk
+Acoustic
+ActivateKeyboard LTR %08x %d
+ActivateKeyboard RTL %08x %d
+ActivateKeyboardLayout
+Add "Search Everything..." to folder context menus.
+Add &Folder...
+Add F&ile(s)...
+Add F&older...
+Add Fi&lter...
+Add Keyboard Shortcut
+Add a file list to the list.
+Add a folder including subfolders and files to the file list.
+Add a folder to the list.
+Add a keyboard shortcut to the selected command.
+Add multiple files to the file list.
+Add wildcard filter
+Adding a new shortcut key will remove any existing shortcut keys with the same scope and key.
+Additional search options:
+Adds the current search to your Bookmarks.
+Adds the current search to your Filters.
+AdjustWindowRect
+AdjustWindowRectEx
+Advanc&ed
+Advanced Copy to &Folder...
+Advanced Mo&ve to Folder...
+Advanced Search
+Alexandru Bogdan Munteanu
+All File Types
+All Files
+All matches in the filename will be replaced.
+AllFilesystemObjects
+AllocConsole
+AllocConsole failed %d
+Allocating file indexes...
+Allocating folder indexes...
+Allocation &delta:
+Allow &literal operators
+Allow AND, OR and NOT to be used as operators.
+Allow HTTP clients to download files.
+Allow instant sorting by attributes. Requires an additional %d bytes of memory for each file and folder.
+Allow instant sorting by date accessed. Requires an additional %d bytes of memory for each file and folder
+Allow instant sorting by date created. Requires an additional %d bytes of memory for each file and folder.
+Allow instant sorting by date modified. Requires an additional %d bytes of memory for each file and folder.
+Allow instant sorting by extension. Requires an additional %d bytes of memory for each file and folder.
+Allow instant sorting by path. Requires an additional %d bytes of memory for each file and folder.
+Allow instant sorting by size. Requires an additional %d bytes of memory for each file and folder.
+Allow left parenthesis '(' and right parenthesis ')' for grouping.
+Allow other windows to overlap this window.
+Allow remote ETP/FTP clients to download files.
+Allow remote users to search and access yours folders and files with a web browser.
+Allow remote users to search and access yours folders and files with an ETP/FTP client.
+Allow round &bracket grouping
+AllowSetForegroundWindow
+Allows searching and sorting by Date recently changed.
+AlternRock
+Alternate Row
+Alternate Row (Highlighted)
+Alternative
+Always
+Always keep this window on top of other windows.
+Always running, disabling this will exit Everything when no windows are open.
+Ambient
+An application has made an attempt to load the C runtime library incorrectly.
+Anchor Underline
+AppData %d
+Append the macro with <name> to replace all occurrences of name: in the search with the parameters passed to the macro call.
+AppendMenuW
+Applications
+Apply
+April
+Arabic
+Archive
+Are you sure you want to permanently delete this file?
+Are you sure you wish to delete all run history?
+Are you sure you wish to delete all search history?
+Are you sure you wish to open %d files?
+Armenian
+AssocCreate
+AssocCreate %d %t %S
+AssocCreate GetKey ASSOCF_IGNOREBASECLASS %08x
+AssocCreate GetKey ASSOCKEY_BASECLASS %08x
+AssocCreate Init %08x
+AssocCreate OK
+Associate "Everything" file lists (EFU files) with "Everything"
+AttachThreadInput
+Attempt to &monitor changes
+Attempt to monitor changes made to this folder.
+Attri&butes:
+Attribute Constants:
+Attributes
+Audio
+August
+Auto Complete Search
+Auto adjust column widths and window size.
+Auto detect
+Auto detect will attempt to read file contents with the associated IFilter.
+Automatically include new &fixed volumes
+Automatically include new &removable volumes
+Automatically remo&ve offline volumes
+Automatically remove included volumes from the index when they go offline.
+Automatically run "Everything" when you log on to Windows.
+Automatically scroll &view
+Automatically show search history matches
+Avantgarde
+Avestan
+B +B0
+B L9d$0t
+B t+fff
+B(H9_
+B(HcX
+B0<\u
+BAD mft record length %d
+BAI;D$
+BASIC_INFO_CHANGE 
+BODY_END
+BSR_ANYCRLF)
+BSR_UNICODE)
+BZ2_bzCompress(): %d: Failed to compress
+BZ2_bzCompress(): %d: Failed to finish compressing
+BZ2_bzDecompress(): %d: Failed to decompress.
+BZ2_bzDecompress(): %d: Unexpected EOF in decompression stream.
+Backspace
+Bad Request
+Balinese
+Ballad
+Bamum
+Basic access authentication password.
+Basic access authentication username.
+Bassa_Vah
+Batak
+Bebob
+BeginPaint
+Below normal
+Bengali
+Big Band
+Bind to &interfaces:
+BitBlt
+Bluegrass
+Blues
+Bookmarks
+Bookmarks.csv
+Bookmarks.csv.tmp
+Booty Bass
+Bopomofo
+Brahmi
+Braille
+Break
+BringWindowToTop
+Bro&wse...
+Browse For File List
+Browse for Folder
+Browse for a file list.
+Browse for a folder to add to the exclude folder list.
+Browse for a path...
+Browse for folder
+Browse for folder...
+Browse for the HTTP server root folder.
+Browse for the database location.
+Browse...
+Browser Back
+Browser Favorites
+Browser Forward
+Browser Home
+Browser Refresh
+Browser Search
+Browser Stop
+Buffer &size:
+Buginese
+Buhid
+Button
+Bytes
+C A9E 
+C D;0
+C H9G0u
+C I9C@
+C LcS
+C tHH
+C(9G8u(H
+C(tP3
+C0H9w
+C8H9C0u
+C<u%HcK
+CBN_SETFOCUS
+CD|wN
+CLOSE 
+CLSIDFromString
+COMBOBOX
+COMCTL32.dll
+COMMENT
+COMMIT
+COMPRESSED
+COMPRESSION_CHANGE 
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+CORRUPT
+CPt L
+CREATE 
+CRLF)
+CSV Files
+CUT isviewing %d
+CX9s`t,H
+C`H+SpH
+Cabaret
+Cache-Control: no-cache, no-store, must-revalidate
+Cache-Control: private, max-age=3600
+CallNextHookEx
+CallWindowProcW
+Canadian_Aboriginal
+Cancel
+Cancel current query?
+Cancel current read extended information?
+Cancel current sort?
+CancelIO failed %d
+CancelIO not implemented
+CancelIo
+Caps Lock
+Carian
+Carl Yuan
+Case mappings from non-ASCII to ASCII will be ignored.
+Caucasian_Albanian
+Celtic
+Chakma
+Chamber Music
+ChangeClipboardChain
+ChangeWindowMessageFilterEx
+Changes will be missed if Everything is unable to process this buffer fast enough.
+Changes.txt
+Changing the new format will generate new filenames.
+Changing the new format will generate new full paths and filenames.
+Chanson
+CharLowerW
+CharUpperW
+Check for &Updates...
+Check for &updates on startup
+Check the desired attributes.
+CheckDlgButton
+Cherokee
+Choose an option:
+ChooseColorW
+Chorus
+Christian Rap
+Clamp
+Clamp: The focus can not be moved above the first item, or lower than the last item.
+Classic Rock
+Classical
+Cle&ar selection on search
+Clear
+Clear &Now
+Clear the result selection and focus when the search parameters change.
+Click the Browse button to open a list of filenames.
+ClientToScreen
+Close File List
+Close an open file list.
+Close the current search window.
+Close the file list editor.
+Close the window after executing a result.
+CloseClipboard
+CloseHandle
+CloseServiceHandle
+CloseThemeData
+Closes this window.
+CoCreateInstance
+CoCreateInstance %08x
+CoInitializeEx
+CoInitializeEx failed %08x
+CoTaskMemAlloc
+CoTaskMemFree
+CoUninitialize
+Colok and Pierre le Lidgeu
+CombineRgn
+ComboBox
+ComboBoxEx32
+Comedy
+CommDlgExtendedError
+Command Line Options - Everything
+Common
+Compress the database when saving to disk.
+Compressed
+Config loaded
+Config saved
+Connect To ETP Server
+Connect to an ETP server when opening a new search window.
+Connect to an ETP server.
+Connect to the specified ETP server when opening this bookmark.
+ConnectNamedPipe
+Connected.
+Connecting to %s...
+Connecting to ETP Server...
+Connection closed by server
+Connection: Close
+Connects to an ETP server, allowing you to search and access the host folders and files.
+Connects to the Everything website and checks for program updates.
+Console
+Contains advanced commands.
+Contains commands for adjusting the font and icon size.
+Contains commands for adjusting the size of the window.
+Contains commands for browsing search history.
+Contains commands for editing search results.
+Contains commands for help.
+Contains commands for keeping this window on top of other windows.
+Contains commands for manipulating the file list.
+Contains commands for manipulating the view.
+Contains commands for sorting the result list.
+Contains commands for working with bookmarks.
+Contains commands for working with everything.
+Contains commands for working with the file list.
+Contains help commands.
+Contains search toggles.
+Contains tools commands.
+Content Type
+Content type:
+Content-Length: %I64u
+Content-Range: bytes %I64u-%I64u/%I64u
+Content-Type: %s
+Content-Type: text/html; charset=UTF-8
+Context Menu
+Context menu &items:
+Control
+ControlService
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+Copies selected items into the Clipboard. To put them in a new location, use the Paste command.
+Coptic
+Copy &Full Name to Clipboard
+Copy &Path to Clipboard
+Copy Name to Clipboard
+Copy To
+Copy as &CSV
+Copy the file name part only to the clipboard.
+Copy the full path and file name to the clipboard.
+Copy the full path to the clipboard.
+Copy the selected files to another location.
+Copy to &Folder...
+CopyFileW
+CopyRect
+CopyStgMedium
+Copyright 
+Copyright (c) 1997-2012 University of Cambridge
+Copyright (c) 2025 voidtools
+CorExitProcess
+Country
+Cp9Cl
+Cp9Cl|
+CrSel
+Create &Shortcut
+Create a &new window when running Everything
+Create a file list of a path.
+Create a new &window from the system tray
+Create a new bookmark.
+Create a new empty file list.
+Create a new filter.
+Create a new search window.
+Create a new window or show an existing window when opening Everything from the system tray.
+Create a new window or show an existing window when running Everything.
+CreateBitmapIndirect
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreateDIBSection
+CreateDialogIndirectParamW
+CreateDirectoryW
+CreateEventW
+CreateFileW
+CreateFileW(): %d: Failed to open file %s
+CreateFileW(): GetLastError(): %d: Failed to open volume %S
+CreateFontIndirectW
+CreateIconIndirect
+CreateMenu
+CreateMutexW
+CreateNamedPipeW
+CreatePatternBrush
+CreatePopupMenu
+CreateRectRgn
+CreateServiceW
+CreateSolidBrush
+CreateStreamOnHGlobal
+CreateThread
+CreateWindowExW
+Creates shortcuts to the selected items.
+Creating database...
+Creating socket...
+Ct9Cx|
+Ctrl+A
+Ctrl+E
+Ctrl+F1
+Ctrl+N
+Ctrl+O
+Ctrl+S
+Ctrl+W
+Cuneiform
+Current Sort
+Current Sort (Highlighted)
+Current Sort Alternate Row
+Current Sort Alternate Row (Highlighted)
+Current Sort Mouseover
+Current Sort Mouseover (Highlighted)
+Custom
+Custom Verb 1
+Custom Verb 10
+Custom Verb 11
+Custom Verb 12
+Custom Verb 2
+Custom Verb 3
+Custom Verb 4
+Custom Verb 5
+Custom Verb 6
+Custom Verb 7
+Custom Verb 8
+Custom Verb 9
+Cynikal
+Cypriot
+Cyrillic
+D$  u
+D$ ;E$rU;E(wP
+D$ ;T$$~
+D$ A9
+D$ A;
+D$ AA
+D$ D+
+D$ D88
+D$ E3
+D$ H9
+D$ H;
+D$ Hc
+D$ I+
+D$ L;
+D$ M;
+D$ fk
+D$!t!ff
+D$$9C
+D$$9D$ sl
+D$$9D$ v`
+D$$;E,rG;E0wB
+D$$A;
+D$$D;
+D$$Lc
+D$(+D$ 
+D$(+D$ +L$$
+D$(+D$ ;
+D$(+D$ H
+D$(0u
+D$(@ 
+D$(@8(t
+D$(@80
+D$(@80t
+D$(@80t<ff
+D$(A+
+D$(A8
+D$(E3
+D$(E;
+D$(Hc
+D$(Mc
+D$(tLH
+D$(tPL
+D$(tiL
+D$,+D$$
+D$,+D$$;
+D$,9D$$}
+D$,E3
+D$,Ic
+D$0 u
+D$0+L$HE3
+D$0;H 
+D$0;H r
+D$0;P 
+D$0;P |
+D$0;P(
+D$0;x 
+D$0=kx
+D$0A+
+D$0D+
+D$0D;
+D$0E3
+D$0H9
+D$0H;H 
+D$0H;H r
+D$0Hc
+D$0HcB
+D$0Ic
+D$0Ic@ I
+D$0LcX H
+D$0LcX L
+D$0f;
+D$0ff
+D$0fff
+D$0t#H
+D$0t(H
+D$0t4H
+D$0|8
+D$0~w
+D$4E3
+D$4H9
+D$4Hi
+D$4f=9at
+D$8 u
+D$8+D$0+L$4
+D$8+D$0H
+D$89-
+D$8A;
+D$8D8 t!fff
+D$8D;
+D$8E3
+D$8H;
+D$8H;D$X
+D$8H;D$`
+D$8H;D$pt/H
+D$8HcB
+D$8Ic
+D$8t%D
+D$<tbH
+D$<tlH
+D$<~=H9~
+D$>Mi
+D$>t&H
+D$@A+
+D$@A;
+D$@D;
+D$@E3
+D$@H+
+D$@H9
+D$@H;
+D$@H;5
+D$@Hc
+D$@HcB
+D$@I;
+D$@Ic
+D$@Ic@
+D$@L;
+D$@Lc
+D$@Lc@,A
+D$@Lcx
+D$@Mt
+D$@f9D$0u
+D$@ff
+D$@fff
+D$@uGA9S8u(3
+D$@um
+D$@x]I
+D$Bf9D$2u
+D$DD;
+D$DHk
+D$Dfff
+D$Ff9D$6u*
+D$H u
+D$H!L
+D$H$'
+D$H;D$P
+D$HD+
+D$HD+L$DD+D$@3
+D$HD+\$D+D$@
+D$HD9k$
+D$HE+
+D$HE3
+D$HH9D$8
+D$HH9D$8u
+D$HH;
+D$HH;D$Pu
+D$Hf=
+D$Hff
+D$Ht#A
+D$Hu L
+D$LA+
+D$LE+
+D$Lt;H
+D$P D
+D$P+G
+D$P@88t
+D$P@88t(
+D$PA+
+D$PD;
+D$PE3
+D$PH9D$Hu
+D$PH;5k
+D$PH;D$Xu
+D$PM;
+D$Pfff
+D$PtrH
+D$P|D
+D$P}cH
+D$TD;
+D$TE3
+D$X+D$PD;
+D$X+\$T+D$P
+D$XE3
+D$XE;
+D$XH+
+D$XH;
+D$XL;
+D$XLcx
+D$Xt{
+D$\+D$T;
+D$\A;
+D$\t5
+D$`E+
+D$`E3
+D$`E8
+D$`H9
+D$`H9D$8u
+D$`Hc
+D$`I9
+D$`I;
+D$`f=
+D$`ff
+D$`ur
+D$c\@
+D$c\D
+D$d;|$h
+D$dD+
+D$dLc
+D$dtBH
+D$hA;
+D$hD8 t
+D$hE3
+D$hH9
+D$hHc
+D$hLc
+D$hfD
+D$ht'
+D$ht*H
+D$ht1ff
+D$ht2fff
+D$ht4ff
+D$l+D$dD
+D$lA+
+D$lD+
+D$lD;
+D$lD;d$`
+D$p H
+D$p;T$t~
+D$pE3
+D$pHc
+D$pIc
+D$pta
+D$pxyfff
+D$xA+
+D$xA8
+D$xD8-
+D$xE3
+D$xL9
+D$|+D$tD+
+D$|A;
+D&esktop shortcut
+D+D$`D
+D+D$|D
+D+GPE3
+D+L$`H
+D+L$pH
+D+WPE3
+D+\$ 
+D+\$$A;
+D+\$4E3
+D+\$D
+D+\$DA;
+D+\$HD
+D+\$`
+D+\$dE3
+D+\$x
+D+\$xH
+D+c<A
+D+d$h+\$lE
+D+l$0
+D+l$@+\$D
+D+o(D+w,A
+D+t$8
+D+~(D
+D8 t63
+D8!t^H
+D8"t(H
+D8#tD
+D8#tFf
+D8#tHfff
+D8%!~
+D8%h>
+D8%q?
+D8+tO
+D8-"p
+D8-2E
+D8-:E
+D8-?#
+D8-@o
+D8-Fn
+D8-]z
+D8-^0
+D8-pE
+D8-xE
+D8-yV
+D8.tI
+D8/tRf
+D88t I
+D88t`I
+D88tdH
+D88tmH
+D8=0U
+D8=O1
+D8=R9
+D8=eU
+D8=zU
+D8\$ u
+D8c@tz
+D8cDt
+D9%zA
+D9-(L
+D9-rL
+D95(J
+D95rJ
+D9A ~"M
+D9A ~'M
+D9A ~(M
+D9A ~/M
+D9I ~;M
+D9Q E
+D9`4u
+D9a A
+D9b$H
+D9c(L
+D9c(t
+D9d$P
+D9d$XJ
+D9g0Hc
+D9h$u
+D9k$|
+D9k4H
+D9l$XH
+D9l$Xt
+D9l$Xu
+D9l$`
+D9l$hH
+D9l$p
+D9l$pE
+D9l$pt
+D9n\t/
+D9n\u
+D9o$A
+D9o\t#
+D9t$Hu
+D9w|D
+D9{Pt
+D9{Xt
+D9|$HE
+D9~Pt0
+D9~Tt0
+D9~\t
+D;A |
+D;A(}
+D;B |
+D;C$|
+D;D$0u"A
+D;D$X
+D;G$D
+D;G$|
+D;G|H
+D;I |
+D;L$hD
+D;O`|
+D;X|A
+D;\$P|
+D;\$X|
+D;c |
+D;d$`
+D;d$|
+D;g0t
+D;gT|
+D;gXLc
+D;l$H|
+D;o4t
+D;o`LcOdD
+D;o`|
+D;t$HL
+D;w4|
+D;|$HH
+D@5L;
+D@EL;
+DATA_EXTEND 
+DATA_OVERWRITE 
+DATA_TRUNCATION 
+DATE_CREATED_ASCENDING
+DATE_CREATED_DESCENDING
+DATE_MODIFIED_ASCENDING
+DATE_MODIFIED_DESCENDING
+DATE_RECENTLY_CHANGED_ASCENDING
+DATE_RECENTLY_CHANGED_DESCENDING
+DBT_CUSTOMEVENT {%08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x}
+DB_WAIT: %s waited %f seconds
+DB_WAIT: %s waiting...
+DEFINE
+DEFINE group contains more than one branch
+DELETE 
+DEV_BROADCAST_DEVICEINTERFACE %S
+DIACRITICS
+DLfH;
+DOCUMENT
+DOMAIN error
+Dance
+Dance Hall
+Darkwave
+Database &location:
+Date Accessed
+Date Constants:
+Date Created
+Date Modified
+Date Recently Changed
+Date Run
+Date Syntax:
+Date accessed is not indexed. Combine with other filters for the best performance or enable date accessed indexing.
+Date created
+Date created is not indexed. Combine with other filters for the best performance or enable date created indexing.
+Date created:
+Date last accessed
+Date last accessed:
+Date modified
+Date modified is not indexed. Combine with other filters for the best performance or enable date modified indexing.
+Date recently changed:
+Date run:
+Date searched
+Date: %s
+David Carpenter
+Death Metal
+December
+DecodePointer
+Decrease Thumbnail Size
+Decrease the font and icon size.
+DefWindowProcW
+Default
+Defines a marked subexpression
+Delete
+Delete &All
+Delete (Permanently)
+Delete Previous Word
+Delete a USN Journal.
+Delete all run history on disk and in memory.
+Delete all search history on disk and in memory.
+Delete all searches.
+Delete the current selection.
+Delete the selected bookmark.
+Delete the selected filter.
+DeleteCriticalSection
+DeleteDC
+DeleteFileW
+DeleteMenu
+DeleteObject
+DeleteService
+Deletes the selected items.
+Denis Sjostrom
+DeregisterEventSource
+Descending
+Deseret
+DestroyIcon
+DestroyMenu
+DestroyWindow
+Details
+Devanagari
+Device
+DeviceIoControl
+DeviceIoControl failed %d
+DeviceIoControl failed %d (%s) retrying in 30 seconds...
+DeviceIoControl out of date %d %s
+DeviceIoControl(%p,FSCTL_DELETE_USN_JOURNAL,%p,%d,NULL,0,%p,0): %d: Failed to delete USN Journal.
+DeviceIoControl(%p,FSCTL_DELETE_USN_JOURNAL,%p,%d,NULL,0,%p,0): %d: Failed to wait for USN Journal deletion.
+DeviceIoControl(%p,FSCTL_QUERY_USN_JOURNAL,0,0,%p,%d,%p,0): %d: Failed to query USN Journal.
+Diacritic
+Diacritics
+DialogBoxIndirectParamW
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+DinoTechno
+Directory
+Directory\Background\shell\%s
+Directory\Background\shell\%s\command
+Directory\background\shell\%s
+Directory\background\shell\%s\command
+Directory\background\shell\Search Everything...
+Disable Regex.
+Disable a modifier with the no prefix.
+Disable always ontop.
+Disable case matching.
+Disable diacritics matching.
+Disable fast ASCII case comparisons.
+Disable full path matching.
+Disable match whole word.
+Disable run as administrator.
+Disable this to fix case insensitive matching of i and I with dot.
+Disable to keep run history forever.
+Disable to keep search history forever.
+Disable to store settings and data in the same location as Everything.exe
+Disable update notification on startup.
+Disabled
+Disco
+Disconnected from ETP server: %s
+Disconnected.
+Disconnects from a connected ETP server.
+DispatchMessageW
+Display a list of suggested searches when typing in a search.
+Display all debug messages.
+Display an alpha blended selection mask or a XOR selection mask.
+Display different background colors for each alternating row.
+Display only basic debug messages.
+Display sizes in Bytes, KB or MB depending on the size or always display sizes in Bytes or KB.
+Display these tooltips.
+DisplayIcon
+DisplayName
+DisplayVersion
+Displays information about each item in the window.
+Displays items by using extra large thumbnails.
+Displays items by using large thumbnails.
+Displays items by using medium thumbnails.
+Displays program information, version number, and copyright.
+Displays the properties of the selected items.
+Dmitry Yerokhin
+Do not automatically index volumes.
+Do not s&how this item
+Do not save to or load from the "Everything" database file.
+Do not select &extension when renaming
+Do not select the file names extension when renaming a file, otherwise the entire filename is selected.
+Do not show this item in the context menu.
+Do you want to save the changes?
+DoDragDrop
+DoPreview ok
+DoPreview ok: %d, %f seconds
+Document
+Double &quote copy as path
+Double click
+Down Arrow
+Downzen
+DragAcceptFiles
+DragFinish
+DragQueryFileW
+DragQueryPoint
+DrawEdge
+DrawFrameControl
+DrawTextW
+DrawThemeBackgroundEx
+DrawThemeEdge
+Dream
+Drop Target
+Drop Target (Highlighted)
+Drum Solo
+Duplicated options will only work for information that is indexed and has fast sort enabled.
+Duplicated:
+Duployan
+E&dit...
+E&xclude files:
+E&xit
+E&xport...
+E&xtension:
+E&xtra Large Thumbnails
+E(HcH
+E(IcL
+E(t"A
+E(t.A
+E+S(A
+E0t#ff
+E8#t^H
+E8)t=A
+E8)tJ
+E8,$H
+E8,$t
+E88tB
+E88tGA
+E89t6H
+E8t$H
+E8~!u
+E8~8t:
+E8~8tYD8=_
+E9B t
+E9B4u
+E9J0u
+E9Z8t
+E9g$E
+E9g$L
+E9l$$
+E9l$$M
+E9l$<E
+E9n$M
+E9o,E
+E9oTE
+E9oTH
+E9o|E
+E;C |
+E;W$|
+E;_$|
+E;_,|
+E;_T|
+E;_||
+E;g$|
+EA_CHANGE 
+EFU Everything File List
+EFU file &association
+ENCRYPTION_CHANGE 
+ERCPt
+ERROR1
+ERROR2
+ERROR3
+ESDbH
+ES\shell\open\command
+ETP Ser&ver:
+ETP server
+ETP server offline.
+ETP server online.
+ETP server port number
+ETP server started, but with errors: %s
+ETP/FTP Server
+ETP/FTP server password.
+ETP/FTP server username.
+EVENT: %p %p
+EVERYTHING
+EVERYTHING ATTRIBUTES_COLUMN %d
+EVERYTHING CASE %d
+EVERYTHING COUNT %d
+EVERYTHING DATE_CREATED_COLUMN %d
+EVERYTHING DATE_MODIFIED_COLUMN %d
+EVERYTHING DATE_RECENTLY_CHANGED_COLUMN %d
+EVERYTHING DIACRITICS %d
+EVERYTHING FILE_LIST_FILENAME_COLUMN %d
+EVERYTHING FILTER_CASE %d
+EVERYTHING FILTER_DIACRITICS %d
+EVERYTHING FILTER_PATH %d
+EVERYTHING FILTER_REGEX %d
+EVERYTHING FILTER_SEARCH %s
+EVERYTHING FILTER_WHOLE_WORD %d
+EVERYTHING HIDE_EMPTY_SEARCH_RESULTS %d
+EVERYTHING OFFSET %d
+EVERYTHING PATH %d
+EVERYTHING PATH_COLUMN 1
+EVERYTHING QUERY
+EVERYTHING REGEX %d
+EVERYTHING SEARCH %s
+EVERYTHING SIZE_COLUMN %d
+EVERYTHING SORT %s
+EVERYTHING WHOLE_WORD %d
+EVERYTHING_ADVANCED_SEARCH_PAGE_FOCUS
+EVERYTHING_DROPDOWNLIST
+EVERYTHING_DROPDOWNLIST_BORDER
+EVERYTHING_EDITOR
+EVERYTHING_ETP_CLIENT
+EVERYTHING_ETP_SERVER
+EVERYTHING_HELP
+EVERYTHING_HTTP_SERVER
+EVERYTHING_IPC_COPYDATA_COMMAND_LINE_UTF8
+EVERYTHING_IPC_CREATED
+EVERYTHING_LINK
+EVERYTHING_MUTEX
+EVERYTHING_NOTASKBAR
+EVERYTHING_PREVIEW
+EVERYTHING_SHELL_EXECUTE
+EVERYTHING_SHFILEOPERATION
+EVERYTHING_TASKBAR_NOTIFICATION
+EVERYTHING_TOOLBAR
+EVERYTHING_UI_EDITOR_LISTVIEW
+EXECUTABLE
+EXTENSION_ASCENDING
+EXTENSION_DESCENDING
+E\$(H
+E\$8H
+Each line represents one file.
+Easy Listening
+Edit Bookmark
+Edit Filter
+Edit Keyboard Shortcut
+Edit options.
+Edit the selected bookmark.
+Edit the selected filter.
+Edit the selected keyboard shortcut.
+Edit wildcard filter
+Egyptian_Hieroglyphs
+Elbasan
+Electronic
+Empty = Include all files.
+Empty = Include all folders.
+Empty = Listen on all interfaces.
+Empty = Log to Logs\ETP_Server_Log.txt in the default location for application data.
+Empty = Log to Logs\HTTP_Server_Log.txt in the default location for application data.
+Empty = No files excluded.
+Empty = No folders excluded.
+Empty = No macro.
+Empty = Password ignored.
+Empty = Server files from the sub folder HTTP Server in the default location for application data.
+Empty = Show volume list.
+Empty = Username ignored.
+Empty = anonymous
+Empty Folders
+EmptyClipboard
+Enable &Regex
+Enable &USN Journal
+Enable &logging
+Enable Fast ASCII search to improve search performance.
+Enable Regex.
+Enable always ontop.
+Enable case matching.
+Enable compression to improve loading and saving performance on slow hard drives.
+Enable diacritics matching.
+Enable fast ASCII case comparisons.
+Enable full path matching.
+Enable match whole word.
+Enable or disable regex when this bookmark is opened.
+Enable or disable regex.
+Enable or disable run history.
+Enable or disable search history.
+Enable or disable the Update Sequence Number (USN) Journal on this volume.
+Enable regex.
+Enable regular expressions.
+Enable run &history
+Enable run as administrator.
+Enable the exclude list.
+Enable to keep run history for the specified number of days.
+Enable to keep search history for the specified number of days.
+Enable update notification on startup.
+Enable wildcards.
+EnableMenuItem
+EnableThemeDialogTexture
+EnableWindow
+Enabled
+Enabling may decrease "Everything" startup performance.
+Enabling may reduce the performance of Everything.
+Enabling the service will allow ALL local user accounts to index all filenames on NTFS volumes.
+EncodePointer
+Encrypted
+End of List
+End of List Extend
+EndDialog
+EndPaint
+English (US)
+Ensure Everything is running as Administrator.
+Enter
+Enter SHFileOperation
+Enter ShellExecute
+Enter ShellExecuteExW
+Enter a folder wildcard filter to add to the exclude folder list.
+Enter dialog
+EnterCriticalSection
+EnumChildWindows
+EnumDisplayMonitors
+EnumFontFamiliesExW
+EnumWindows
+Equal to value.
+EqualRect
+Erase EOF
+Error %d: Unable to rename:
+Error %d: unable to permanently delete:
+Error %u: Failed to load config %s
+Error %u: Failed to save config
+Error opening file list.
+Error saving file list.
+Error text not found (please report)
+Errorlog.txt
+Escape
+Escape special character
+EstimatedSize
+Et$4E3
+Ethiopic
+Ethnic
+Euro-House
+Euro-Techno
+Eurodance
+Every Friday
+Every Monday
+Every Saturday
+Every Sunday
+Every Thursday
+Every Tuesday
+Every Wednesday
+Every day
+Every line in a txt file describes a file name.
+Every row under the Filename column in an efu or csv file describes a file name.
+Everything
+Everything %s
+Everything &Help
+Everything &Website
+Everything File List
+Everything File List Editor
+Everything Help
+Everything Options
+Everything Ser&vice
+Everything database is corrupt.
+Everything is up to date!
+Everything version %d.%d.%d.%d is available.
+Everything will rebuild the database to include a new fixed volume.
+Everything will rebuild the database to include a new removable volume.
+Everything.%s.%s
+Everything.FileList
+Everything.FileList\DefaultIcon
+Everything.FileList\shell\edit\command
+Everything.FileList\shell\open\command
+Everything.chm
+Everything.db
+Everything.db.tmp
+Everything.exe
+Everything.exe [filename] [-options]
+Everything.ini
+Everything.ini.tmp
+Everything.lng
+ExSel
+Exclude
+Exclude &hidden files and folders
+Exclude &system files and folders
+Exclude f&olders:
+Exclude hidden files and folders from the database.
+Exclude system files and folders from the database.
+ExcludeClipRect
+Executable
+Execute
+Execute in a separate thread
+Exit "Everything".
+ExitProcess
+ExitThread
+Expand environment variables inside % quotes.
+ExpandEnvironmentStringsW
+Expires: 0
+Explore
+Explore Path
+Export Bookmarks File
+Export Filters File
+Export Result List
+Export Search History
+Export all searches to a csv file.
+Export the bookmarks to a Comma Separated Values (CSV) file.
+Export the current result list to a file.
+Export the filters to a Comma Separated Values (CSV) file.
+Exporting...
+ExtCreateRegion
+Extension
+E|$HH
+E|$`L
+F <hO
+F(H9/t
+F0u$A
+FAILED
+FILE ROOT %t STARTWITH %s 
+FILE_LIST_FILENAME_ASCENDING
+FILE_LIST_FILENAME_DESCENDING
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+FOLDER
+FOLDER ROOT %t STARTWITH %s
+FOLDER SEARCH %t
+FPI9FH
+FRN not in use %I64x
+FSCTL_GET_NTFS_FILE_RECORD failed %u
+FSCTL_GET_NTFS_VOLUME_DATA failed %u
+Failed to copy Everything.exe: %d
+Failed to create %s
+Failed to create USN Journal %d
+Failed to notify shell icon
+Failed to notify shell icon %u
+Failed to receive version.
+Failed to run as administrator
+Failed to send version request.
+Failed to write to %s
+Fast &ASCII search
+Fast &path sort
+Fast Fusion
+Fast attrib&utes sort
+Fast date accessed sort
+Fast date created sort
+Fast date modified s&ort
+Fast e&xtension sort
+Fast s&ize sort
+FdHcF`
+February
+Fil&e list:
+File &list:
+File List
+File List &Editor
+File List &Editor...
+File List Filename
+File Lists
+File content is not indexed. Combine with other filters for the best performance.
+File list
+File list file name containin&g:
+File na&me length:
+File names containing...
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+Filename
+Filename,Size,Date Modified,Date Created,Attributes
+Filenames (including extension) ending with text.
+Filenames that do not match the old format are not effected by the new format.
+Filenames that match the expression in old format are replaced with this expression.
+Files with no Extension
+FillRect
+Filter
+Filter the list by search.
+Filters
+Filters.csv
+Filters.csv.tmp
+Find and replace text.
+Find duplicated files and folders.
+Find files and folders that are in an indexed file list where the file list file name matches this search.
+Find files and folders with the same attributes.
+Find files and folders with the same date accessed.
+Find files and folders with the same date created.
+Find files and folders with the same date modified.
+Find folders with the specified number of files.
+Find folders with the specified number of subfolders and files.
+Find folders with the specified number of subfolders.
+Find images with the specified bits per pixel.
+Find images with the specified height in pixels.
+Find images with the specified width and height.
+Find images with the specified width in pixels.
+Find media files with the specified track number.
+Find only folders that contain a file or subfolder with the specified filename.
+FindClose
+FindCloseChangeNotification
+FindFirstChangeNotificationW
+FindFirstFileW
+FindFirstVolumeMountPointW
+FindFirstVolumeW
+FindNextChangeNotification
+FindNextFileW
+FindNextVolumeMountPointW
+FindNextVolumeW
+FindResourceW
+FindVolumeClose
+FindVolumeMountPointClose
+FindWindowW
+Finding excluded files...
+Finding excluded folders...
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+FlushFileBuffers
+Focus Down
+Focus Down Extend
+Focus End of List
+Focus End of List Extend
+Focus Highest Run Count Result
+Focus Last Run Result
+Focus Left Extend
+Focus Page Down
+Focus Page Down Extend
+Focus Page Up
+Focus Page Up Extend
+Focus Preview
+Focus Result List
+Focus Right Extend
+Focus Search Edit
+Focus Start of List
+Focus Start of List Extend
+Focus Up
+Focus Up Extend
+Focus and select the specified result.
+Focus search on &activate
+Focus the bottom result.
+Focus the last run result.
+Focus the most run result.
+Focus the result list.
+Focus the search edit when the search window is activated.
+Focus the top result.
+Folder
+Folder de&pth:
+Folder\shell\%s
+Folder\shell\%s\command
+Folder\shell\Search Everything...
+Folders
+Folders with a &child subfolder or file name containing:
+Folders with this many files:
+Folders with this many subfolders and files:
+Folders with this many subfolders:
+Folk-Rock
+Folklore
+Font st&yle:
+Fonts and Colors
+For the best results use one duplicate option with an extension or a type search.
+Force database rebuild.
+Foreground &color:
+Format for the new filenames.
+Format for the new full paths and filenames.
+Format to match old filenames.
+Format to match old full paths and filenames.
+Forward slashes (/) are replaced with backslashes (\).
+FreeConsole
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+FreeLibrary
+FreeResource
+Freestyle
+Friday
+Full paths and filenames that do not match the old format are not effected by the new format.
+Fullscreen
+Function Syntax:
+Functions:
+Fusion
+G H9yxu
+G HcC$H+
+G Icv 
+G LcD$ H
+G Mcw$M
+G$IcN
+G(Hcl$XA
+G(LcC$A;
+G(Lct$X
+GB = 1024 MB.
+GDI32.dll
+GENRE
+GET %s
+GT Wang
+GUID_IO_VOLUME_DISMOUNT
+GUID_IO_VOLUME_DISMOUNT_FAILED
+GUID_IO_VOLUME_LOCK
+GUID_IO_VOLUME_LOCK_FAILED
+GUID_IO_VOLUME_MOUNT
+GUID_IO_VOLUME_UNLOCK
+GXH9GPu>
+Gangsta
+Gd t-H
+General
+Georgian
+Get Thumbnail Exception %08x
+GetACP
+GetActiveWindow
+GetAsyncKeyState
+GetCPInfo
+GetCalendarInfoW
+GetCapture
+GetChunk Done
+GetClassInfoExW
+GetClassNameW
+GetClientRect
+GetClipboardData
+GetCommandLineA
+GetCommandLineW
+GetCommandString GCS_HELPTEXTA exception
+GetCommandString GCS_HELPTEXTW exception
+GetCommandString exception
+GetComputerNameW
+GetConsoleScreenBufferInfo
+GetCurrentDirectoryW
+GetCurrentObject
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThread
+GetCurrentThreadId
+GetCursorPos
+GetDC
+GetDCOrgEx
+GetDIBits
+GetDateFormatW
+GetDesktopWindow
+GetDeviceCaps
+GetDiskFreeSpaceExW
+GetDiskFreeSpaceW
+GetDlgCtrlID
+GetDlgItem
+GetDlgItemInt
+GetDoubleClickTime
+GetDriveTypeW
+GetEnvironmentStrings
+GetEnvironmentStringsW
+GetFileAttributesExW
+GetFileAttributesW
+GetFileInformationByHandle
+GetFileInformationByHandle fail %d for FRN %016I64x%016I64x
+GetFileInformationByHandleEx
+GetFileSize
+GetFileType
+GetFocus
+GetForegroundWindow
+GetFullPathNameW
+GetKeyNameTextW
+GetKeyState
+GetKeyboardLayout
+GetKeyboardLayoutList
+GetLastActivePopup
+GetLastActivePopup %p
+GetLastError
+GetLayout
+GetLocalTime
+GetLocaleInfoA
+GetLocaleInfoW
+GetLongPathNameW
+GetMenu
+GetMenuDefaultItem
+GetMenuItemCount
+GetMenuItemID
+GetMenuItemInfoW
+GetMenuState
+GetMessagePos
+GetMessageW
+GetModuleFileNameA
+GetModuleFileNameW
+GetModuleHandleA
+GetModuleHandleW
+GetMonitorInfoW
+GetNativeSystemInfo
+GetNearestColor
+GetNextDlgTabItem
+GetNumberFormatW
+GetOEMCP
+GetObject() DIBSECTION
+GetObjectW
+GetOpenFileNameW
+GetOverlappedResult
+GetOverlappedResult %s %d
+GetParent
+GetProcAddress
+GetProcessHeap
+GetProcessWindowStation
+GetRandomRgn
+GetRegionData
+GetSaveFileNameW
+GetScrollInfo
+GetStartupInfoA
+GetStartupInfoW
+GetStdHandle
+GetStockObject
+GetStringTypeA
+GetStringTypeW
+GetSubMenu
+GetSysColor
+GetSysColorBrush
+GetSystemDefaultLangID
+GetSystemDirectoryW
+GetSystemInfo
+GetSystemMetrics
+GetSystemTime
+GetSystemTimeAsFileTime
+GetTempPathW
+GetText Done
+GetTextAlign
+GetTextExtentExPointW
+GetTextExtentPoint32W
+GetTextMetricsW
+GetThemeBackgroundContentRect
+GetThreadPriority
+GetTickCount
+GetTimeFormatW
+GetTimeZoneInformation
+GetUIObjectOf crashed
+GetUserDefaultUILanguage
+GetUserNameW
+GetUserObjectInformationA
+GetVersionExA
+GetVolumeInformationW
+GetVolumeNameForVolumeMountPoint %S
+GetVolumeNameForVolumeMountPoint ok %s %s
+GetVolumeNameForVolumeMountPointW
+GetVolumePathNamesForVolumeName %d
+GetVolumePathNamesForVolumeName %s
+GetVolumePathNamesForVolumeName2 %d
+GetVolumePathNamesForVolumeNameW
+GetWindowLongPtrW
+GetWindowLongW
+GetWindowPlacement
+GetWindowRect
+GetWindowTextLengthW
+GetWindowTextW
+GetWindowThreadProcessId
+GetWindowsDirectoryW
+Glagolitic
+Global
+Global = any focus in the Everything window.
+GlobalAlloc
+GlobalFree
+GlobalLock
+GlobalUnlock
+Go to the next search.
+Go to the previous search.
+Gospel
+Gothic
+Gothic Rock
+Gp@85*l
+Grantha
+Greater than or equal to value.
+Greater than value.
+Greek
+Grouping
+Grunge
+Gujarati
+Gurmukhi
+H+E H
+H+F L
+H+kPH
+H+n0H
+H+o @
+H9(u!H
+H9+u7H
+H9=R$
+H9=c*
+H9C4t
+H9G u
+H9G(u
+H9H@s
+H9HPt
+H9Hxt
+H9K u5H9
+H9L$H
+H9L$P
+H9M@r
+H9XPtmH
+H9Yxt
+H9\$8tSL
+H9k H
+H9l$@
+H9n8t
+H9n@t
+H9p0t
+H9sht
+H9t$8E
+H9yhu
+H9ypu
+H9|$hu
+H;A r
+H;A(w
+H;B r
+H;B(A
+H;C@r
+H;D$Pv
+H;D$XH
+H;D$`
+H;D$hv
+H;E r
+H;E(A
+H;Gxu
+H;H(w
+H;L$ 
+H;L$ t[H
+H;L$0H
+H;L$P
+H;L$XH
+H;L$`H
+H;M r
+H;NXr
+H;S@r
+H;S@s1fff
+H;\$@rR
+H;\$Xu
+H;_HH
+H;t$ t
+H;t$0
+H<u"IcH
+HARD_LINK_CHANGE 
+HA\_][
+HA^A]_^][
+HA_A^A]_^]
+HA_A^_^
+HA__^[
+HEADER %s
+HEAD_BEGIN
+HEAD_END
+HH:mm:ss
+HHH9L$@t
+HHH9L$@tXH
+HTTP Server
+HTTP Server\drive.png
+HTTP Server\everything.png
+HTTP Server\favicon.ico
+HTTP Server\file.png
+HTTP Server\folder.png
+HTTP Server\icon.png
+HTTP Server\main.css
+HTTP server offline.
+HTTP server online.
+HTTP/1.0 %d %s
+HTTP/1.0 200 OK
+HTTP/1.0 206 OK
+HTTP_SERVER_STRINGS
+HWND %p %p
+H_^][
+Hangul
+Hanunoo
+Hard Rock
+Hc=U|
+Hc=||
+HcA4H
+HcC$H
+HcC$H+
+HcC8H
+HcD$ H
+HcD$0L
+HcD$8L
+HcD$@H
+HcD$@H=
+HcD$H
+HcD$XHct$`H
+HcD$\
+HcD$`
+HcD$d
+HcE D
+HcE E3
+HcE H
+HcE HcM$E3
+HcE$M
+HcE(E3
+HcF H
+HcF$D
+HcG$H
+HcGdA
+HcH<H
+HcI$;
+HcK$H
+HcKlH
+HcL$(
+HcL$0HcD$8H
+HcL$@H
+HcL$LH
+HcL$PH
+HcL$XIc
+HcL$`H
+HcL$pH
+HcM H
+HcM$HcE E3
+HcMlH
+HcN H
+HcO0H
+HcO\H
+HcP$H
+HcT$@H
+HcT$`H
+HcUHH
+HcV L
+HcV$H
+Hc\$ 
+Hc\$ L
+Hc\$8
+Hc\$<
+Hc\$XH
+Hc\$pH
+Hcl$ L
+Hcl$$
+Hcl$dH
+Hct$ H
+Hct$$D
+Hct$@H
+Hct$HH
+Hct$`ff
+Hcu$H
+Hcu$M
+Hc|$@LcL$|
+HeapAlloc
+HeapCreate
+HeapFree
+HeapFree(0x%08x,0,0x%08x): %d: Failed to free.
+HeapReAlloc
+HeapSetInformation
+HeapSize
+Hebrew
+Help support the future development of "Everything".
+Help...
+Henry Spencer
+Hidden
+Hides the current foreground search window or shows the search window.
+Higher AND precedence: A B | C D = (A B) | (C D)
+Higher OR precedence: A B | C D = A (B | C) D
+Highlight search terms by making them bold in the results.
+Highlighted
+Highlights the row the cursor is over.
+Hip-Hop
+Hiragana
+History
+Host the pipe server with the security descriptor.
+Host the pipe server with the specified name.
+Hot (Highlighted)
+Hot Inactive Selected
+Hot Inactive Selected (Highlighted)
+Hot Selected
+Hot Selected (Highlighted)
+Hours
+House
+Hover
+HtmlHelpW
+Humour
+I+C H
+I+[ H
+I+h H
+I+k @
+I+k E
+I+k H
+I9K@v;I
+I9K@v<
+I9K@w
+I9P M
+I9Q M
+I9Xpu
+I9Xxu
+I9m t
+I9n8t
+I9s(t
+I;N r
+I< s:H
+IDATx
+IFilter %08x
+IFilter::GetText exception %08x
+IFilter::Init exception %08x
+IFilter::Release exception %08x
+IHcy$H
+IImageList->Draw failed
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+INDEXABLE_CHANGE 
+INI Files (*.ini)%c*.ini%c%s (*.*)%c*.*%c%c
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+IP or host name of the ETP server
+IPC: Client disconnected.
+IPC: execute query: %s
+IPC: query complete: %u max results, offset %d, reply hwnd %d
+IPC: wait %d
+IPC: watch awake
+IPersistStream::Load exception %08x
+IPersistStream::QueryInterface exception %08x
+IPersistStream::Release exception %08x
+IStream::Release exception %08x
+I\$PH
+Ic@ E
+IcB$Ic
+IcCdL
+IcClI
+IcE I
+IcE$I
+IcG$H
+IcHlI
+IcK`I
+IcKlI
+IcM I
+IcO H
+IcP M
+IcQ$D;
+IcRtA
+IcU M
+IconUnderline
+IconsOnly
+Icv$M
+If a search window does not exist a new window is created.
+If disabled, wildcard matches can occur anywhere in the filename. Use wholefilename: or nowholefilename: to override.
+IllJl
+ImageList_DrawEx
+ImageList_GetIconSize
+ImmGetVirtualKey
+Imperial_Aramaic
+Import Bookmarks File
+Import Filters File
+Import Search History
+Import bookmarks from a Comma Separated Values (CSV) file.
+Import filters from a Comma Separated Values (CSV) file.
+Import searches from a csv file. Existing searches will be updated.
+Inactive Selected
+Inactive Selected (Highlighted)
+Include &only:
+Include USN Journal in recent &changes
+Include a backslash (\) to match the full path and file name.
+Include a starting double quote and trailing double quote when copying the path.
+Include additional search options at the end of the advanced search.
+Include all the files and folders in the USN Journal on this volume in recent changes.
+Include path
+Include subfolders
+Include subfolders in the searched location.
+Include the number of results when displaying the number of selected items.
+Include this volume in the Everything database.
+Including a backslash (\) in your filter will match full paths.
+Increase Thumbnail Size
+Increase the font and icon size.
+Index
+Index &attributes
+Index &date created
+Index da&te modified
+Index dat&e accessed
+Index file &size
+Index folder si&ze
+Index of 
+Index recent chan&ges
+Index recent changes must be enabled.
+Indexes
+Indexing %s, %s, %s
+Indexing %s...
+Industrial
+Inherited
+InitCommonControlsEx
+InitializeCriticalSection
+InitializeCriticalSectionAndSpinCount
+InitializeSecurityDescriptor
+Inscriptional_Pahlavi
+Inscriptional_Parthian
+Insert
+Insert the items you have copied or cut into the selected location.
+InsertMenuW
+Install "Everything" from the system startup.
+Install "Everything" shortcuts from the Start menu.
+Install "Everything" to a new location.
+Install EFU file association.
+Install Quick Launch shortcut.
+Install URL Protocol.
+Install and start the "Everything" service.
+Install desktop shortcut.
+Install folder context menus.
+Install or uninstall the "Everything" service.
+Install the "Everything" &service
+Install the "Everything" client as a service.
+Install the specified ini file.
+InstallAppData
+InstallChooseVolumes
+InstallDesktopShortcut
+InstallEFUAssociation
+InstallFolderContextMenu
+InstallLanguage
+InstallLocation
+InstallQuickLaunchShortcut
+InstallRunAsAdmin
+InstallRunOnStartup
+InstallService
+InstallStartMenuShortcuts
+InstallURLProtocol
+InstallUpdateNotification
+Instrumental
+Instrumental Pop
+Instrumental Rock
+InternetCloseHandle
+InternetOpenUrlW
+InternetOpenW
+InternetReadFile
+IntersectRect
+Invalid file code offset %d > %d.
+Invalid folder code offset %d > %d.
+Invalid username or password.
+InvalidateRect
+InvalidateRgn
+Irshat Ghalip
+Is in the range of values from start to end.
+IsAdmin %d
+IsAppThemed
+IsClipboardFormatAvailable
+IsDebuggerPresent
+IsDlgButtonChecked
+IsIconic
+IsThemeActive
+IsThemeBackgroundPartiallyTransparent
+IsThemePartDefined
+IsUserAnAdmin
+IsValidCodePage
+IsWindow
+IsWindowEnabled
+IsWindowVisible
+IsZoomed
+Item Down
+Item Down extend
+Item Up
+Item Up Extend
+Item selection bounds extend the entire row.
+J,fff
+J0<*M
+J>@G_
+JXHcB`L
+Jadran Rudec
+JanFebMarAprMayJunJulAugSepOctNovDec
+January
+Javanese
+Jazz+Funk
+Jeroen Westera
+Journal ID changed
+Journal ID changed %I64016x != %I64016x
+Julian Seward
+Jump to
+Jungle
+K SUVWATAUH
+K SUVWH
+K t%L
+K<tM;
+KB = 1024 bytes.
+KERNEL32.DLL
+KERNEL32.dll
+KPt*H
+KX)Kl
+KXIcC`H
+Kaithi
+Kannada
+Katakana
+Kayah_Li
+Keep a list of changes to the Everything database.
+Keep run history &for
+Keep run history for the specified number of days before it is deleted.
+Keep search history for the specified number of days before it is deleted.
+Keep this window on top of other windows while searching.
+Keyboard
+Kh)K`
+Kharoshthi
+Khmer
+Khojki
+Khudawadi
+KillTimer
+Koray KIRCAOGLU
+Kp9Kl
+L $E3
+L$ A+
+L$ D+
+L$ E3
+L$ H3
+L$ H9
+L$ H;L$(t
+L$ H;L$P
+L$ I+
+L$ Lc
+L$ SH
+L$ SUVWATAUAVAWH
+L$ SUVWATH
+L$ SUVWAVH
+L$ SUVWH
+L$ SVWH
+L$ SWH
+L$ UATAUAVAWH
+L$ UVWH
+L$ UWATH
+L$ WATAUAVAWE
+L$ WATAUAVAWH
+L$ WH
+L$ fB
+L$ fD
+L$ fff
+L$!E:
+L$$A;
+L$(+L$ +
+L$(A;L$ r
+L$(D;
+L$(E+
+L$(E3
+L$(H3
+L$(H;
+L$(Hc
+L$(HcA
+L$(Ic
+L$(LcA
+L$,uBA
+L$0;A 
+L$0D8!t
+L$0E3
+L$0H+
+L$0H3
+L$0H;
+L$0H;A 
+L$0H;A r
+L$0H;L$Ht/L
+L$0Hc
+L$0I+
+L$0I;
+L$0Ic
+L$0IcQ M
+L$0McA I
+L$0fD
+L$0fff
+L$0t#
+L$0t&H
+L$0t@H
+L$4D;
+L$8+D$4D+L$0H
+L$8+L$0
+L$89L$4
+L$8D+\$LD+L$0H
+L$8D8)t<;
+L$8E3
+L$8H3
+L$8H;L$H
+L$8H;L$`
+L$8I;
+L$8LcA
+L$8Mk
+L$<}+A;
+L$@+|$4D
+L$@@89t
+L$@D+
+L$@D;
+L$@E3
+L$@H9
+L$@H;
+L$@Hc
+L$@HcP$H
+L$@I;
+L$@Ic
+L$@fD
+L$@fff
+L$@t"H
+L$@t&H
+L$@t(H
+L$@t-H
+L$@xkL
+L$@xmL
+L$@xnL
+L$@xqL
+L$@xyL
+L$A@:
+L$CtLH
+L$DHk
+L$Dth
+L$EfA
+L$H@89t
+L$HA+
+L$HE3
+L$HH3
+L$HH;L$Pu
+L$HL+
+L$HLc
+L$Ht?I
+L$HtO
+L$NE3
+L$P@8)t
+L$P@89t
+L$PE+
+L$PE3
+L$PE;
+L$PH9
+L$PH;L$Xu
+L$PLc
+L$X@89t
+L$XA8
+L$XA;
+L$XE3
+L$XH3
+L$XL+
+L$Xfff
+L$\Lc
+L$`@89t
+L$`D+
+L$`E3
+L$`H3
+L$`H;
+L$`H;L$hu
+L$`Hc
+L$`I;
+L$`Lc
+L$d+D$`;
+L$dH;
+L$dtMD+
+L$h@89t
+L$hD+
+L$hD8!t
+L$hE3
+L$hH3
+L$hH;
+L$hLc
+L$hff
+L$lD+
+L$lD;
+L$p+D$LD+L$HE3
+L$p<}r
+L$p@89t
+L$pA+
+L$pE+
+L$pE3
+L$pH3
+L$pH;L$xu
+L$pLc
+L$pt1I
+L$xE3
+L$xH3
+L$xH;
+L$xHcT$p
+L$xL;
+L$xLct$pA
+L$xLc|$pA
+L$xfff
+L+gHI
+L9-<: 
+L9CxtU
+L9JxtIA
+L9N(t%H
+L9[0t
+L9[8t
+L9d$0
+L9d$8
+L9d$`
+L9g8D
+L9iht
+L9kxt
+L9l$@
+L9l$@t
+L9mPt
+L9nht
+L9o8H
+L9o@H
+L9oHH
+L9oPH
+L9oXH
+L9s(uBL9s`u<D85
+L9t$8
+L9t$8u
+L9x8u
+L9{pu
+L9{xu
+L9{xu!
+L9|$@t
+L9~Hu
+L;D$Pu
+L;J u[L9B(uU
+L;L$0t
+L;d$H
+L;l$Pt6H
+L;t$0D
+L;|$0D
+L;|$Xrx@8+H
+LCMapStringA
+LCMapStringW
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+LIMIT_MATCH=
+LIMIT_RECURSION=
+Last Run Date
+Last Search Date
+Last-Modified: %s
+Latest version information not found.
+Latin
+Lazily matches the preceding element one or more times
+Lazily matches the preceding element zero or more times
+Lc@hH
+LcA$A;
+LcA0H
+LcA0L
+LcA<E3
+LcC8H
+LcD$ H
+LcD$ I
+LcD$@A+
+LcD$@H
+LcD$D=
+LcD$`Hc
+LcF H
+LcGlH
+LcI$A;
+LcN,A
+LcQ$A;
+LcX H
+LcX L
+LcXlH
+Lc\$0E
+Lc\$0H
+Lc\$@
+Lc\$@B
+Lc\$@H
+Lc\$`3
+Lc^ H
+Lc^ Hc
+Lc_$A;
+Lcc8H
+Lcd$ H
+Lcd$8L
+Lcd$`L
+Lcd$xL
+Lcl$ H
+Lcl$0H
+Lcl$@
+Lcl$@L
+Lct$pL
+Leave SHFileOperation
+Leave SHFileOperation %d %d
+Leave ShellExecute
+Leave ShellExecuteExW
+Leave all attributes unchecked to search for all files.
+Leave both empty to search all files.
+Leave both unchecked to search all files.
+Leave empty to store the database file in the default location for local application data.
+LeaveCriticalSection
+Left Arrow
+Left Extend
+Left Mouse Button
+Lepcha
+Less than or equal to value.
+Less than value.
+License - Everything
+License.txt
+Limbu
+Limit results to a specific path.
+Limit the number of results to max.
+Lin&k type:
+Linear_A
+Linear_B
+Link Type
+Link type:
+List of bookmarks.
+List of commands
+List of file lists to include in the Everything index.
+List of filters.
+List of folders to exclude.
+List of folders to include in the Everything index.
+List of item states
+List of keyboard shortcuts for the selected command.
+List of new filenames generated from the new format.
+List of new full paths and filenames generated from the new format.
+List of the original filenames.
+List of the original full paths and filenames.
+ListBox
+Listen for new connections on the specified port.
+Listen for new connections on the specified semicolon delimited list of interfaces.
+Listen on &port:
+ListviewAlphaSelect
+Literal ampersand (&)
+Literal apostrophe (')
+Literal double quote (")
+Literal greater than (>)
+Literal less than (<)
+Literal unicode character <n> in decimal.
+Literal unicode character <n> in hexadecimal.
+Lo-Fi
+Load &icon priority:
+Load &thumbnail priority:
+Load all files and folders from the USN change journal into the recent change database.
+Load extended in&formation priority:
+Load recent &changes from USN journal
+Load the local database when opening this bookmark.
+Load the local database.
+LoadCursorW
+LoadIFilter
+LoadIFilter exception %08x
+LoadIconW
+LoadImageW
+LoadLibraryA
+LoadLibraryW
+LoadResource
+Loading %s...
+Loading database...
+Loading structure %08x: %d folders, %d files...
+Loads the database in read-only mode.
+Local Disk
+Local database
+LocalAlloc
+LocalFileTimeToFileTime
+LocalFree
+Located In
+LockResource
+Log &file:
+Log all ETP/FTP server connections, requests and responses.
+Log all HTTP server requests and responses.
+Log debugging information to disk
+Logs\ETP_Server_Log
+Logs\ETP_Server_Log.txt
+Logs\HTTP_Server_Log
+Logs\HTTP_Server_Log.txt
+Looking up %s...
+Lycian
+Lydian
+M tZA
+M(fff
+M(t/L
+M(t:L
+M9,$t
+M9HxtL
+M9n8t
+M9nHt
+MB = 1024 KB.
+MFT USA Count %u
+MFT USA Offset %u
+MFT allocated_length %I64u
+MFT attribute_id %u
+MFT attribute_offset %u
+MFT base_frn %u
+MFT bytes_allocated %u
+MFT bytes_in_use %u
+MFT compression_unit_size %u
+MFT file_size %I64u
+MFT flags %u
+MFT form flags %u
+MFT highest_vcn %I64u
+MFT lowest_vcn %I64u
+MFT lsn %I64u
+MFT mapping_pairs_offset %u
+MFT name_count %u
+MFT name_length %u
+MFT name_offset %u
+MFT next_attribute_number %u
+MFT record_length %u
+MFT sequence_number %u
+MFT total_allocated %I64u
+MFT type %t
+MFT valid_data_length %I64u
+MM/dd/yy
+MODIFIED 
+MS Shell Dlg
+MSG: %p %04x %p %p
+MSGFILTER: %p %04x %p %p
+MZu_Hc
+Macro
+Macros:
+Mahajani
+Malayalam
+Mandaic
+Manichaean
+MapVirtualKeyExW
+MapWindowPoints
+March
+Match &Case
+Match &Diacritics
+Match &Path
+Match &Whole Word
+Match &case
+Match &case:
+Match &diacritics
+Match &diacritics:
+Match &path
+Match &path when a search term contains a path separator
+Match &path:
+Match &regex:
+Match &whole filename when using wildcards
+Match &whole word
+Match &whole word:
+Match c&ase
+Match case
+Match case or ignore case.
+Match case when opening a new search window.
+Match case.
+Match d&iacritics
+Match diacritical marks.
+Match diacritics
+Match diacritics when opening a new search window.
+Match files only.
+Match folders only.
+Match or ignore accent marks.
+Match or ignore case when this bookmark is opened.
+Match or ignore case.
+Match or ignore diacritics when this bookmark is opened.
+Match or ignore diacritics.
+Match or ignore path when this bookmark is opened.
+Match or ignore path.
+Match or ignore whole word when this bookmark is opened.
+Match or ignore whole word.
+Match pa&th
+Match path and file name.
+Match path when opening a new search window.
+Match regex when opening a new search window.
+Match the whole filename.
+Match w&hole word
+Match whole word when opening a new search window.
+Match whole words
+Match whole words only.
+Match word boundaries
+Match words anywhere or only match whole words.
+Matches a or b
+Matches a single character a, b or c
+Matches a single character in the range a to z
+Matches a single character in the range a to z or A to Z
+Matches any single character
+Matches any single character except a, b or c
+Matches gray or grey
+Matches one character.
+Matches the end of the filename
+Matches the preceding element between x and y times
+Matches the preceding element one or more times
+Matches the preceding element x or more times
+Matches the preceding element x times
+Matches the preceding element zero or more times
+Matches the preceding element zero or one times
+Matches the start of the filename
+Matches this &regular expression:
+Matches what the nth marked subexpression matched, where n is a digit from 1 to 9
+Matches zero or more characters.
+Mateus Scherer Cardoso
+Maximize the search window.
+Maximum &size:
+Maximum si&ze:
+Maximum size of the ETP server log file, in kilobytes. (0 = unlimited)
+Maximum size of the HTTP server log file, in kilobytes. (0 = unlimited)
+McBtA
+McE I
+Mc] Hc
+Mc] I
+Meditative
+Meetei_Mayek
+Mende_Kikakui
+Merge.c
+Merge.ini
+Merge2.ini
+Meroitic_Cursive
+Meroitic_Hieroglyphs
+MessageBeep
+MessageBoxA
+MessageBoxW
+Metal
+Mhttp://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0S
+Mhttp://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0
+Michael Banz
+Microsoft Visual C++ Runtime Library
+Microsoft\Internet Explorer\Quick Launch
+Middle Mouse Button
+Minimize the search window.
+Minutes
+Mo&ve to Folder...
+Modifiers:
+Modify the selected excluded folder or filter.
+Monday
+Mongolian
+Monitor file name changes on this volume.
+MonitorFromRect
+MonitorFromWindow
+Mouseover
+Mouseover (Highlighted)
+Move &Up
+Move To
+Move the selected bookmark down one position.
+Move the selected bookmark up one position.
+Move the selected files to another location.
+Move the selected filter down one position.
+Move the selected filter up one position.
+MoveFileExW
+MoveFileExW(): GetLastError(): %d: Failed to move file from %s to %s
+MoveFileW
+MoveFileW(): GetLastError(): %d: Failed to move file from %s to %s
+Mozilla/5.0 (compatible; Everything/%s; +https://www.voidtools.com/update/)
+MulDiv
+MultiByteToWideChar
+Multiple changes that occur within a small time frame can be missed.
+Musical
+Myanmar
+N!p!q!r!s!t!u!v!w!x!y!z!{!|!}!~!
+N(N6N?NYN
+N)Y0W
+N2uYN
+N<@E3
+N?QeQkQ
+NAMED_DATA_EXTEND 
+NAMED_DATA_OVERWRITE 
+NAMED_DATA_TRUNCATION 
+NAME_ASCENDING
+NAME_DESCENDING
+NO file from frn %d
+NO_AUTO_POSSESS)
+NO_START_OPT)
+NRFR read error %d
+NRFR read error %d != %d
+NTFS    
+NTFS parent frn %016I64x %t
+NXHcF`H
+Nabataean
+Name of this bookmark
+Name of this filter
+National Folk
+Native American
+Ne&ver rescan
+Nedim Laletovic
+Network drives are limited to 64 KB.
+Never
+Never rescan this folder, click Rescan Now to rescan manually.
+New Age
+New Bookmark
+New Filter
+New For&mat:
+New Wave
+New for&mat:
+New_Tai_Lue
+Next >
+Next Everything Window
+Next Track
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+NkQ]NAS
+No iFilter for %s
+NoModify
+NoRepair
+Noise
+Normal
+Not Content Indexed
+Not Found
+Not content indexed
+Notify me when updates are available from %s.
+NotifyWinEvent
+November
+Num Lock
+Nx+|$@+\$DH
+OBJECT_ID_CHANGE 
+OEM 102
+OEM 8
+OHtJi
+OPTS UTF8 ON
+OR > AND
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+October
+Odyssey
+Offline
+Offline Disk
+OffsetClipRgn
+OffsetRect
+OffsetRgn
+Ogham
+Ol_Chiki
+Olav M
+Old &Format:
+Old &format:
+Old format will be regenerated when toggled.
+Old_Italic
+Old_North_Arabian
+Old_Permic
+Old_Persian
+Old_South_Arabian
+Old_Turkic
+Oldies
+OleInitialize
+OleUninitialize
+On &Top
+Only display results when you type in a search.
+Only fast sorts will be used for the last value.
+Only run if this is the first instance of "Everything".
+Open "Everything" from ES: URLs.
+Open &path with double click in path column
+Open (Files)
+Open (Folders)
+Open Everything from the tray icon with a single click.
+Open New
+Open Path
+Open Selection and Close Everything
+Open Selection and do not Close Everything
+Open With
+Open With Default Verb
+Open a bookmark.
+Open a file list with the file list editor.
+Open a file list.
+Open a path in the path column by double clicking.
+Open an existing file list.
+Open an item with a single or double click.
+Open containing folder in the default file browser.
+Open containing folder.
+Open in the default file browser.
+Open last run
+Open most run
+Open pipe failed %d
+Open the Everything file list editor to create new file lists or modify existing file lists.
+Open the Everything file list editor to create or modify file lists.
+Open the Everything website in your web browser.
+Open the current selection.
+Open the home search.
+Open the specified file list when opening this bookmark.
+Open the specified file list.
+OpenClipboard
+OpenFileById
+OpenFileById failed %d for FRN %016I64x%016I64x
+OpenIcon
+OpenProcess
+OpenSCManagerW
+OpenServiceW
+OpenThemeData
+OpenThread
+Opening file list...
+Opening...
+Opens a new search window.
+Opens the bookmarks manager.
+Opens the download page for the language pack
+Opens the filters manager.
+Opens the search history manager.
+Opera
+Operators:
+Organize Bookmarks
+Organize Filters
+Organize Search History
+Oriya
+Osmanya
+Other
+Other file sorts: %f seconds
+P t~E
+P&roperties
+P(H9_
+PASS %s
+PATH_ASCENDING
+PATH_DESCENDING
+PATH_INDEX_OF
+PATH_INDEX_OF2
+PATH_UPDIR
+PATH_UPDIR2
+PATH_UPDIR3
+PA\][
+PA\_^
+PA]A\_
+PA]A\_^]
+PA^A]A\
+PA^A]_^]
+PA^^]
+PCRE does not support \L, \l, \N{name}, \U, or \u
+PICTURE
+PNGuK
+POSIX collating elements are not supported
+POSIX named classes are supported only within a class
+POSSIBILITY OF SUCH DAMAGE.
+PRUNE
+P`IcHlI
+Page Down
+Page Down Extend
+Page Up
+Page Up Extend
+Pahawh_Hmong
+Palmyrene
+ParseDisplayName %S
+ParseDisplayName %p
+ParseDisplayName crashed
+ParseDisplayName crashed!
+ParseDisplayName failed
+Pass&word:
+PatBlt
+PathCombineW
+PathIsRootW
+PathRemoveFileSpecW
+Pau_Cin_Hau
+Pause
+PeekMessageW
+PerceivedType
+Perform more complex searches, such as searching file content, sizes, dates and types.
+Periodically scroll the window when the mouse is dragged outside the visible area.
+Perl-Compatible Regular Expressions
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+Phags_Pa
+Phoenician
+Phttp://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crt0
+Picture
+Piotr J. Balwierz
+Play/Pause Media
+Please contact the application's support team for more information.
+Please make sure run as administrator is disabled if Everything does not run on system startup.
+Please restart Everything to rebuild the database.
+Polka
+Pop-Folk
+Pop/Funk
+Porn Groove
+PostMessageW
+PostQuitMessage
+PostThreadMessageW
+Poul Bundgaard
+Power Ballad
+Pragma: no-cache
+Pranks
+Press Backspace to clear.
+Press Delete to delete an existing bookmark.
+Press Delete to delete an existing filter.
+Press F2 or double click to edit an existing bookmark.
+Press F2 or double click to edit an existing filter.
+Press a new keyboard shortcut for this bookmark.
+Press a new keyboard shortcut for this filter.
+Press a new keyboard shortcut to create a new search window.
+Press a new keyboard shortcut to show the search window.
+Press a new keyboard shortcut to toggle the search window.
+Press a new keyboard shortcut.
+Pressing enter from the search edit will focus the result with the highest run count.
+Prev Track
+Preview
+Previous Everything Window
+Primus
+Print
+Print Screen
+Print To
+Private Organization1
+Processors %d
+ProfilesDirectory
+Program: 
+Progressive Rock
+Psalter_Pahlavi
+Psychadelic
+Psychedelic Rock
+PtInRect
+Publisher
+Punk Rock
+QUERY_CUR
+QUERY_CUR2
+QUERY_NAV
+QUERY_NEXT
+QUERY_NEXT2
+QUERY_NEXT3
+QUERY_NUM
+QUERY_NUM2
+QUERY_NUM3
+QUERY_NUMRESULTS
+QUERY_NUMRESULTS2
+QUERY_PAGE
+QUERY_PAGE_END
+QUERY_PREV
+QUERY_PREV2
+QUERY_PREV3
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+QueryContextMenu %08x
+QueryContextMenu exception %08x
+QueryContextMenu...
+QueryDosDevice %S %S
+QueryDosDevice %d %S %S
+QueryDosDeviceW
+QueryPerformanceCounter
+QueryPerformanceFrequency
+QueryServiceConfigW
+QueryServiceStatusEx
+Querying USN Change Journal on %s (%s)
+Querying...
+Quits Everything.
+R&un count:
+R6002
+R6008
+R6009
+R6016
+R6017
+R6018
+R6019
+R6024
+R6025
+R6026
+R6027
+R6028
+R6030
+R6031
+R6032
+R6033
+R6034
+RBTsY
+RDC RDN open folder volume %s %d
+READ DIRECTORY CHANGE GET FD %d %s
+READ DIRECTORY CHANGE UPDATE %d %s
+READING NTFS %d
+READING REFS %d
+REBAR
+REFS parent frn %016I64x%016I64x %t
+REGEX
+REMOVED 
+RENAMED_NEW_NAME 
+RENAMED_OLD_NAME 
+RENAME_NEW_NAME 
+RENAME_OLD_NAME 
+REPARSE_POINT_CHANGE 
+RESCAN CREATE %t
+RESCAN DELETE %p %t
+RESCAN DELETE %t
+RESCAN MODIFY %p %t
+RESCAN MODIFY %t
+RESCAN MODIFY FOLDER %p %t
+RESCAN MODIFY FOLDER %t
+RESULT_A
+RESULT_A2
+RESULT_A_END
+RESULT_ICON
+RESULT_ICON2
+RESULT_NOBR
+RESULT_NOBR_END
+RESULT_TD
+RESULT_TD2
+RESULT_TD_END
+RESULT_TR
+RESULT_TR2
+RESULT_TR_END
+RESUME NTFS %d %d
+RESUME REFS %d %d
+Read Extended &Information
+Read Only
+Read only
+Read the file size, date modified, date created and attributes for the current selection.
+ReadDirectoryChangesW
+ReadDirectoryChangesW %s %d
+ReadDirectoryChangesW FAIL %s %d
+ReadFile
+ReadFile(): %d: Failed to read.
+Reading extended information...
+Ready
+Rebuild the database
+Rebuilding file indexes...
+Rebuilding folder indexes...
+Rebuilding the database may be necessary when removing the system attribute from a folder.
+Rebuilding the database may be necessary when unhiding a folder.
+Recent changes indexing is similar to Date Modified indexing except only recently modified files are indexed.
+RectVisible
+Redistribution and use in source and binary forms, with or without
+RedrawWindow
+Refresh all extended information, icon and thumbnail cache.
+RegCloseKey
+RegCreateKeyExW
+RegDeleteKeyExW
+RegDeleteKeyW
+RegDeleteValueW
+RegEnumKeyW
+RegOpenKeyA
+RegOpenKeyExW
+RegQueryValueExW
+RegQueryValueW
+RegSetValueExW
+Rege&x
+Regex
+Regex Syntax - Everything
+Regex Syntax:
+Reggae
+RegisterClassExW
+RegisterClipboardFormatW
+RegisterDeviceNotification %s OK
+RegisterDeviceNotification %s failed! %d
+RegisterDeviceNotification monitor %d %p %d
+RegisterDeviceNotification monitor %d failed! %d
+RegisterDeviceNotification volume_handle %p
+RegisterDeviceNotificationW
+RegisterDragDrop
+RegisterEventSourceW
+RegisterHotKey
+RegisterHotKey(): GetLastError(): %d
+RegisterServiceCtrlHandlerEx %S %p
+RegisterServiceCtrlHandlerExW
+RegisterServiceCtrlHandlerW
+RegisterWindowMessageA
+Regular expression to match old filenames.
+Rejang
+ReleaseCapture
+ReleaseDC
+ReleaseStgMedium
+Reload the filelist if it has been modified.
+Remem&ber index:
+Remember &filter:
+Remember &regex:
+Remember &search:
+Remember &view:
+Remember match &case:
+Remember match &diacritics:
+Remember match &path:
+Remember match &whole word:
+Remember s&ort:
+Remember the filter settings for this bookmark. Enable to specify the filter setting for this bookmark. Disable to use the default filter setting.
+Remember the index for this bookmark. Enable to specify the index for this bookmark. Disable to leave the index unchanged.
+Remember the match case setting for this bookmark. Enable to specify the match case setting for this bookmark. Disable to use the default match case setting.
+Remember the match diacritics setting for this bookmark. Enable to specify the match diacritics setting for this bookmark. Disable to use the default match diacritics setting.
+Remember the match path setting for this bookmark. Enable to specify the match path setting for this bookmark. Disable to use the default match path setting.
+Remember the match whole word setting for this bookmark. Enable to specify the match whole word setting for this bookmark. Disable to use the default match whole word setting.
+Remember the regex setting for this bookmark. Enable to specify the regex setting for this bookmark. Disable to use the default regex setting.
+Remember the search for this bookmark. Enable to specify the search for this bookmark. Disable to leave the search unchanged when opening this bookmark.
+Remember the sort for this bookmark. Enable this to sort results after opening the bookmark. Disable to use the default sort.
+Remember the view for this bookmark. Enable this to load the current view when opening the bookmark. Disable to use the default view.
+Remo&ve
+Removable Disk
+Remove "Everything" from the system startup.
+Remove the current selection.
+Remove the selected file list from the list.
+Remove the selected folder from the list.
+Remove the selected item from the exclude folder list.
+Remove the selected keyboard shortcut
+Remove the selected offline NTFS volume from the list.
+Remove the selected offline ReFS volume from the list.
+RemoveDirectoryW
+RemoveMenu
+Removes the selected items and copies them onto the Clipboard.
+Rena&me
+Rename
+Renames the selected items.
+Reparse Point
+Reparse point
+Repeat
+Repeat with search
+Repeat with search: Moving the focus above the first item, or below the last item will focus the search edit.
+Repeat: Moving the focus above the first item will wrap to the bottom item, moving the focus below the last item will wrap to the top item.
+Replace
+Replace &forward slashes with backslashes
+ReplyMessage
+ReportEventW
+Requires restart.
+Res&can
+Rescan &every
+Rescan All &Now
+Rescan N&ow
+Rescan all folder indexes.
+Rescan all folders now.
+Rescan on full &buffer
+Rescan the entire folder, subfolders and files if the change buffer is full because too many changes occurred too quickly.
+Rescan the selected folder now.
+Rescan this folder at a specific time on a certain day.
+Rescan this folder periodically at a specific time interval.
+ResetEvent
+Restore all settings on this page to their default state.
+Restore default filters.
+Restore the font and icon size to the default desktop font and icon size.
+Result &list focus:
+Result List
+Results
+Retro
+Retry?
+Reverses which items are selected, and which are not.
+Revival
+RevokeDragDrop
+Reza Jelodar
+Rhythmic Soul
+Right Arrow
+Right Extend
+Right Mouse Button
+Right Windows
+Rock & Roll
+Roots
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+Ru&n as administrator
+Run "Everything" as Administrator.
+Run "Everything" as a service.
+Run "Everything" in the background.
+Run As
+Run Count
+Run History
+Run History.csv
+Run History.csv.tmp
+Run as &administrator
+Run count:
+Run history remembers how many times a result was opened.
+Run in &background
+Runic
+Runtime Error!
+S!$LR
+S&ort by
+S&tart menu shortcuts
+S7zQ6$
+S8SAS\SiS
+S<u"HcK
+S<u%HcK
+SATAUAWH
+SATAUH
+SA|X=G
+SECURITY_CHANGE 
+SERVICE_CONTROL_DEVICEEVENT %d %p
+SERVICE_SERVER_COMMAND_REFS_MONITOR_READ_USN_JOURNAL_DATA read ok %d
+SET SORT %d
+SET SORT 2 %d
+SET SORT 3 %d
+SET SORT 4 %d
+SHAddToRecentDocs
+SHBindToParent
+SHBrowseForFolderW
+SHChangeNotify
+SHCreateItemFromIDList
+SHELL32.dll
+SHFileOperationW
+SHGetDesktopFolder
+SHGetFileInfo exception %08x
+SHGetFileInfoW
+SHGetPathFromIDListW
+SHGetPropertyStoreFromIDList
+SHGetSettings
+SHGetSpecialFolderLocation
+SHLWAPI.dll
+SHMultiFileProperties
+SHOpenFolderAndSelectItems
+SHQueryUserNotificationState
+SHRegGetUSValueW
+SING error
+SIZE CHECK %d %d diff %d count %d
+SIZE_ASCENDING
+SIZE_DESCENDING
+SOFTWARE.
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+SSSSSSSSTT
+STREAM_CHANGE 
+SUATAVAWH
+SUATH
+SUAVAWH
+SUAWH
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+SUVATAVH
+SUVAVH
+SUVWATAUAVAWH
+SUVWATAUAVH
+SUVWAUAVH
+SUVWAUH
+SUVWAVAWH
+SUVWAVH
+SUVWAWH
+SUVWH
+SUWATAVH
+SUWATH
+SUWAUAVH
+SVAUAWH
+SVAUH
+SVWATAUAVAWH
+SVWATH
+SVWAVH
+SVWAWH
+SWATAUAVH
+SWATAUH
+SWAUAVH
+SWAVH
+SWAWH
+SYSCOMMAND %p %p
+Sacher Collado Benitez (ScB)
+Samaritan
+Samba
+Sample:
+Samuel Murray
+Satire
+Saturday
+Saurashtra
+Save &As...
+Save ETP/FTP server log file:
+Save the current file list to a specific filename.
+Save the current file list.
+Save the database to disk.
+Saving to disk...
+Saving...
+Sazan K
+Scanning %s (%s)
+Scanning %s...
+Scanning...
+ScreenToClient
+Scroll Left or Thumbnail Left
+Scroll Lock
+Scroll Page Left or Thumbnail Focus Left
+Scroll Page Right or Thumbnail Focus Right
+Scroll Right or Thumbnail Right
+ScrollBar
+ScrollWindowEx
+Searc&h for a list of file names:
+Search
+Search ANSI file content for text.
+Search Count
+Search Edit
+Search Everything
+Search Everything...
+Search History
+Search History.csv
+Search History.csv.tmp
+Search Syntax - Everything
+Search UTF-16 Big Endian file content for text.
+Search UTF-16 file content for text.
+Search UTF-8 file content for text.
+Search count
+Search file content for text.
+Search file contents for the word or phrase.
+Search for a basic regular expression.
+Search for a file or folder by filename.
+Search for a known shell folder name, including subfolders and files.
+Search for a list of extensions.
+Search for a list of file names in the specified pipe (|) delimited file list.
+Search for a list of file names.
+Search for a path.
+Search for a type of file or limit the search to folders only.
+Search for an exact phrase.
+Search for audio files.
+Search for commands containing this text.
+Search for compressed files.
+Search for document files.
+Search for duplicated filenames.
+Search for duplicated sizes.
+Search for empty folders.
+Search for executable files.
+Search for filenames starting with text.
+Search for files and folders belonging to the file list filename.
+Search for files and folders in the specified folder.
+Search for files and folders in the specified path, excluding subfolders.
+Search for files and folders in the specified zero based internal file system index.
+Search for files and folders that match the specified filename length.
+Search for files and folders with no parent folders.
+Search for files and folders with the same name part.
+Search for files and folders with the specified File Reference Number.
+Search for files and folders with the specified date accessed.
+Search for files and folders with the specified date created.
+Search for files and folders with the specified date modified.
+Search for files and folders with the specified date run.
+Search for files and folders with the specified file attributes.
+Search for files and folders with the specified number of parent folders.
+Search for files and folders with the specified recently changed date.
+Search for files and folders with the specified run count.
+Search for files and folders with the specified type.
+Search for files with a matching extension in the specified semicolon delimited extension list.
+Search for files with the specified size in bytes.
+Search for folders that contain a child with a matching filename.
+Search for folders that contain the specified number of files.
+Search for folders that contain the specified number of subfolders and files.
+Search for folders that contain the specified number of subfolders.
+Search for images with the specified orientation (landscape or portrait).
+Search for picture files.
+Search for the name part of a filename.
+Search for the parent of a path.
+Search for this text when the filter is active.
+Search for video files.
+Search full paths when a search term contains a backslash (\).
+Search media for album metadata.
+Search media for artist metadata.
+Search media for comment metadata.
+Search media for genre metadata.
+Search media for title metadata.
+Search suggestions are always shown if search as you type is disabled.
+Search the specified text file for a list of file names.
+Search with a pre-defined filter.
+Search:
+Sele&ct...
+Selec&t...
+Select
+Select &All
+Select Everything File List
+Select Focus
+Select Media
+Select a file list.
+Select a file to populate the list of file names.
+Select a folder where you want to store the database:
+Select a search filter.
+Select a volume to modify its values.
+Select all files and folders.
+Select all the text in the search edit when it gains focus from a mouse click.
+Select files to add to the file list.
+Select folder
+Select folder to add to the file list.
+Select search on &mouse click
+Select the Default Page
+Select the ETP/FTP server log file.
+Select the HTTP Server Log File
+Select the HTTP server log file.
+Select the HTTP server root folder
+Select the default page.
+Select the path formatting.
+Select the size format.
+SelectClipRgn
+SelectObject
+Selected
+Selected (Highlighted)
+Selects all items.
+SendDlgItemMessageW
+SendMessageTimeoutW
+SendMessageW
+Sending password...
+Sending query...
+Sending user...
+Sending version request...
+Separate extensions (excluding the dot) with a semicolon (;).
+Separate file names with a vertical bar (|).
+Sepp Winkler
+September
+Server: Everything HTTP Server
+Service %d
+Set Run Count
+Set Run Count...
+Set a custom search.
+Set both the minimum and maximum size to search for a range of sizes.
+Set both the start and end date to search for a range of dates.
+Set only the end date to search for files accessed on or before a specific date.
+Set only the end date to search for files created on or before a specific date.
+Set only the end date to search for files modified on or before a specific date.
+Set only the end date to search for files recently changed on or before a specific date.
+Set only the end date to search for files run on or before a specific date.
+Set only the maximum size to search for files with the exact size or smaller.
+Set only the minimum size to search for files with the exact size or larger.
+Set only the start date to search for files accessed on or after a specific date.
+Set only the start date to search for files created on or after a specific date.
+Set only the start date to search for files modified on or after a specific date.
+Set only the start date to search for files recently changed on or after a specific date.
+Set only the start date to search for files run on or after a specific date.
+Set the default page.
+Set the filename of the ETP/FTP server log file.
+Set the filename of the HTTP server log file.
+Set the folder to load http files from.
+Set the language Everything will use to display text.
+Set the language to the specified language ID.
+Set the number of times this item has been run.
+Set the run count for the selected items.
+Set the search from an ES: URL.
+Set the search to this value when this bookmark is opened.
+Set the search.
+Set the size of the window to large.
+Set the size of the window to medium.
+Set the size of the window to small.
+Set the sort to the specified name.
+Set the view when this bookmark is opened.
+Set to 0 to remove the run count.
+SetActiveWindow
+SetActiveWindow failed %08x
+SetBkColor
+SetBkMode
+SetBrushOrgEx
+SetCapture
+SetClipboardData
+SetClipboardViewer
+SetConsoleScreenBufferSize
+SetConsoleTextAttribute
+SetCursor
+SetCursorPos
+SetDefaultDllDirectories
+SetDlgItemInt
+SetDlgItemTextW
+SetDllDirectoryW
+SetErrorMode
+SetEvent
+SetFilePointer
+SetFocus
+SetFocus OK
+SetFocus child
+SetFocus failed
+SetForegroundWindow
+SetForegroundWindow failed %08x
+SetForegroundWindow2 failed %08x
+SetHandleCount
+SetLastError
+SetLayeredWindowAttributes
+SetLayout
+SetMenu
+SetMenuDefaultItem
+SetMenuItemInfoW
+SetScrollInfo
+SetSecurityDescriptorDacl
+SetServiceStatus
+SetStdHandle
+SetStretchBltMode
+SetTextAlign
+SetTextColor
+SetThreadPriority
+SetTimer
+SetUnhandledExceptionFilter
+SetWindowLongPtrW
+SetWindowLongW
+SetWindowPos
+SetWindowTextW
+SetWindowTheme
+SetWindowsHookExW
+Settings for %s
+Settings for %s context menu item
+Settings for %s item state
+Settings for selected filelist
+Settings for selected folder
+Settings for selected local NTFS volume
+Settings for selected local ReFS volume
+Settings.c
+Sharada
+Shavian
+ShellExecuteExW
+ShellExecuteExW(): GetLastError(): %d: failed to execute
+ShellExecuteExW(): GetLastError(): %d: failed to execute %s
+Shell_NotifyIconW
+Shift
+Shortcut &key:
+Shortcut key &currently used by:
+Shortcuts for %s command
+Show &All History
+Show &commands containing:
+Show &highlighted search terms
+Show &tooltips
+Show All Search History
+Show Desktop shortcut for all users.
+Show Help Topics.
+Show Quick Launch shortcut.
+Show Search Everything folder context &menu item
+Show Search History
+Show Start menu shortcuts for all users.
+Show an existing search window.
+Show details for the selected file or folder in the status bar.
+Show help on command line options.
+Show or hide the Everything icon in the taskbar notification area.
+Show regex syntax help.
+Show results in detail view.
+Show results in thumbnail view.
+Show row &mouseover
+Show search syntax help.
+Show selected item in status &bar
+Show si&ze in status bar
+Show the debugging console.
+Show the language selection page.
+Show the multi-file renamer with the specified filenames.
+Show the result &count with the selection count
+Show the search window fullscreen.
+Show the search window in a window.
+Show the total file selection size in the status bar. Size indexing must be enabled. Enabling will reduce the performance of Everything.
+Show this help.
+Show this item in the context menu when the Shift key is held down.
+Show this item in the context menu.
+Show this item when the Shift &key is down
+Show tray &icon
+ShowPreviewHandlers
+ShowWindow
+Shows or hides the filter bar.
+Shows or hides the preview pane.
+Shows or hides the status bar.
+Showtunes
+Siddham
+Single click
+Single click &open:
+Single click &tray
+Sinhala
+Size &All Columns to Fit
+Size &format:
+Size Constants:
+Size Result List to Fit
+Size Syntax:
+Size is not indexed. Combine with other filters for the best performance or enable size indexing.
+Size of memory allocation that is added to the end and removed from the beginning of the change journal in kilobytes.
+SizeofResource
+Sleep
+Slow Jam
+Slow Rock
+Snap to desktop ed&ges at
+Software\Microsoft\Internet Explorer\Main
+Software\Microsoft\Windows\CurrentVersion\Explorer
+Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Everything
+Software\voidtools
+Software\voidtools\Everything
+Sonata
+Sor&t:
+Sora_Sompeng
+Sort &date descending first
+Sort &size descending first
+Sort ascending.
+Sort by ascending order.
+Sort by attributes.
+Sort by date accessed.
+Sort by date created.
+Sort by date modified.
+Sort by date recently changed.
+Sort by date run.
+Sort by descending order.
+Sort by extension.
+Sort by file list filename.
+Sort by largest to smallest size first
+Sort by name.
+Sort by newest to oldest date/time first
+Sort by path.
+Sort by run count.
+Sort by size.
+Sort by type.
+Sort descending.
+Sort largest to smallest sizes first.
+Sort newest to oldest dates first.
+Sort results by this column when this bookmark is opened.
+Sorting file names...
+Sorting folder names...
+Sorting...
+Sound Clip
+Soundtrack
+South Australia1
+Southern Rock
+Space
+Spaces are included in the search.
+Sparse File
+Sparse file
+Specify the background color for this item state.
+Specify the day to rescan.
+Specify the file list to use when opening a new search window.
+Specify the filter to use when opening this bookmark.
+Specify the font family name to use for the result list.
+Specify the font style for this item state.
+Specify the foreground color for this item state.
+Specify the index to use when opening a new search window.
+Specify the link type.
+Specify the location of the database file.
+Specify the meaning of the rescan interval time value in minutes or hours.
+Specify the pipe security descriptor.
+Specify the required focus.
+Specify the rescan interval time value.
+Specify the size of the result list font.
+Specify the size of thumbnails in pixels.
+Specify the time of day to rescan.
+Specify when to underline the icon titles. Single click open must be enabled.
+Speech
+Stamimail
+Start App 1
+Start App 2
+Start Everything on system &startup
+Start Mail
+Start of List
+Start of List Extend
+Start the "Everything" client service.
+Start the "Everything" service.
+StartServiceCtrlDispatcher %S
+StartServiceCtrlDispatcherW
+StartServiceW
+Starting Winsock...
+Starts a HTTP server allowing remote users to search and access yours folders and files with a web browser.
+Starts an ETP/FTP server allowing remote users to search and access yours folders and files with an ETP/FTP client.
+Static
+Status &Bar
+Stefano Piccardi
+Stop Media
+Stop the "Everything" client service.
+Stop the "Everything" service.
+Store and maintain attribute information for files and folders in the index. Requires an additional %d bytes of memory for each file and folder.
+Store and maintain date accessed information for files and folders in the index. Requires an additional %d bytes of memory for each file and folder.
+Store and maintain date created information for files and folders in the index. Requires an additional %d bytes of memory for each file and folder.
+Store and maintain date modified information for files and folders in the index. Requires an additional %d bytes of memory for each file and folder.
+Store and maintain size information for files in the index. Requires an additional %d bytes of memory for each file.
+Store and maintain size information for folders in the index. Enabling can reduce the performance of Everything. Requires an additional %d bytes of memory for each folder.
+Store data in application data.
+Store data in executable location.
+Store settings and data in %APPDATA%\Everything
+Store settings and data in %APPDATA%\Everything.
+Store settings and data in %APPDATA%\Everything?
+StretchBlt
+StretchDIBits
+SunMonTueWedThuFriSat
+Sundanese
+Sunday
+Swing
+Syloti_Nagri
+Symphonic Rock
+Symphony
+Syriac
+SysDateTimePick32
+SysHeader32
+SysListView32
+SysTabControl32
+SysTreeView32
+System
+SystemFileAssociations\%s\ShellEx\{8895b1c6-b41f-4c1c-a562-0d564250836f}
+SystemParametersInfoW
+SystemTimeToFileTime
+SystemTimeToTzSpecificLocalTime
+T$ E3
+T$ H+
+T$ Hc
+T$ I;
+T$&t5
+T$(9l$0t2@
+T$(E3
+T$(H+
+T$(ff
+T$(t#A
+T$(vLA
+T$,E3
+T$0E3
+T$0Hc
+T$0HcB H
+T$0Ic
+T$0IcJ I
+T$49D$8
+T$8A+
+T$8E3
+T$8fff
+T$<~#H
+T$<~)H
+T$<~>H
+T$@+D$L
+T$@E+
+T$@E3
+T$@Hc
+T$@I;
+T$@r)A
+T$HA+
+T$HE3
+T$HI+
+T$HLcD$@
+T$Ht4fff
+T$HuEH
+T$LA+
+T$Lt@A;
+T$P;|$H}"H
+T$PA;
+T$PH+
+T$PHc|$HIc
+T$PI;
+T$Pfff
+T$Pr+
+T$TD;
+T$XH+
+T$\E3
+T$`E3
+T$`ff
+T$dHi
+T$hE3
+T$hI;
+T$hIc
+T$pH+
+T$rfD
+T$xE3
+T$xH;
+T$xHc
+T$xuoD
+T$|D;
+T$|x.D;
+TB_CENTER
+TB_FORM
+TB_FORM2
+TB_FORM3
+TB_FORM4
+TB_FORM5
+TB_FORM6
+TB_FORM7
+TB_FORM8
+TB_LOGO
+TB_LOGO2
+TB_LOGO3
+TB_TABLE
+TDhA;
+TE_END
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+THS_LINE
+THS_LINE2
+THS_TR
+THS_TR_END
+TH_A_END
+TH_NOBR
+TH_NOBR_END
+TH_TD
+TH_TD2
+TH_TD3
+TH_TD4
+TH_TD_END
+TH_UPDOWN
+TH_UPDOWN2
+TITLE
+TLOSS error
+TRACKNUMBER
+TRAY_TIMER_FOLDER_UPDATE create
+TTN_POP
+TTN_SHOW %d %d - %d %d
+Tagalog
+Tagbanwa
+Tai_Le
+Tai_Tham
+Tai_Viet
+Takri
+Tamil
+Tango
+Target maximum size of the change journal in kilobytes.
+TaskbarCreated
+Techno
+Techno-Industrial
+TekLord
+Telugu
+Temporary
+TerminateProcess
+Text Files
+TextOutW
+Thaana
+Thanks for using Everything!
+The "Everything" service is not required when running as administrator.
+The ETP password.
+The ETP username.
+The Everything service is required to index NTFS volumes with a standard user account.
+The Everything window borders will snap to the desktop edges when moved or sized within the specified range.
+The above copyright notice and this permission notice shall be included in all
+The command for this context menu item.
+The delay in milliseconds before loading the database.
+The file list in the %s file has changed.
+The filename of the database.
+The filename of the ini file.
+The generated old format is always case sensitive.
+The length of the filename in characters.
+The minimum and maximum size.
+The name of the "Everything" instance.
+The number of folders deep from the root folder.
+The number of lines must match the initial number of files.
+The number of pixels before the search window is snapped to the desktop edge.
+The number of times the file or folder has been opened in "Everything".
+The priority of the thread to load extended information.
+The priority of the thread to load icons.
+The priority of the thread to load thumbnails.
+The search performance of Everything is reduced when sorting by attributes.
+The search performance of Everything is reduced when sorting by date accessed.
+The search performance of Everything is reduced when sorting by date created.
+The search performance of Everything is reduced when sorting by date modified.
+The search performance of Everything is reduced when sorting by extension.
+The search performance of Everything is reduced when sorting by path.
+The search performance of Everything is reduced when sorting by size.
+The size of the buffer for storing changes made to this folder, subfolder and files.
+The start and end date for the date accessed range.
+The start and end date for the date created range.
+The start and end date for the date modified range.
+The start and end date for the date recently changed range.
+The start and end date for the date run range.
+The whole filename is matched
+The whole full paths and filename is matched
+These files are not required to be in the database.
+This action can not be undone.
+This application has requested the Runtime to terminate it in an unusual way.
+This finds duplicated files and folders in the entire index (not the current results).
+This indicates a bug in your application.
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+This information is not indexed and will take some time to gather, combine with other filters for the best performance or enable indexing of this information.
+Thomas Knoop
+Thumbnail Mouseover
+Thumbnail Mouseover (Highlighted)
+Thumbnails (%d x %d)
+Thumbnails (%d x %d) (Extra Large)
+Thumbnails (%d x %d) (Large)
+Thumbnails (%d x %d) (Medium)
+Thursday
+Tibetan
+Tifinagh
+Timed out while waiting for Everything.exe to close
+Tirhuta
+TlsFree
+TlsSetValue
+Toggle Attributes Column
+Toggle Date Accessed Column
+Toggle Date Created Column
+Toggle Date Modified Column
+Toggle Date Recently Changed Column
+Toggle Date Run Column
+Toggle Extension Column
+Toggle File List Filename Column
+Toggle Focus Selection
+Toggle LTR/RTL direction
+Toggle Path Column
+Toggle Run Count Column
+Toggle Size Column
+Toggle Type Column
+Toggle the text direction layout of Everything.
+Toggles the search to include the full path and file name or just the file name.
+Toggles the search to match case or ignore case.
+Toggles the search to match or ignore diacritical marks.
+Toggles the search to match whole words only or allow matches to be found inside words.
+Top 40
+TrackPopupMenu
+Trailer
+Trance
+TranslateMessage
+Translucent mask
+Tribal
+Trip-Hop
+Tuesday
+Type in a filter
+TypeCode %08x
+TzSpecificLocalTimeToSystemTime
+U(Lct$$M
+UATAUAVAWH
+UATAUH
+UPDATE NOW %s
+UPDATE NOW check %s %s
+URL &protocol
+URL Protocol
+URL:Everything Search Protocol
+USER %s
+USER32.DLL
+USER32.dll
+USN Journal Deleted (%f seconds)
+USN_RECORD %I64u, FLAGS %08x, PARENT FRN %016I64x%016I64x, FRN %016I64x%016I64x, reason %s(%08x), filename %T
+USN_RECORD %I64u, FLAGS %08x, PARENT FRN %016I64x, FRN %016I64x, reason %s(%08x), filename %T
+US]CQ
+UTF-16
+UTF-16 big endian
+UTF-8
+UTF-8 will be used if there is no associated IFilter.
+UTF8)
+UVATAVH
+UVATH
+UVAUAWH
+UVAUH
+UVAWH
+UVWATAUAVAW
+UVWATAUAVAWH
+UVWATAUAVAWL
+UVWATAUH
+UVWATH
+UVWAUAVH
+UWATAUAVH
+UWATAVAWH
+UWATH
+UWAUAVH
+UWAUAWH
+UZXtf
+Ugaritic
+Unable to check for updates: %s
+Unable to connect to ETP server: %s
+Unable to create USN Journal on %s
+Unable to create the Everything service: %d
+Unable to delete USN Journal on %s
+Unable to delete the Everything service: %d
+Unable to open file list: %s
+Unable to open the Everything service: %d
+Unable to open the Service Control Manager: %d
+Unable to open volume %s for reading...
+Unable to rename database
+Unable to save settings.
+Unable to start ETP server: %s
+Unable to start HTTP server: %s
+Unable to start the Everything service: %d
+Unable to stop the Everything service: %d
+Unable to update the Everything service: %d
+Unauthorized
+UnhandledExceptionFilter
+UnhookWindowsHookEx
+Uninstall "Everything" from the specified path.
+Uninstall "Everything" shortcuts from the Start menu.
+Uninstall EFU file association.
+Uninstall Everything
+Uninstall Quick Launch shortcut.
+Uninstall URL Protocol.
+Uninstall desktop shortcut.
+Uninstall folder context menus.
+Uninstall the "Everything" client service.
+Uninstall the "Everything" service.
+Uninstall user files.
+Uninstall.exe
+UninstallString
+University of Cambridge
+Unmaximize the search window.
+Unminimize the search window.
+UnregisterDeviceNotification
+UnregisterHotKey
+Unsupported WSADATA %d %d
+Untitled
+Up Arrow
+Up one directory...
+Update the display after scrolling. Enabling this can decrease scrolling performance.
+UpdateWindow
+Updating database...
+Use * to match zero or more characters
+Use ? to match a single character.
+Use C: links for ETP connections.
+Use \\Server\C$ links for ETP connections.
+Use \\Server\C: links for ETP connections.
+Use an off screen buffer when rendering the result list to avoid flickering.
+Use ftp://host/C: links for ETP connections.
+Use last value
+Use single byte comparisons when searching for ASCII text.
+Use spaces to separate words.
+Use system default
+Use system settings
+Use the database filename: "Everything.Computer.User.db".
+Use the default background color for this item state.
+Use the default font style for this item state.
+Use the default foreground color for this item state.
+Use the length of the full path and filename.
+Use the shift key to temporarily toggle this option while moving or sizing the search window.
+Use the specified background color for this item state.
+Use the specified font style for this item state.
+Use the specified foreground color for this item state.
+Use the specified name for the "Everything" service pipe name.
+Use this filter when opening a new search window.
+Use this search when opening a new search window.
+Use this sort when opening a new search window.
+Use this view when opening a new search window.
+User Default
+VATAUAVAWH
+VATAUH
+VATAWH
+VEH %d
+VERB %s
+VIDEO
+VUUUA
+VUUUA+
+VUUUD
+VUUUL
+VWATAUAVAWM
+VWATAUAVH
+VWATAUAWH
+VWATH
+VWAUAVAWH
+VWAUH
+VWAVAWH
+VWAVH
+ValidateRect
+Version %s
+VhV@X
+Video
+View help topics.
+Virtual alloc NTFS file record buffer
+VirtualAlloc
+VirtualFree
+Vocal
+Volume Down
+Volume Mute
+Volume Up
+VxD88H
+W fff
+WAIT %u, %d waits
+WATAUAVAWH
+WATAUH
+WATAVH
+WAUAWH
+WAVAWH
+WHOLE WORD
+WM_ACTIVATE %p %p, lastfocus %p, current focus %p
+WM_CHANGECBCHAIN %d %d %p %p
+WM_DEVICECHANGE %p %p
+WM_DRAWCLIPBOARD %d %d %d
+WM_INITMENUPOP %p %p
+WM_SELECT %08x %08x %08x
+WS2_32.dll
+WSAStartup failed %d
+WWW-Authenticate: Basic realm="
+WaitForMultipleObjects
+WaitForSingleObject
+WaitMessage
+Waiting for response...
+WanderMax
+Warang_Citi
+Warning: When enabled, Applications run from "Everything" will also be run as administrator.
+Wednesday
+Welcome to Everything ETP/FTP
+When clicking on the drop down button on the search edit, show all search results by this sort type.
+When enabled the search results are updated each time the search parameters change otherwise the search is only updated when pressing Enter in the search box.
+When typing this phrase in the search edit followed by a colon (:) the phrase is replaced by this bookmark's search.
+When typing this phrase in the search edit followed by a colon (:) the phrase is replaced by this filter's search.
+While &Searching
+Whole Word
+WideCharToMultiByte
+Wildcards:
+Wilmington1
+Windows%s %d.%d
+Would you like to open the download page now?
+WriteConsoleW
+WriteFile
+X tDM;
+X0V0T
+XA\_][
+XDYTYbZ([
+XHc@$I
+XOR mask
+XUf,97
+X_^][
+Xd\n\
+Y tLM;
+Y'YsYP[
+YYYYMM[DD[Thh[mm[ss[.sss]]]]]
+YYYY[-MM[-DD[Thh[:mm[:ss[.sss]]]]]]
+You can also show search suggestions with Auto Complete Search (Ctrl+Space).
+Zbigniew Zienko
+Zsolt P
+Zubair Ibn Zamir
+Zv,Oo@
+[ ]  Any one character in the set
+[0L9\$ tNH
+[:<:]]
+[:>:]]
+[Everything]
+[K]taM?
+[Left Windows
+[^ ] Any one character not in the set
+[^abc]
+[a-zA-Z]
+[a-z]
+[abc]
+[hD)[`9{`
+\    Escape special character
+\ at end of pattern
+\"\8\n\q\
+\$ :D$@H
+\$ :L$@H
+\$ @88H
+\$ E3
+\$ H;
+\$ Hc
+\$ UVATH
+\$ UVWATAUAVAWH
+\$ UVWATAUH
+\$ UVWH
+\$ VH
+\$ VWATAUAVH
+\$ VWATH
+\$ WATAUH
+\$ WH
+\$ fff
+\$ t/H
+\$$Mc
+\$(D+
+\$(D+\$ A;
+\$(E3
+\$(Ei
+\$(Ek
+\$(Lc
+\$(Lct$@A
+\$(Mc
+\$(f9;t
+\$(t8
+\$,D+
+\$,D+\$$
+\$,D+\$$D9
+\$,fA
+\$,s]A
+\$,s^
+\$,s_
+\$.fA
+\$0A+
+\$0D+
+\$0E+
+\$0E3
+\$0H+
+\$0H9y
+\$0H;
+\$0Hc
+\$0IcC M
+\$0IcK M
+\$0ff
+\$0fff
+\$0t:H
+\$0tt
+\$0x#D
+\$8+\$0H
+\$8A8;
+\$8D+
+\$8D9\$0u
+\$8E3
+\$8E83t
+\$8L3
+\$8fA
+\$8fff
+\$8t%
+\$8t|
+\$<D+\$4A;
+\$<}cH
+\$<}eH
+\$@:D$ H
+\$@:D$`H
+\$@@8+
+\$@D+
+\$@D9
+\$@E+
+\$@E;K
+\$@H;
+\$@Hc
+\$@I;
+\$@L9
+\$@L9t$8u
+\$@Lc
+\$@ff
+\$@u$
+\$DD+\$LA
+\$F=kx
+\$H+L$DD+\$@A
+\$HD+\$@
+\$HD+\$@C
+\$HL;\$@u$L
+\$HfD+\$@
+\$LA+
+\$LD+
+\$LD+\$D
+\$LfD
+\$PA_A^A]A\_^]
+\$PE;
+\$PL9
+\$PL;\$Xu
+\$PtS
+\$TD+\$LD+
+\$TLc
+\$Xfff
+\$Xt+
+\$\A;
+\$`:D$@H
+\$`:L$@H
+\$`@8
+\$`@8-/K
+\$`D+
+\$`E3
+\$`H;
+\$`Hc
+\$`uo
+\$hE8#t
+\$n=kx
+\$pA;
+\$pE+
+\$pE3
+\$pLc
+\$pxKL
+\$tE+
+\%d   Saved match %d
+\.(.*?)
+\0   Text matched in old format
+\C not allowed in lookbehind assertion
+\D9-;T
+\Device\HarddiskVolume
+\LcG@H
+\N is not supported in a class
+\P{Ll}
+\P{Lu}
+\P{L}
+\P{Nd}
+\P{Xan}
+\P{Xps}
+\P{Xsp}
+\P{Xwd}
+\\%s\%c$%s
+\\%s\%c%s
+\\.\%c:
+\\.\PIPE\Everything Service
+\\?\%s
+\\?\UNC\%s
+\\?\volume{
+\\Server\C
+\\Server\C$
+\\[^\\]*$
+\b   Word boundary
+\b(?<=\w)
+\b(?=\w)
+\c at end of pattern
+\c must be followed by an ASCII character
+\g is not followed by a braced, angle-bracketed, or quoted name/number or by a plain number
+\k is not followed by a braced, angle-bracketed, or quoted name
+\p{Ll}
+\p{Lu}
+\p{L}
+\p{Nd}
+\p{Xan}
+\p{Xps}
+\p{Xsp}
+\p{Xwd}
+\u,A8S
+\uA8Q
+] is an invalid data character in JavaScript compatibility mode
+],fff
+]J<0"0i3
+]XHcE`H
+]r^z^
+^    Beginning of filename
+^.*\\
+^9},~YL
+^XHcF`H
+^XHcN`H
+^`tFff
+_(%s)
+_(s$f
+_NTFS_ATTRIBUTE_TYPE_DATA in %016I64x
+_P_a_s_
+_TrackMouseEvent
+__C_specific_handler
+________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_db_corrupt
+_db_filelists_is_change
+_db_flip_sort_type
+_db_folder_update_complete_proc
+_db_get_highlighted_result
+_db_index_add %d: %d, %p
+_db_load_complete_proc
+_db_monitor_ntfs_process_usn_records
+_db_monitor_ntfs_process_usn_records_thread_proc
+_db_monitor_ntfs_update_event_proc %d
+_db_monitor_refs_process_usn_records
+_db_monitor_refs_process_usn_records_thread_proc
+_db_monitor_refs_update_event_proc
+_db_out_of_date_proc
+_db_query_fileinfo_cache_changed_proc
+_db_query_term_parse_all
+_db_ready_proc
+_db_rebuild_thread_proc
+_db_recent_change_enabled_changed
+_fndfmcb %d %d %d
+_main_close_existing_process
+_main_do_command_line_installs
+_service_client_ioctrl %u, s %u r %u
+_service_client_ioctrl reply %d in %f seconds
+_service_server_ctrl_dispatcher
+_service_server_main
+`.rdata
+`A\_]
+`A]A\^
+`A]_^][
+`A^A]^][
+`A_A^A]A\_^]
+`A__[
+a numbered reference must not be zero
+a"M"<
+a:m1&
+abcdefghijklmnopqrstuvwxyz
+about:
+access denied %s
+ac~=/
+add ext icon %s
+add found ntfs volume: %s | %s | %s | %p
+add found refs volume: %s | %s | %s | %p
+add monitors
+add new found ntfs volume: %s | %s | %s | %p
+add new found refs volume: %s | %s | %s | %p
+add volume: %s | %s | %s
+admin
+admin-server-share-links
+advanced_copy_to_high
+advanced_copy_to_match_case
+advanced_copy_to_regex
+advanced_copy_to_wide
+advanced_copy_to_x
+advanced_copy_to_y
+advanced_move_to_high
+advanced_move_to_match_case
+advanced_move_to_regex
+advanced_move_to_wide
+advanced_move_to_x
+advanced_move_to_y
+advanced_search_focus_id
+advanced_search_high
+advanced_search_page_y_offset
+advanced_search_warnings
+advanced_search_wide
+advanced_search_x
+advanced_search_y
+advapi32.dll
+ae\v7Co
+al aid %u
+al bfrn %016I64x
+al nl %u
+al o2n %u
+al rl %u
+al svcn %I64u
+al type %u
+album:
+album:<text>
+all-users-desktop-shortcut
+all-users-start-menu-shortcuts
+allocate and sort root list: %f seconds
+allocate file indexes, removing orphaned files.
+allocation delta changed.
+allow_context_menu
+allow_copy
+allow_cut
+allow_delete
+allow_drag_drop
+allow_etp_server
+allow_exclamation_point_not
+allow_http_server
+allow_index_change
+allow_literal_operators
+allow_multiple_instances
+allow_multiple_windows
+allow_multiple_windows_from_tray
+allow_ntfs_open_file_by_id
+allow_open
+allow_paste
+allow_rename
+allow_round_bracket_parenthesis
+allow_window_message_filter_dragdrop
+alnum
+alpha
+alpha_select
+already sorted
+alternate_row
+alternate_row_color
+alternate_row_highlighted
+always_keep_sort
+always_request_all_fileinfo
+always_update_folder_recent_change
+always_update_query_on_search_parameter_change
+alyzeedus dwadeh
+amenuhelp %08x
+an argument is not allowed for (*ACCEPT), (*FAIL), or (*COMMIT)
+anonymous
+ansicontent:
+ansicontent:<text>
+any &of these words:
+apos:
+app-data
+app_data
+application/json
+application/octet-stream
+apply settings: rebuild required
+april
+artist:
+artist:<text>
+ascending
+ascii
+ascii:
+assertion expected after (?(
+attrib:
+attrib:<attributes>
+attribdupe:
+attribute
+attribute list %02x
+attribute list attribute with base frn
+attribute:
+attributedupe:
+attributes
+attributes:
+attributes:<attributes>
+attributes_ascending
+attributes_column
+attributes_descending
+attributesdupe:
+audio
+audio:
+august
+authorization:
+auto_column_widths
+auto_complete_search_command
+auto_include_fixed_refs_volumes
+auto_include_fixed_volumes
+auto_include_removable_refs_volumes
+auto_include_removable_volumes
+auto_remove_moved_ntfs_volumes
+auto_remove_moved_refs_volumes
+auto_remove_offline_ntfs_volumes
+auto_remove_offline_refs_volumes
+auto_scroll_repeat_delay
+auto_scroll_repeat_rate
+auto_scroll_view
+auto_size_1
+auto_size_2
+auto_size_3
+auto_size_aspect_ratio_x
+auto_size_aspect_ratio_y
+auto_size_path_x
+auto_size_path_y
+auto_size_width_only
+awake
+b6bKb/e4e
+background-color: #ccc;
+background-color: #eee;
+background_color
+bad BytesPerFileRecordSegment %u
+bad MFT record length %d for nonresident
+bad NTFS signature: %t
+bad ReFS signature: %t
+bad US %x != %x
+bad al len %u
+bad attribute len %u
+bad file pos %I64u
+bad file record type %08x
+bad flip sort %d
+bad mapping pair addr %p > end %p
+bad mapping pair cluster count addr %p > end %p
+bad mapping pair offset size addr %p > end %p
+bad name flag %02x
+bad preview init - couldn't create source class
+bad query size in COPYDATA_IPC_QUERY %d >= %d
+bad refs sector size %u
+bad sector size %u
+base_fragmented_record_count %u
+beta_updates
+bind failed %d
+bind to family %d, protocol %d, socktype %d
+bind to parent
+bitdepth
+bitdepth:
+bitdepth:<bitdepth>
+blank
+body {
+body, td, div {
+bookmark
+bookmark_organize_high
+bookmark_organize_wide
+bookmark_organize_x
+bookmark_organize_y
+bookmark_remember_case
+bookmark_remember_diacritic
+bookmark_remember_filter
+bookmark_remember_index
+bookmark_remember_path
+bookmark_remember_regex
+bookmark_remember_search
+bookmark_remember_sort
+bookmark_remember_view
+bookmark_remember_wholeword
+bookmarks
+border-width: 0px;
+bring_into_view
+build
+build fs list
+build indexes
+bytes
+bytes=
+bytes_per_cluster %d
+bytes_per_cluster %u
+bytes_per_file_record %u
+bz_internal_error
+bzip2 fatal error %d
+cache canceled
+cached icons only %d
+cached oneclickactivate %d
+cached underline %d
+caching...
+calculate folder sizes: %f seconds
+can not instance preview CLSID
+cancel_delay
+case:
+change_search_rtl_reading_action
+character value in \u.... sequence is too large
+character value in \x{} or \o{} is too large
+check for file list changes
+check for volume change: rebuild required
+check journal ids
+check journal ids volume %d
+check_for_updates_on_startup
+checked for file list changes in %f seconds
+child:
+child:<filename>
+childcount
+childcount:
+childcount:<count>
+childfilecount
+childfilecount:
+childfilecount:<count>
+childfoldercount
+childfoldercount:
+childfoldercount:<n>
+choose-language
+choose-volumes
+cl: %s
+clear filelist monitor
+clear folder updates
+clear monitors
+clear old db
+clear queries
+clear read dir changes
+clear_selection_on_search
+client %d write pending
+client event %d %d
+client-svc
+close
+close_on_execute
+closeall
+closing ) for (?C expected
+cmdline %S
+cntrl
+color:#000;
+color:#666;
+column_pos
+column_visible
+column_width
+comdlg32.dll
+coming
+command
+comment:
+comment:<text>
+conditional group contains more than two branches
+config
+config volume: %s | %s | %s | %d
+config_load
+config_save
+connect
+connect failed %d
+connect named pipe failed %d
+connect to the service pipe with the specified name.
+connect...
+connect_history_hosts
+connect_history_link_types
+connect_history_ports
+connect_history_usernames
+connected
+connecting to %s:%s
+connecting... family %d
+console
+content %s
+content range start: %I64u, size: %I64u
+content:
+content:<text>
+contenta:
+contentw:
+context_menu_shell_extensions
+context_menu_type
+control %u
+control_shift_action
+convert all folder parent indexes into folder parent folders %f seconds
+convert parent frn to parent pointers: %f seconds
+convert security descriptor %S
+convert security descriptor FAIL %u
+convert security descriptor OK
+convert_forward_slash_to_backslash
+copies or substantial portions of the Software.
+copy config
+copy config copy
+copy failed: %d
+copy_path_folder_append_backslash
+copyto
+corrupt file attributes array
+corrupt file attributes sorted array
+corrupt file date accessed array
+corrupt file date accessed sorted array
+corrupt file date created array
+corrupt file date created sorted array
+corrupt file date modified array
+corrupt file date modified sorted array
+corrupt file extension sorted array
+corrupt file name array
+corrupt file path sorted array
+corrupt file size array
+corrupt file size sorted array
+corrupt folder attributes array
+corrupt folder date accessed array
+corrupt folder date created array
+corrupt folder date modified array
+corrupt folder name array
+corrupt folder path array
+corrupt folder size array
+corrupt recent change array
+corrupt run history count array
+corrupt run history data array
+corrupt run history date array
+corrupt search history count
+could not find root %d %t
+couldnt get fd from %016I64x %x
+count
+count %d
+count:
+count:<max>
+create db %d
+create db time taken: %f seconds
+create folder indexes, excluded orphaned folders.
+create mutex
+create ntfs monitor %s
+create ntfs root list: %f seconds
+create refs monitor %s
+create refs root list: %f seconds
+create shell object.
+create stream from %s failed
+create thread
+create tray
+create volume list
+create-file-list
+create-file-list-exclude-files
+create-file-list-exclude-folders
+create-file-list-include-only-files
+create-usn-journal
+createnamedpipe %S
+creation_time
+credits
+ctrl_mouse_wheel_action
+current
+current_sort
+current_sort_alternate_row
+current_sort_alternate_row_highlighted
+current_sort_highlighted
+custom_verb01
+custom_verb02
+custom_verb03
+custom_verb04
+custom_verb05
+custom_verb06
+custom_verb07
+custom_verb08
+custom_verb09
+custom_verb10
+custom_verb11
+custom_verb12
+d"e"r"s"v"w"z"{"
+d#oIq
+d$ AUAVAWH
+d$ AUH
+d$ E3
+d$ thff
+d$(Ic
+d$0E3
+d$0H;
+d$0Hc
+d$0Ic
+d$0IcD$ M
+d$0IcL$ M
+d$0McD$ I
+d$<+l$0D+d$4
+d$<D+l$0D+d$4
+d$@E3
+d$@ff
+d$Pt_
+d$XE3
+d$`E3
+d$hE3
+d$hMcw
+d$ht%
+d$ht/E
+d$pt=
+d$xE3
+d$xM;
+d$|+l$pD+d$t
+dRdVetf
+da:<date>
+dadupe:
+daspud
+data available on ntfs monitor %d
+data available on refs monitor %d
+data event %d %d
+data run array count %d
+data run offset %u
+date_accessed
+date_created
+date_created_ascending
+date_created_column
+date_created_descending
+date_descending_first
+date_format
+date_modified
+date_modified_ascending
+date_modified_column
+date_modified_descending
+date_recently_changed
+date_recently_changed_ascending
+date_recently_changed_column
+date_recently_changed_descending
+date_run
+date_time_align
+date_time_order
+dateaccessed
+dateaccessed:
+dateaccessed:<date>
+dateaccesseddupe:
+datecreated
+datecreated:
+datecreated:<date>
+datecreateddupe:
+datemodified
+datemodified:
+datemodified:<date>
+datemodifieddupe:
+daterun
+daterun:
+daterun:<date>
+david.carpenter@voidtools.com
+day/month/year, month/day/year or year/month/day depending on locale settings
+db %d
+db_apply_settings
+db_cancel_query
+db_check_for_volume_change
+db_clear_ghosts
+db_compress
+db_deselect_all
+db_deselect_result
+db_destroy
+db_destroy_query
+db_file_exists
+db_find_first_file
+db_find_nearest_string_match_result
+db_find_next_file
+db_folder_exists
+db_folders_check_for_updates
+db_folders_update_all_now
+db_folders_update_now
+db_get_cached_result_file_info
+db_get_file_attributes
+db_get_file_result_count
+db_get_folder_result_count
+db_get_last_run_result_index
+db_get_result_count
+db_get_result_date_recently_changed
+db_get_result_date_run
+db_get_result_extension
+db_get_result_file_attributes
+db_get_result_file_info
+db_get_result_file_info_change
+db_get_result_file_list_filename
+db_get_result_full_path_name
+db_get_result_index_from_filename
+db_get_result_name
+db_get_result_path
+db_get_result_run_count
+db_get_run_count_by_filename
+db_get_selection_count
+db_get_selection_full_path_name
+db_get_selection_result_index
+db_get_sort
+db_get_top_run_result_index
+db_ghost_selection
+db_invert_all_selection
+db_invert_result_selection
+db_is_folder_result
+db_is_folder_selection
+db_is_ghost_result
+db_is_ntfs_drive_indexed
+db_is_result_selected
+db_is_root_result
+db_is_root_selection
+db_itemref_destroy
+db_itemref_get
+db_itemref_set
+db_load
+db_location
+db_monitor_folder_read_directory_changes_update
+db_monitor_restart_by_handle
+db_monitor_restart_by_volume
+db_monitor_set_pause
+db_monitor_stop_by_handle
+db_monitor_stop_by_volume
+db_monitor_unregister_device_notification_by_handle
+db_monitor_unregister_device_notification_by_volume
+db_multi_user_filename
+db_query_create
+db_query_get_total_result_size
+db_query_get_total_selection_size
+db_query_search
+db_read_extended_info_on_selection
+db_read_extended_info_on_selection(): %f seconds
+db_rebuild
+db_refresh
+db_request_fileinfo
+db_run_history_changed
+db_run_history_delete
+db_run_history_save
+db_save
+db_save_local %d folders, %d files
+db_select_all
+db_select_result
+db_select_result_range
+db_set_run_count_by_filename
+db_set_selection_run_count
+db_sort
+db_update_thread_priority
+dbch_devicetype %d, dbch_size %d
+dc:<date>
+dcdupe:
+dddd, MMMM dd, yyyy
+de4dcod3
+debug
+debug-log
+debug_log
+debuglog
+december
+default %08x
+default font %S %d
+delete
+delete-usn-journal
+deleteme %d:%d %p %t
+depth
+depth:
+descending
+desktop-shortcut
+destroy service
+destroy ui
+details
+device event %08x
+diacritics
+diacritics:
+dialog ret %d %d
+different names for subpatterns of the same number are not allowed
+digit
+digit expected after (?+
+digits missing in \x{} or \o{}
+dimension
+dimension:
+dimensions
+dimensions:
+dimensions:<w>X<h>
+disable-
+disallowed Unicode code point (>= 0xd800 && <= 0xdfff)
+disconnected from server
+display_full_path_name
+dm:<date>
+dmdupe:
+double_buffer
+double_click_path
+double_quote_copy_as_path
+down.gif
+dr:<date>
+dragdrop %d %d
+dragdrop bitmap %d x %d screen_high %d
+draw_focus_rect
+drive-links
+drop effect %d
+drop_target
+drop_target_highlighted
+duTIc
+dupe:
+dupeattrib:
+dupeda:
+dupedc:
+dupedm:
+dupenamepart:
+dupesize:
+d|oHc
+e A_A^A]A\]
+eHA_A^A]A\_^[]
+editor_high
+editor_maximized
+editor_wide
+editor_x
+editor_y
+efu-association
+empty
+empty:
+enable-
+endsession %p
+endwith:
+enter main loop
+enter setfocus
+erroffset passed as NULL
+esc_cancel_action
+etp_client_rewrite_patterns
+etp_client_rewrite_substitutions
+etp_server_allow_file_download
+etp_server_bindings
+etp_server_enabled
+etp_server_log_delta_size
+etp_server_log_file_name
+etp_server_log_max_size
+etp_server_logging_enabled
+etp_server_password
+etp_server_port
+etp_server_username
+etp_server_welcome_message
+event %p %p
+event start %p
+everything
+everything.gif
+exact:
+exact:type:
+exclude %s
+exclude %t
+exclude files
+exclude folders
+exclude the semicolon delimited wildcard filter for files.
+exclude the semicolon delimited wildcard filter for folders.
+exclude_files
+exclude_folders
+exclude_hidden_files_and_folders
+exclude_list_enabled
+exclude_system_files_and_folders
+excluded file: %t
+excluded folder: %t
+exec: command %s
+exec: depth %d 
+exec: exec %s
+exec: first expr
+exec: fullfilename %s
+exec: get name part of %s
+exec: got %s
+exec: main thread regained focus
+exec: namepart
+exec: parent
+exec: shellexecute (idlist) file:%s param:%s
+expand_environment_variables
+expected allocation-delta
+expected argument for switch
+expected max-size
+expected null terminator at the end of IPC query struct (search string)
+expected volume
+explore
+explore_command
+explore_command2
+explore_path_command
+explore_path_command2
+export: %f seconds
+ext: count %d/%d, %t
+ext:3g2;3gp;3gp2;3gpp;amr;amv;asf;avi;bdmv;bik;d2v;divx;drc;dsa;dsm;dss;dsv;evo;f4v;flc;fli;flic;flv;hdmov;ifo;ivf;m1v;m2p;m2t;m2ts;m2v;m4v;mkv;mp2v;mp4;mp4v;mpe;mpeg;mpg;mpls;mpv2;mpv4;mov;mts;ogm;ogv;pss;pva;qt;ram;ratdvd;rm;rmm;rmvb;roq;rpm;smil;smk;swf;tp;tpr;ts;vob;vp6;webm;wm;wmp;wmv
+ext:7z;ace;arj;bz2;cab;gz;gzip;jar;r00;r01;r02;r03;r04;r05;r06;r07;r08;r09;r10;r11;r12;r13;r14;r15;r16;r17;r18;r19;r20;r21;r22;r23;r24;r25;r26;r27;r28;r29;rar;tar;tgz;z;zip
+ext:<ext1;ext2;...>
+ext:aac;ac3;aif;aifc;aiff;au;cda;dts;fla;flac;it;m1a;m2a;m3u;m4a;m4b;m4p;mid;midi;mka;mod;mp2;mp3;mpa;ogg;ra;rmi;snd;spc;umx;voc;wav;wma;xm
+ext:ani;bmp;gif;ico;jpe;jpeg;jpg;pcx;png;psd;tga;tif;tiff;webp;wmf
+ext:bat;cmd;exe;msi;msp;scr
+ext:c;chm;cpp;csv;cxx;doc;docm;docx;dot;dotm;dotx;h;hpp;htm;html;hxx;ini;java;lua;mht;mhtml;odt;pdf;potx;potm;ppam;ppsm;ppsx;pps;ppt;pptm;pptx;rtf;sldm;sldx;thmx;txt;vsd;wpd;wps;wri;xlam;xls;xlsb;xlsm;xlsx;xltm;xltx;xml
+extended MFT USA Count %u
+extended MFT USA Offset %u
+extended MFT attribute_offset %u
+extended MFT base_frn %u
+extended MFT bytes_allocated %u
+extended MFT bytes_in_use %u
+extended MFT flags %u
+extended MFT lsn %I64u
+extended MFT name_count %u
+extended MFT next_attribute_number %u
+extended MFT sequence_number %u
+extended MFT type %t
+extended fragmented file record missing base file record with attribute list %016I64x
+extended_information_cache_monitor
+extension
+extension_ascending
+extension_descending
+extra_large_thumbnail_size
+f)l$@H
+f9;tk
+f9\$`u*H
+f=7au
+fA9(t
+fA9(u
+fA94$M
+fA97D
+fA9;tEff
+fA9;u
+fA9D$ vr
+fD9#t
+fD9#u
+fD9%y
+fD9+H
+fD9+t
+fD9+u
+fD93t
+fD93u
+fXHcN`M
+failed to SHOpenFolderAndSelectItems
+failed to alloc sector buf
+failed to create config file %s
+failed to create event %d
+failed to create thread %d: %p
+failed to createnamedpipe %d
+failed to dopreview %08x
+failed to get IID_IPersistStream from stream
+failed to get memory
+failed to get refs drive geometry %u
+failed to init ifilter
+failed to load config %s %d
+failed to load config empty ini
+failed to load stream
+failed to open dir %016I64x%016I64x %d
+failed to open directory %d
+failed to open volume %s %d
+failed to query USN Journal %d
+failed to read NTFS boot sector: %u
+failed to read all refs boot record %u
+failed to read drive geometry %u
+failed to read refs boot record %u
+failed to register class %s %d
+failed to rename config file %s to %s %d
+failed to save %s %d
+failed to set THREAD_MODE_BACKGROUND_BEGIN %d
+failed to set file pointer
+failed to set file pointer to boot sector %u
+failed to set file pointer to refs boot record %u
+failed to set preview window %08x
+failed to set rect %08x
+failed to unload preview
+failed to write to config file %s
+fast_ascii_search
+fast_attributes_sort
+fast_date_accessed_sort
+fast_date_created_sort
+fast_date_modified_sort
+fast_extension_sort
+fast_path_sort
+fast_size_sort
+favicon.ico
+february
+file-list
+file.gif
+file:
+file_list_filename
+file_list_filename_ascending
+file_list_filename_column
+file_list_filename_descending
+file_list_relative_paths
+filelist out of date
+filelist:
+filelist:"
+filelist:<fn1|fn2|...>
+filelist_monitor_changes
+filelistfilename:
+filelistfilename:<name>
+filelists
+filename
+filenamepart(
+files:
+filter
+filter_case
+filter_diacritics
+filter_everything_name
+filter_organize_high
+filter_organize_wide
+filter_organize_x
+filter_organize_y
+filter_path
+filter_regex
+filter_search
+filter_whole_word
+filtercase:
+filterdiacritics:
+filterpath:
+filterregex:
+filters
+filters_right_align
+filters_tab_stop
+filters_visible
+filters_wide
+filterwholeword:
+find %d %t
+find excluded
+find include onlys: %f seconds
+find recent changes on %s
+find root: %f seconds
+find uncached items...
+find_mount_points_on_removable_volumes
+find_subfolders_and_files_max_threads
+finished sort, time taken %f seconds
+fire create events
+first-instance
+focus-bottom-result
+focus-last-run-result
+focus-most-run-result
+focus-results
+focus-top-result
+focus_search_on_activate
+folder
+folder FRN array corrupt
+folder name %t found, yet FRN 0x%016I64x does not exists
+folder name array corrupt
+folder name os_qsort: %f seconds
+folder-context-menu
+folder.gif
+folder:
+folder_buffer_size_list
+folder_idlist %p
+folder_monitor_changes
+folder_rescan_if_full_list
+folder_update_ats
+folder_update_days
+folder_update_interval_types
+folder_update_intervals
+folder_update_rescan_asap
+folder_update_thread_mode_background
+folder_update_types
+folderop: %d, fileop: %d, term: %s
+folders
+folders:
+font-family: Arial, sans-serif;
+font-size: 125%;
+font-size: 12px;
+font-size: 150%;
+font-size:64px;
+font-weight: bold;
+font_size
+foo%s
+foo.%s
+force_path_left_align
+force_path_ltr_order
+foreground_color
+found %d files, size %d, db search time taken: %f seconds
+found %d folders, size %d, db search time taken: %f seconds
+found data run with vcn %I64u
+found extended MFT file record %016I64x base %016I64x
+found file name dupe %t
+found folder NTFS FRN dupe %d:%016I64x
+found folder REFS FRN dupe %d:%016I64x%016I64x
+found folder name dupe %t
+found root %t
+found root name dupe %t
+frame overflow %d + %d > %d
+freeaddrinfo
+friday
+frn: invalid volume handle
+frn:<frn>
+fs NTFS %s %d
+fs out of date %d
+fsi:<index>
+ftp-links
+ftp://%s/%s
+ftp://host/C:
+ftp_allow_port
+ftp_check_data_connection_ip
+full_row_select
+fullscreen
+function:<=value
+function:<value
+function:=value
+function:>=value
+function:>value
+function:start-end
+function:start..end
+function:value
+g(g kbkyk
+gVgyk
+gdi32.dll
+genre:
+genre:<text>
+get Text
+get chunk
+get fd: not a file record
+get fd: not inuse
+get menu %d %d
+get runcount %d %s
+get_key_name_text
+getaddrinfo
+getaddrinfo failed %d
+ghost selection
+gigantic
+gkp4l(g
+got count %d
+got folder_view
+got header
+got item %d %p
+got iwf
+got iwi
+got iws
+got menu %d
+got menu 1
+got ntfs file record %I64x %I64u %d
+got path %s
+got persist folder2
+got pidl
+got preview handler %f seconds
+got preview handler from class
+got preview handler from ext
+got refs file handle from id
+got service_provider
+got shell folder %s
+got shell_browser
+got shell_view
+got stream
+got sw
+gr(a|e)y
+graph
+group name must start with a non-digit
+h,j,l,Q
+h@I+h E
+hA]_^[
+hA^_^[
+hA_A]^[
+hA_A^_^][
+header
+header size %d
+header_high
+height
+height:
+height:<height>
+hhctrl.ocx
+hide_empty_search_results
+hide_on_close
+high:
+highlighted
+hittest %d: %d : %d : %08x
+home_filter
+home_index
+home_match_case
+home_match_diacritics
+home_match_path
+home_match_whole_word
+home_regex
+home_search
+home_sort
+home_view
+hot_highlighted
+hotkey_explorer_path_search
+hotkey_user_notification_state
+hours
+hover
+http:
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0\
+http://ocsp.digicert.com0]
+http://www.digicert.com/CPS0
+http://www.voidtools.com/everything/beta-update.ini
+http://www.voidtools.com/everything/update.ini
+http_server_allow_file_download
+http_server_bindings
+http_server_default_page
+http_server_enabled
+http_server_header
+http_server_home
+http_server_items_per_page
+http_server_log_delta_size
+http_server_log_file_name
+http_server_log_max_size
+http_server_logging_enabled
+http_server_password
+http_server_port
+http_server_show_drive_labels
+http_server_strings
+http_server_username
+http_title_format
+https://%s
+https://www.voidtools.com/
+https://www.voidtools.com/donate/
+https://www.voidtools.com/downloads/
+https://www.voidtools.com/downloads/#language
+https://www.voidtools.com/support/everything/
+iH9sXtT
+iHct$ M
+icon_shell_extensions
+icons_only
+idCommand %d
+idlist %p
+ignore internal extended fragmented file record %016I64x
+ignore name attr for internal ntfs folder %016I64x
+image/gif
+image/x-icon
+imm32.dll
+inc runcount %d %s
+include only %t
+include only the semicolon delimited wildcard filter for files.
+include_only_files
+inconsistent NEWLINE options
+index
+index.html
+index_attributes
+index_date_accessed
+index_date_created
+index_date_modified
+index_etp_server
+index_file_list
+index_folder_size
+index_link_type
+index_recent_changes
+index_size
+infolder:
+infolder:<path>
+initheader
+initsearch
+input layout %d %08x %d
+install
+install service...
+install-
+install-client-service
+install-config
+install-language
+install-options
+install-service
+install-service-pipe-name
+install-service-port
+install-service-security-descriptor
+instance
+instance_name
+internal error: code overflow
+internal error: invalid forward reference offset
+internal error: overran compiling workspace
+internal error: previously-checked referenced subpattern not found
+internal error: unexpected repeat
+internal error: unknown opcode in find_fixedlength()
+invalid UTF-16 string
+invalid UTF-32 string
+invalid UTF-8 string
+invalid bytes_per_cluster %u
+invalid bytes_per_file_record %u
+invalid bytes_per_sector %u
+invalid condition (?(0)
+invalid db magic
+invalid db query term parse frame pop %d
+invalid escape sequence in character class
+invalid file index %u
+invalid file record access at offset %u len %u
+invalid folder index %u
+invalid index type %d
+invalid monitor index %u
+invalid parent folder index %d >= %d + %d
+invalid range in character class
+invalid rdc file name access %d %d
+invalid rdc file name length access %d %d
+invalid rdc next entry offset %d %d
+inverse_size_ascending
+inverse_size_descending
+invert_layout
+invert_layout_action
+invoke %s
+invoke hres %08x
+invoke hres non-ex %08x
+is cut done
+is foreground
+is out of date volume available %s: %d
+is-run-as
+iscut %d
+isor %d isphrase %d term '%s'
+items %d
+iwf initialized
+iwi initialized
+iws initialized
+january
+january|february|march|april|may|june|july|august|september|october|november|december
+jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec
+jeieaJikoo
+jj@0HK4
+k (Shiki)
+k VATAUH
+k0i0$
+k49C8t
+k>|us
+kXD+l$@
+ke Engelbrektson
+kernel32.dll
+l !"#$%&'()*+,-./01234567
+l$ ATAUAVH
+l$ ATH
+l$ D8e
+l$ H;
+l$ M+
+l$ VATAUH
+l$ VATAVH
+l$ VH
+l$ VWATAUAVH
+l$ VWATAUAW
+l$ VWATAUAWH
+l$ VWATH
+l$ WH
+l$(E3
+l$(E8e
+l$,LcD$(D
+l$0A+
+l$0D8
+l$0D9
+l$0E3
+l$0u$H
+l$4D9
+l$8+l$03
+l$8HcM
+l$8I;
+l$8ff
+l$8}BH
+l$@A+
+l$@A;
+l$@D+
+l$@E3
+l$@Hc
+l$@ff
+l$@fff
+l$H+|$D
+l$HA_A]A\_^
+l$Hff
+l$Hfff
+l$L+\$@
+l$LD+d$@+l$D
+l$PA_A^A]A\_^
+l$PE3
+l$PI;
+l$Pff
+l$Pfff
+l$Pt3
+l$X+l$P
+l$Xt*<0r!<9w
+l$Xu}A
+l$X~TI
+l$\;|$`
+l$\fff
+l$`E3
+l$h+l$@D
+l$hD+l$`
+l$hE3
+l$hI;
+l$hff
+l$hfff
+l$hthH
+l$pHc
+l$psXD8/H
+l$ptPA
+l$xE3
+l$xt#
+l$xt(
+l$xt5
+l$xtP
+l$xtqH
+l4lkp*r6r;r?rGrYr[r
+landscape
+language
+large
+large_thumbnail_size
+last error %u
+last_export_type
+last_options_page
+last_write_time
+leave folder update
+leave setfocus
+left over count %u
+len %u flags %04x
+len:<length>
+licence
+license
+link-type
+listen event %d %d
+listen failed %d
+listview_item_high
+listview_tooltips
+lllllll
+lllllllllllllllll,-3
+lllllllllllllllllllKLMNOPlQlQlQQRllRSTUVWXYZ[\]^_`abcldefghlijkf
+lng file opened!
+load complete: rebuild required
+load everything icon
+load icon
+load localization
+load-delay
+load_fileinfo_priority
+load_icon_priority
+load_thumbnail_priority
+loaded %d folders, %d files, in %f seconds
+loaded %d of %d changes in %f seconds
+loaded run history in %f seconds
+local
+lookbehind assertion is not fixed length
+lower
+lowercase(
+lvm_scroll
+lxe"}
+m0k0$
+m2View
+mQ.bx
+mXHcM`M
+mailto:%s
+main.css
+major
+malformed \P or \p sequence
+malformed number or name after (?(
+mapping pair cluster offset: %I64d, cluster count: %I64u
+mapping pair cluster offset: %I64d, cluster count: %I64u, record count: %I64u run: %I64u
+mapping pair len size %d
+mapping pair offset size %d
+march
+margin-left: 4px;
+margin-right: 4px;
+margin-top: 32px;
+margin: 0px;
+match-path
+match_case
+match_diacritics
+match_path
+match_path_when_search_contains_path_separator
+match_regex
+match_whole_filename_when_using_wildcards
+match_whole_word
+max_hidden_windows
+max_recv_size
+max_threads
+max_thumbnail_size
+max_zoom
+maximized
+maxsize changed.
+mciSendString %d
+mciSendStringW
+medium
+medium_thumbnail_size
+mem_alloc
+mem_virtual_alloc
+menu count %d
+menu item info fail %d
+menu type 2
+menu type 3
+menu_escape_amp
+menu_folder_separator
+menu_folders
+menu_items_per_column
+message
+mft_lcn %I64u
+min_thumbnail_size
+min_zoom
+minimize_to_tray
+minimized
+minor
+minutes
+missing )
+missing ) after comment
+missing opening brace after \o
+missing search history count
+missing search history date
+missing terminating ] for character class
+miyano
+modification, are permitted provided that the following conditions are met:
+modifieddata
+modifiedheader
+modify=%04d%02d%02d%02d%02d%02d;
+monday
+monitor cleanup
+monitor stopped %u
+monitor thread exit
+monitor wakeup timer %u
+monitor-pause
+monitor-resume
+monitor_pause
+monitor_resume
+monitor_retry_delay
+monitor_thread_mode_background
+monitor_unregister_device_notification_by_handle %p
+monitor_update_delay
+monitors paused.
+monitors resumed.
+month
+month/year or year/month depending on locale settings
+months
+more data than file record run %u > %I64u
+mouseover
+mouseover_current_sort
+mouseover_current_sort_highlighted
+mouseover_highlighted
+moveto
+mscoree.dll
+msctls_statusbar32
+multithreaded sort: items %d, ideal threads %d, actual threads %d
+mutex exists
+n Szab
+n"onq+r"t
+n,scA
+n1H9/t
+n2o2p2q2r2s2t2u2~2v2w2x2y2z2{2H
+nE9o,E
+nXHcF`M
+nXHcN`L
+nXHcN`M
+nagan
+name array %d/%d o %d n %d
+name is too long in (*MARK), (*PRUNE), (*SKIP), or (*THEN)
+name-part
+name_ascending
+name_descending
+nameheader
+namepart
+namepartdupe:
+need to rescan %d %s
+new results %d
+new root count %d
+new thread (%d)
+new-window
+new_file %p %t
+new_inherit
+new_parent %p %t
+new_window_key
+next update at %d/%02d %d:%02d
+ngJm<
+no db file
+no error
+no getmsg
+no menu %d
+no method for opening by frn.
+no refs FSCTL_READ_FILE_USN_DATA
+no search history hwnd
+no-db
+noascii:
+nocase:
+nodiacritics:
+noexact:
+nofileonly:
+nofiles:
+nofiltercase:
+nofilterdiacritics:
+nofilterpath:
+nofilterregex:
+nofilterwholeword:
+nofolderonly:
+nofolders:
+non-hex character in \x{} (closing brace missing?)
+non-octal character in \o{} (closing brace missing?)
+nonresident name attribute
+nonresident standard information
+nopath:
+nopath:len:
+nopath:wfn:"
+noregex:
+normal
+nosubfolders:
+nothing to repeat
+november
+nowfn:
+nowholefilename:
+nowholeword:
+nowholewords:
+nowildcards:
+noww:
+ntfs index: %d folders, %d files
+ntfs monitor %p %p
+ntfs monitor out of date
+ntfs monitor read error %d retrying in 30 seconds...
+ntfs monitor restarted %s
+ntfs service monitor %p %p %d
+ntfs volume create list %f seconds
+ntfs_enum_mft
+ntfs_volume_guids
+ntfs_volume_include_onlys
+ntfs_volume_includes
+ntfs_volume_load_recent_changes
+ntfs_volume_monitors
+ntfs_volume_paths
+ntfs_volume_roots
+null parent file: %t
+number after (?C is > 255
+number is too big
+number too big in {} quantifier
+numbers out of order in {} quantifier
+o/}7~K
+o84s[
+o@H;oHL
+octal value is greater than \377 in 8-bit non-UTF-8 mode
+october
+of the Software, and to permit persons to whom the Software is furnished to do
+offset
+offset %d size %d
+old file %p
+ole initialize: %08x
+ole32.dll
+ontop
+open "%s" alias EVERYTHING
+open monitor volume %d
+open service volume %s
+open volume %S
+open volume %u %p
+open_file_command
+open_file_command2
+open_folder_command
+open_folder_command2
+open_folder_path_command
+open_many_files_warning_threshold
+open_path_command2
+openas
+opened %d %f
+opennew
+openpath
+operator_precedence
+options
+orientation:
+orientation:<type>
+os_SHOpenFolderAndSelectItems %08x
+os_SHOpenFolderAndSelectItems %p %s
+os_create_file %s %d
+os_event_create
+os_qsort file names indexes: %f seconds
+os_register_class
+os_sh_bind_to_parent crashed
+os_sh_bind_to_parent on desktop failed
+os_thread_create
+os_write(): %d: Failed to write %d bytes
+other folder sorts: %f seconds
+out of date m %d %d
+out of date: rebuild required
+out of memory %p
+out of memory, size: %p, error: %u
+outside click
+overlay_index %d
+ozzii
+o|fff
+p WAUAVH
+p#k%?
+p%w+q4
+p;u|/i
+pA]A\_^]
+pA]_^
+pA^A\_][
+pA_A^A\][
+pA_^]
+padding-bottom: 2px;
+padding-left: 4px;
+padding-left: 8px;
+padding-right: 4px;
+padding-right: 8px;
+padding-top: 32px;
+padding-top: 4px;
+padding: 0px;
+padding: 2px 15px 2px 2px;
+padding: 2px;
+padding: 4px;
+padding:2px;
+parent
+parent backup count %d
+parent(
+parent-path
+parent:
+parent:"
+parent:<path>
+parentheses are too deeply nested
+parentheses are too deeply nested (stack check)
+parentheses nested too deeply
+parents
+parents:
+parents:<count>
+parse display name %S
+parse display name OK
+parts
+paste
+paste_new_line_op
+pasv connected.
+pasv event %d %d
+path len %d
+path-instance
+path:
+path:len:
+path_ascending
+path_column
+path_descending
+pathdata
+pathheader
+pathpart
+pathpart(
+pidlsize %d %d
+pidlsize %d %d %d
+pixels
+portrait
+preferences
+preview
+preview_background_color
+preview_context
+preview_fill
+preview_load_size
+preview_mag_filter
+preview_min_filter
+preview_release_handler_on_clear
+preview_tab_stop
+preview_visible
+preview_x
+print
+printto
+process extended MFT file record
+processed %I64u / %I64u file records
+processed ntfs usn records in %f seconds
+processed refs usn records in %f seconds
+processed usn records in %f seconds
+properties
+punct
+q!r!s!v
+qRsb+
+query
+query.dll
+quick-launch-shortcut
+quot:
+r&fR{a|
+r*sqt
+r.fff
+rWwUL;
+range out of order in character class
+range:
+rc:<date>
+rdc rename %s to %s
+rdc wait %d %d
+rdwbH
+read NTFS usn journal failed %d
+read REFS usn journal failed %d
+read cluster failed
+read error %I64x %d
+read size %d
+read total:%p, remaining: %u, numread: %u
+read usn journal: bad cb %d
+read usn journal: bad file name offset %d, length %d
+read usn journal: bad record length %d
+read usn journal: record overflow
+read-only
+read_directory_changes after update events
+read_directory_changes free events
+read_directory_changes free got fd events
+read_directory_changes free monitors
+read_directory_changes remove events
+read_directory_changes remove got fd events
+read_directory_changes stop get fd thread
+read_directory_changes stop thread
+readd files
+readd folders
+readdir %016I64x%016I64x
+readdir %d
+rebuild
+rebuild root list with existing roots: %f seconds
+rebuild thread started
+rebuild: excludes changed
+rebuild: filelist filename changed
+rebuild: filelist index type changed
+rebuild: flags changed
+rebuild: folder filename changed
+rebuild: folder index type changed
+rebuild: guid changed
+rebuild: include only changed
+rebuild: index removed
+rebuild: new filelist volume
+rebuild: new folder volume
+rebuild: new ntfs volume
+rebuild: new refs volume
+rebuild: ntfs index type changed
+rebuild: path changed
+rebuild: refs index type changed
+rebuild: root changed
+rebuild: structure changed
+recent change date exists
+recent change pointer exists
+recent changes array memory usage: %d bytes
+recentchange
+recentchange:
+recentchange:<date>
+recursive call could loop indefinitely
+recv failed %d
+redraw
+reference to non-existent subpattern
+refresh
+refs monitor %p %p
+refs monitor out of date
+refs monitor read error %d retrying in 30 seconds...
+refs monitor restarted %s
+refs sector size %d
+refs service monitor %p %p %d
+refs_file_id_extd_directory_info_buffer_size
+refs_volume_guids
+refs_volume_include_onlys
+refs_volume_includes
+refs_volume_load_recent_changes
+refs_volume_monitors
+refs_volume_paths
+refs_volume_roots
+reg: %s
+regex
+regex:
+regular expression is too large
+reindex
+rem dbl sep
+remaining MFT Entries %I64u
+remove events
+remove files from %s
+remove ntfs folder %t with children
+remove orphaned folder children
+remove refs folder %t with children
+remove subfolders and files from %t
+removed %d orphaned files in %f seconds
+removed %d orphaned folders in %f seconds
+removed %d subfolders and %d files from %t in %f seconds
+removed %u dupes in %f seconds
+rename
+rename %t to %t
+rename:
+rename_high
+rename_match_case
+rename_move_caret_to_selection_end
+rename_nav
+rename_regex
+rename_select_filepart_only
+rename_wide
+rename_x
+rename_y
+renamed %d subfolders and %d files from %t in %f seconds
+repeated subpattern is too long
+repeating a DEFINE group is not allowed
+replace old root folder with new root 
+replace_exact_trailing_star_dot_star_with_star
+rescan update db
+rescan-all
+research %d
+reset_vscroll_on_search
+resident MFT data
+resort root list: %f seconds
+restart
+restart folder read directory changes monitor %s %p
+restart monitor by handle %p
+result_count
+result_list
+results changed
+resume ntfs monitor %d
+resume refs monitor %d
+retry with base %016I64x for %016I64x
+retry with type_data %016I64x for %016I64x
+reuse_threads
+revision
+root:
+rtl_listview_edit
+run history count exists
+run history data count exists
+run history data count: %d, data: %d bytes
+run history data filename exists
+run history date exists
+run history pointer exists
+run history ptr count: %d
+run-as-admin
+run-on-system-startup
+run_as_admin
+run_count
+run_history_days_to_keep
+run_history_enabled
+run_history_keep_forever
+run_in_background
+runas
+runcount
+runcount:
+runcount:<count>
+runtime error 
+s,v,?
+s,v,j
+s.D8-'
+s0tAHc
+sPD9w
+sSD8-
+sXt.H
+same query
+same query, different sort
+saturday
+save run history
+save-install-options
+saved db: %f seconds
+scan %s
+scan completed in %f seconds
+scan_volume_drive_letters
+scanning %s...
+search
+search '%s' filter '%s' sort %d
+search history
+search-file-list
+search_as_you_type
+search_command_prefix
+search_edit
+search_edit_drag_accept_files
+search_edit_move_caret_to_selection_end
+search_history_add
+search_history_always_suggest
+search_history_always_suggest_extend_toolbar
+search_history_always_suggest_visible_count_max
+search_history_column_count_order
+search_history_column_count_wide
+search_history_column_date_order
+search_history_column_date_wide
+search_history_column_search_order
+search_history_column_search_wide
+search_history_days_to_keep
+search_history_enabled
+search_history_high
+search_history_keep_forever
+search_history_remove
+search_history_show_above
+search_history_show_all_max
+search_history_show_all_sort
+search_history_sort
+search_history_sort_ascending
+search_history_suggestion_max
+search_history_suggestion_sort
+search_history_visible_count_max
+search_history_wide
+search_history_x
+search_history_y
+seconds
+sector size %d
+sectors_per_cluster %d
+select
+select_search_on_focus_mode
+select_search_on_mouse_click
+select_search_on_set_mode
+selected
+selected_highlighted
+selected_hot
+selected_hot_highlighted
+selected_inactive
+selected_inactive_highlighted
+selected_inactive_hot
+selected_inactive_hot_highlighted
+selection: %d/%d: %s
+semicolon delimited list of folders on this volume to include.
+semicolon delimited wildcard filters for which files to exclude.
+semicolon delimited wildcard filters for which files to include.
+send cl
+send failed %d
+send message failed %u
+send message ok
+send path %s
+september
+serial number %I64x, sector size %u, sectors per cluster %u, version %u.%u
+serial_number %I64u
+server-share-links
+service client disconnected by server
+service client monitor clear all
+service client monitor clear all2 
+service-pipe-name
+service-port
+service_pipe_name
+set %d run history in %f seconds
+set help %s
+set hook
+set last error %d
+set ood
+set runcount %d %s
+set sort %d %d
+set: %s
+set_foreground_window_attach_thread_input
+setmode
+setting UTF is disabled by the application
+setting changed %p %p
+setup %f seconds
+setup file systems: %f seconds
+setup files.
+setup files: %f seconds
+setup folders.
+setup folders: %f seconds
+setup indexes.
+shHcD$HH
+shai horn
+shell32.dll
+shell:
+shell:<name>
+shell_max_path
+shfileop failed %d
+shlwapi.dll
+show_copy_full_name
+show_copy_name
+show_copy_path
+show_detailed_listview_tooltips
+show_explore
+show_explore_path
+show_focus_on_search
+show_highlighted_search_terms
+show_in_taskbar
+show_mouseover
+show_number_of_results_with_selection
+show_open_path
+show_preview_handlers %d
+show_preview_handlers_in_preview_pane
+show_selected_item_in_statusbar
+show_size_in_statusbar
+show_tray_icon
+show_window_key
+shutdown
+si %p
+single_click_open
+single_click_tray
+single_parent_context_menu
+size > 128 MB
+size:
+size:<size>
+size=%I64u;
+size[kb|mb|gb]
+size_align
+size_ascending
+size_column
+size_descending
+size_descending_first
+size_format
+size_huge
+size_large
+size_left %d, frame %08x size %08x %d
+size_medium
+size_small
+size_tiny
+sizedata
+sizedupe:
+sizeheader
+sleep %d %d
+small
+snaplen
+so, subject to the following conditions:
+socket failed %d
+sort all results
+sort file indexes.
+sort folder indexes.
+sort type %d
+sort-ascending
+sort-descending
+sort_ascending
+sorting by path...
+sorting cache...
+space
+spare error
+start _db_monitor_ntfs_update_thread_proc
+start _db_monitor_refs_update_thread_proc
+start all monitors (ntfs: %d refs: %d)
+start monitor thread: failed to open volume: %s: %d:
+start rebuild thread
+start service %08x
+start-client-service
+start-menu-shortcuts
+start-service
+startup
+startwith:
+staticwide2 %d -> %d
+status_bar
+status_bar_visible
+statusbar_selected_item_format
+statusbar_size_format
+sticky_vscroll_bottom
+stop folder monitor %s %p
+stop folder read directory changes monitor %p
+stop monitor by handle %p
+stop monitor dbh %p
+stop ntfs monitor %p
+stop ntfs_monitor %s %u %p
+stop refs monitor %p
+stop-client-service
+stop-service
+strippath(
+striproot(
+sub buf killed
+subpattern name expected
+subpattern name is too long (maximum 32 characters)
+success 
+sunday
+sunday|monday|tuesday|wednesday|thursday|friday|saturday
+sun|mon|tue|wed|thu|fri|sat
+support for \P, \p, and \X has not been compiled
+svc-pipe-name
+svc-port
+svc-security-descriptor
+sxHcS,
+syntax error in subpattern name (missing terminator)
+sys img list %p %p %d %d
+system default lid %04x
+t <]t
+t HcH
+t fff
+t!<|t
+t!fff
+t"< t
+t"<0r
+t"<]t
+t"<|t
+t"fff
+t#<0r
+t#<@t
+t#fff
+t$ ATH
+t$ E3
+t$ WATAUAVAW
+t$ WATAUAVAWH
+t$ WATAUAW
+t$ WATAUH
+t$ WATAV
+t$ WD
+t$ WH
+t$ fff
+t$,s^
+t$0E3
+t$0L;C
+t$0ff
+t$0fff
+t$0x]H
+t$0}>
+t$0~KI
+t$4E;
+t$8A^A\_
+t$8H9
+t$8Hc
+t$8I;
+t$8fB
+t$8ff
+t$8fff
+t$8sVH
+t$8wC
+t$<D9l$XH
+t$@A+
+t$@A_A]A\_
+t$@A_A^A]A\_
+t$@E3
+t$@H;
+t$@Hc
+t$@I;
+t$@fB
+t$DE3
+t$H9L$P
+t$H;{xt3
+t$HHc
+t$HIc
+t$HLcl$@I
+t$Hff
+t$Hfff
+t$HtPf
+t$HtcA
+t$H|;
+t$PD8/H
+t$PE3
+t$PH9V0u
+t$PL9
+t$PfB
+t$Pff
+t$Pt<D9
+t$P~EH
+t$Tu+A
+t$XE3
+t$XI;
+t$Xff
+t$`L9t$8u
+t$`ff
+t$`fff
+t$`t7
+t$`tb
+t$fff
+t$hA+
+t$hE3
+t$ht4
+t$t@85
+t$x+W
+t$xA;v
+t$xD+|$tD+t$p
+t$xfff
+t$xt0I9
+t$|+t$t
+t%<EH
+t%D85
+t%IcD
+t%fD9
+t%fff
+t&< t
+t&L9!u!H
+t&fff
+t'<.u
+t'H;=
+t'fff
+t(D8-
+t(H9/t#H
+t(fff
+t)fff
+t*9t$PA
+t*<0r
+t*D85
+t*fff
+t+<0r
+t+fff
+t,fff
+t-<|t)<>u
+t.;D$$~kH
+t.<-u#ff
+t.D85
+t.fff
+t/fff
+t0@8>H
+t0L9|$0t$
+t0fff
+t1$?A
+t1<.u
+t1<0r
+t1H9M
+t1L9d$8u
+t1L9t$8u
+t1U-"
+t29-Q
+t2<.u
+t2=COM
+t2=TT2
+t2D9/}>H;
+t2D97|$H;
+t2fff
+t39\$(t
+t4$?A
+t4< t <
+t4<.t'<;t
+t4<0r
+t4fff
+t5L9d$8
+t5L9t$8
+t5fff
+t6< t-<
+t6fff
+t7LcC$A;
+t7fff
+t8< t.<
+t8fff
+t9D8-
+t9fff
+t:<wu"
+t:HcL$@H
+t:fff
+t;9s D
+t;9t$HA
+t;@85hm
+t;f=_
+t;fff
+t<<<t%<|t!
+t<D8?u7I
+t<L9d$8u
+t<fff
+t=fff
+t>H;=
+t>fff
+t@fff
+tA<"u)H
+tA<ar
+tAE8~ u;I
+tAHcFdD+
+tAfff
+tB<"u*H
+tB<\u
+tB@8-7B
+tBD8-
+tC<|u
+tC@85[p
+tD< t@<
+tD<0r
+tDD9E0u>H
+tDfff
+tEH;=7
+tEfff
+tFM98u;H
+tG9\$`H
+tGfff
+tHHcL$@H
+tHfff
+tJ<"u2H
+tJfff
+tK=TI2
+tKD8-Q
+tLfff
+tMHcE H
+tMfff
+tNH9=
+tOD85
+tOfD9
+tOfff
+tP<%u
+tPfff
+tRfff
+tS9y vNH
+tSD8-$n
+tV<0r
+tVfff
+tW<#tS<?tO
+tXD9 uAD
+tXfff
+tYfff
+tYukx
+t[D9l$8t+H
+t\D8-
+t]fff
+t_9\$`H
+t_<"u
+tab out
+tafff
+taskbar_notification_title_format
+tb9{0t
+tbfff
+tcD9a0t
+tcfff
+td, tr, img {
+tefff
+ter Bas
+term %p, flags: %04x, next: %p, notnext: %p
+termtext %s
+text-align: left;
+text-align: right;
+text-decoration: none;
+text/css
+text/html; charset=UTF-8
+text/plain
+text_size
+tfD9c0t H
+the Software without restriction, including without limitation the rights to 
+themed_toolbar
+therube
+thfff
+this &exact phrase:
+this frn %016I64x
+this software and associated documentation files (the "Software"), to deal in 
+this version of PCRE is compiled without UTF support
+this version of PCRE is not compiled with Unicode property support
+thumbnail getbitmap %s
+thumbnail no desktop %s
+thumbnail parsedisplayname %s
+thumbnail-size
+thumbnail_fill
+thumbnail_load_size
+thumbnail_mouseover
+thumbnail_mouseover_border_color
+thumbnail_mouseover_highlighted
+thumbnail_overlay_icon
+thumbnail_size
+thumbnails
+thursday
+ti;T$$~
+tifff
+time changed %d
+time_format
+title:
+title:<text>
+titlecase(
+tjfff
+tk;\$pu
+tl9=?
+tlH9{
+tmD8-
+to9opt-H
+today
+toggle-window
+toggle_window_from_tray_icon
+toggle_window_key
+tomorrow
+too many forward references
+too many named subpatterns (maximum 10000)
+tooltip created %x
+tooltips
+tooltips_class32
+total run history memory usage: %d bytes
+total size %I64u, calculated in %f seconds
+tqfff
+tr.trdata1:hover, tr.trdata2:hover {
+track
+track menu %p
+track:
+track:<number>
+translucent_selection_rectangle_alpha
+translucent_selection_rectangle_background_color
+translucent_selection_rectangle_border_color
+tray_show_command_line
+trdata1
+trdata2
+trfff
+tsE8 uE
+ttH;=?
+tuesday
+tv<\u
+tvD8->n
+two named subpatterns have the same name
+tx95H0
+txfff
+type:
+type:<type>
+type=%s;
+tz95R8
+t|fff
+t}9-!<
+u H;t$0u4A
+u!H;t$0
+u!v!w!x!x
+u"8D$Xt
+u"L93t
+u"fff
+u%D9s(t
+u%HcD$h
+u(u0u
+u*9t$`
+u+E(I
+u,D9}
+u,L;D$Xu
+u/9-Z
+u0<<u
+u19C\
+u1@8=
+u1L9d$8u
+u1L9t$8u
+u4@8=
+u5L9d$8
+u5L9t$8
+u;D9%
+u>;t$8u
+uDB8D7
+uHH9q
+uJ@85
+uLD8>L
+uNH9=
+uTD85y
+uZfff
+u`uJH
+ubD85
+ucD8#L
+ud@8-
+uf9n(t
+ufD8#L
+ui show hidden %p
+ui_GetShellIDListArray exception %d
+ui_close
+ui_create %p %p
+ui_create leave %p
+ui_show
+ujD8-
+unD9n(t4
+unable to add ntfs file: %t: parent %016I64x not found
+unable to read all of NTFS boot sector: %u
+unable to remove file: %t: file not found
+unable to remove ntfs folder: %016I64x: file not found
+unable to rename ntfs folder: %016I64x: move into child
+unable to rename ntfs folder: %016I64x: new parent not found
+unable to rename ntfs folder: %016I64x: not found
+unable to set focus %u
+unable to update file: %t: file not found
+unable to update file: %t: parent %016I64x not found
+unable to update ntfs folder: %t: folder not found
+unable to update ntfs folder: %t: parent %016I64x not found
+unblock %d %p %p
+underline_icon_titles
+unicodecontent:
+unicows.dll
+uninstall
+uninstall-
+uninstall-client-service
+uninstall-service
+uninstall-user
+unknown
+unknown POSIX class name
+unknown command line switch %s
+unknown option bit(s) set
+unknown property name after \P or \p
+unmatched parentheses
+unprocessed extended MFT file record
+unrecognized character after (? or (?-
+unrecognized character after (?<
+unrecognized character after (?P
+unrecognized character follows \
+unregister_device_notification %p
+unregister_device_notification dbh %p
+unregister_device_notification dbv %08x
+unregister_device_notification volume %p
+unsupported db version
+unsupported mapping offset size %d
+unsupported mapping pair len size %d
+up.gif
+update
+update client %d
+update folder start %s
+update index %s
+update m %d %d
+update monitor %d read: hcjoverlapped %d
+update open volume failed
+update register device notify (ntfs: %d refs: %d)
+update selection %f seconds
+update-notification
+update: available version: %d.%d.%d.%d
+update: download: %S
+update_display_after_mask
+update_display_after_scroll
+update_layout_on_input_language_change
+updated %s in %f seconds
+updated fd for %t in %f seconds
+updir.gif
+upper
+uppercase(
+url-protocol
+urlmon.dll
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+user32.dll
+username:password@host:port
+using existing NTFS index %s
+using existing REFS index %s
+using existing filelist index %s
+using existing folder index %s
+using shell implementation
+usn journal enabled changed.
+usn_record_filter
+utf16becontent:
+utf16becontent:<text>
+utf16content:
+utf16content:<text>
+utf16lecontent:
+utf8 off
+utf8 on
+utf8:
+utf8content:
+utf8content:<text>
+uvD8-
+uvv}v
+ux9t$Pt
+uxtheme.dll
+u|E9e(tvA
+u}fff
+v f=A
+v$fff
+v)fff
+v<y^yey
+v=Y]Bv
+vJw@w
+vTfff
+vUfff
+verbose
+version %d
+version-instance
+vertical-align: middle;
+vertical-align:middle;
+video
+video:
+viewing %d
+vjfff
+voidtools
+voidtools PTY LTD0
+voidtools PTY LTD1
+volume %s is locked or not mounted.
+volume %s: drive type %d
+volume: %s | %s | %s found %d
+w1t^A
+w3t$A
+wPtAH
+wUt9A
+w\tM-
+wait for USN Journal Deletion...
+wait for change notification %d
+wait for service state %u timeout
+wait for service state %u...
+waited %u
+waited for USN Journal Deletion (%f seconds)
+wcharcontent:
+wd=TRK
+wednesday
+weeks
+when ready %d %p %p
+white-space: nowrap;
+whole-word
+whole_word
+wholefilename:
+wholeword
+wholeword:
+wholewords:
+wid %d: %d (%08x)
+wide:
+width
+width:
+width: 0px;
+width: 100%;
+width:<width>
+wildcards:
+window_high
+window_title_format
+window_wide
+window_x
+window_y
+wininet.dll
+winmm
+winmm.dll
+wmenuhelp %08x
+wrap_focus
+write pending...
+write reply %d %u
+ws2_32.dll
+wu.fff
+www.digicert.com1!0
+www.digicert.com1$0"
+www.voidtools.com
+x ATH
+x(u&H
+x-9\$Xt'9\$\t!H
+x<D;qX}6H
+x>yIyHyPyVy]y
+xA_A]^]
+xA_A]_]
+xD;A E
+xJfff
+xRfff
+x_^][
+xbeta
+xdigit
+y7usYi
+year:
+years
+yesterday
+z!{!l
+{ ATH
+{<&{X
+{Xt.H
+{hIcK`I
+{x,y}
+{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{
+{{|[}
+|    Or
+|$ AT
+|$ ATAU
+|$ ATAUAVE
+|$ ATAUAVH
+|$ ATAUE
+|$ ATAUH
+|$ ATD
+|$ ATH
+|$ ATHc
+|$ E3
+|$ Hc
+|$ Hi
+|$ ff
+|$$fff
+|$(+L$L
+|$(A\
+|$(E3
+|$(Hc
+|$(tWH
+|$,s^
+|$09q
+|$0A]A\
+|$0BMu
+|$0E3
+|$0GIF8u,
+|$0Hc
+|$0HcG H
+|$0Lc
+|$0ff
+|$0x\H
+|$8+|$0H
+|$8A^A]A\
+|$8Ic
+|$8ff
+|$8u$H
+|$8~oL
+|$<+t$0+|$4
+|$<+t$0H
+|$<\f
+|$<kx
+|$@;l$\
+|$@H9
+|$@H;
+|$@Hc
+|$@I;
+|$@L;C
+|$@u~D
+|$DIHDRuA
+|$H+|$@
+|$H9sl
+|$HA;
+|$HAuW
+|$HD9
+|$HE3
+|$HHc
+|$HHi
+|$Hfff
+|$Hr&
+|$JfD;
+|$L+|$D
+|$PLc
+|$Pff
+|$Pu$D
+|$P~(
+|$X(t)
+|$X+|$P
+|$XLc
+|$Xfff
+|$Xt)L
+|$XtWH
+|$XuDH
+|$\.rkL
+|$\nu
+|$\nu!L
+|$`@2
+|$`Hc
+|$`HcJ
+|$`ff
+|$h(t)
+|$h@8-#n
+|$hD+
+|$hE3
+|$hHcJ
+|$hIc
+|$hMcw
+|$hfff
+|$htx
+|$pIc
+|$ptS
+|$tH;
+|$x0H
+|$x0u
+|$xE3
+|$xHcJ
+|$xff
+|$xfff
+|$|+l$p
+|5fff
+|6fff
+|8fff
+|9fff
+|<fff
+|Lu?c
+|NS}uP
+}(HcL
+}Ifff
+}Jfff
+}Nfff
+}PADGIF89a
+}Pfff
+}Rfff
+}Tfff
+~#fff
+~Bfff
+~Nfff
+~Qfff
+~jfff
+~qj#k"
